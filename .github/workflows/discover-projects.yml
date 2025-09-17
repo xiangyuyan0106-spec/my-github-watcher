@@ -94,7 +94,7 @@ jobs:
 
           # 创建Python脚本来检测更新
           # cat > detect_updates.py << 'EOF'
-          python3 -c "
+          python3 <<'PYCODE'
 import json
 from datetime import datetime, timedelta
 import os
@@ -192,7 +192,7 @@ print(f'发现 {updated_count} 个项目有更新')
             echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "CHANGE_COUNT=0" >> $GITHUB_ENV
           fi
-
+PYCODE
       - name: Generate RSS feed for changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
