@@ -1,0 +1,230 @@
+name: '[Monitor] BYOVD & EDR Evasion Projects & Updates'
+on:
+  schedule:
+    # 提高频率为每6小时一次，以便更快捕捉更新
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup GitHub CLI and jq
+        run: |
+          # 安装必要的工具
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh -y
+
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.GH_PAT }}" | gh auth login --with-token
+
+      - name: Fetch latest project updates
+        run: |
+          # 构建API查询URL，按更新时间降序排序，关注最近更新的项目
+          # 注意：这里对查询进行了URL编码
+          QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
+          API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
+
+          echo "调用API: $API_URL"
+
+          # 使用gh api命令调用，并获取丰富的项目信息
+          gh api "$API_URL" \
+            --jq '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' \
+            > latest_results.json
+
+          # 提取项目URL作为本次运行的标识
+          jq -r '.html_url' latest_results.json > current_urls.txt
+
+        env:
+          GH_FORCE_TTY: 0
+
+      - name: Retrieve previous state
+        run: |
+          # 加载上一次的完整结果和URL列表
+          if [ -f previous_results.json ]; then
+            cp previous_results.json previous_results_backup.json
+            jq -r '.html_url' previous_results.json > previous_urls.txt
+          else
+            touch previous_urls.txt
+            echo "[]" > previous_results_backup.json
+          fi
+
+      - name: Identify new and updated projects
+        id: check_changes
+        run: |
+          # 找出全新的项目（上次不存在的URL）
+          grep -Fxv -f previous_urls.txt current_urls.txt > new_items.txt || true
+          NEW_COUNT=$(wc -l < new_items.txt | tr -d ' ')
+          echo "发现 $NEW_COUNT 个新项目"
+
+          # 找出已有的项目，但需要检查是否有重要更新
+          touch updated_items.txt
+          if [ -s previous_results_backup.json ]; then
+            # 创建一个Python脚本来比较更新时间和Topics等变化
+            python3 - <<EOF
+import json
+from datetime import datetime, timedelta
+
+# 加载当前和之前的结果
+with open('latest_results.json', 'r') as f:
+    current_items = [json.loads(line) for line in f]
+
+with open('previous_results_backup.json', 'r') as f:
+    previous_items = [json.loads(line) for line in f]
+
+# 创建映射以便快速查找
+previous_map = {item['html_url']: item for item in previous_items if 'html_url' in item}
+
+updated_count = 0
+updated_urls = []
+
+for current in current_items:
+    url = current.get('html_url')
+    if not url:
+        continue
+        
+    previous = previous_map.get(url)
+    
+    if previous:
+        # 解析时间字符串
+        current_updated = datetime.fromisoformat(current['updated_at'].replace('Z', '+00:00'))
+        previous_updated = datetime.fromisoformat(previous['updated_at'].replace('Z', '+00:00'))
+        
+        # 检查是否在最近一次检查之后有更新（预留1小时缓冲）
+        if current_updated > previous_updated + timedelta(hours=1):
+            # 可选：检查是否有其他重要变化，如star数大幅增加、topics变化等
+            star_increase = current.get('stargazers_count', 0) - previous.get('stargazers_count', 0)
+            current_topics = set(current.get('topics', []))
+            previous_topics = set(previous.get('topics', []))
+            new_topics = current_topics - previous_topics
+            
+            # 如果有显著更新，则标记
+            if (current_updated - previous_updated).days < 7 or star_increase > 2 or new_topics:
+                updated_count += 1
+                updated_urls.append(url)
+                print(f"检测到更新: {url} (更新时间: {current_updated})")
+
+# 保存更新列表
+with open('updated_items.txt', 'w') as f:
+    for url in updated_urls:
+        f.write(f"{url}\n")
+
+print(f"发现 {updated_count} 个项目有更新")
+EOF
+          fi
+
+          UPDATED_COUNT=$(wc -l < updated_items.txt | tr -d ' ')
+          echo "发现 $UPDATED_COUNT 个项目有重要更新"
+
+          TOTAL_CHANGES=$((NEW_COUNT + UPDATED_COUNT))
+          if [ $TOTAL_CHANGES -gt 0 ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "CHANGE_COUNT=$TOTAL_CHANGES" >> $GITHUB_ENV
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "CHANGE_COUNT=0" >> $GITHUB_ENV
+          fi
+
+      - name: Generate RSS feed for changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          RSS_ITEM_FILE="rss_items.xml"
+
+          # 为新建的项目生成RSS条目
+          if [ -s new_items.txt ]; then
+            jq --slurpfile new_urls new_items.txt -r --arg date "$CURRENT_DATE" '
+              .[] | select(.html_url as $u | $new_urls[] | index($u)) |
+              @html "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
+            ' latest_results.json > $RSS_ITEM_FILE
+          fi
+
+          # 为更新的项目追加RSS条目
+          if [ -s updated_items.txt ]; then
+            jq --slurpfile updated_urls updated_items.txt -r --arg date "$CURRENT_DATE" '
+              .[] | select(.html_url as $u | $updated_urls[] | index($u)) |
+              @html "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
+            ' latest_results.json >> $RSS_ITEM_FILE
+          fi
+
+      - name: Update RSS feed and persist state
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          # 使用Python更新RSS feed（同上一个版本）
+          python3 -c "
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
+import datetime
+
+# 解析现有的RSS feed
+try:
+    tree = ET.parse('feed.xml')
+    root = tree.getroot()
+    channel = root.find('channel')
+except:
+    # 如果文件不存在，创建新的
+    root = ET.Element('rss')
+    root.set('version', '2.0')
+    channel = ET.SubElement(root, 'channel')
+    for tag, text in [
+        ('title', 'GitHub Monitor: BYOVD & EDR Evasion'),
+        ('link', f'https://github.com/{os.environ.get('GITHUB_REPOSITORY', '')}'),
+        ('description', '监控BYOVD及EDR对抗项目的更新和新出现'),
+        ('language', 'en-us')
+    ]:
+        elem = ET.SubElement(channel, tag)
+        elem.text = text
+
+# 解析新生成的items
+try:
+    new_items_tree = ET.parse('rss_items.xml')
+    for item in reversed(new_items_tree.findall('item')):
+        channel.insert(4, item)
+except:
+    pass
+
+# 更新lastBuildDate
+last_build_date = channel.find('lastBuildDate')
+if last_build_date is None:
+    last_build_date = ET.SubElement(channel, 'lastBuildDate')
+last_build_date.text = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+
+# 保存文件
+rough_string = ET.tostring(root, encoding='unicode')
+parsed = minidom.parseString(rough_string)
+with open('feed.xml', 'w', encoding='utf-8') as f:
+    f.write(parsed.toprettyxml(indent='  '))
+          "
+
+          # 保存当前完整状态，用于下次比较
+          cp latest_results.json previous_results.json
+          cp current_urls.txt previous_urls.txt
+
+          # 配置Git并推送更新
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml previous_results.json previous_urls.txt
+          git commit -m "CI: Found ${{ env.CHANGE_COUNT }} changes ($NEW_COUNT new, $UPDATED_COUNT updated)"
+          git push
+
+      - name: No changes notification
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: |
+          # 仅更新检查时间，不推送内容
+          date +"%Y-%m-%d %H:%M:%S - No changes detected" >> monitor.log
+          git add monitor.log
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "CI: Monitoring completed, no changes" || exit 0
+          git push || exit 0
