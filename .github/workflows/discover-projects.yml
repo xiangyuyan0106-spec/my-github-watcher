@@ -32,9 +32,14 @@ jobs:
           QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
           API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
           echo "调用API: $API_URL"
-          gh api "$API_URL" \
-            --jq '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' \
-            > latest_results.json
+          
+          # 获取完整的API响应
+          gh api "$API_URL" > api_response.json
+          
+          # 使用jq从响应中提取items数组并格式化为每行一个JSON对象
+          jq -c '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' api_response.json > latest_results.json
+          
+          # 提取项目URL
           jq -r '.html_url' latest_results.json > current_urls.txt
         env:
           GH_FORCE_TTY: 0
