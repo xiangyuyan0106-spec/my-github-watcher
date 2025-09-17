@@ -1,7 +1,6 @@
 name: '[Monitor] BYOVD & EDR Evasion Projects & Updates'
 on:
   schedule:
-    # 提高频率为每6小时一次，以便更快捕捉更新
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -18,7 +17,6 @@ jobs:
 
       - name: Setup GitHub CLI and jq
         run: |
-          # 安装必要的工具
           sudo apt-get update
           sudo apt-get install -y jq curl
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
@@ -31,27 +29,18 @@ jobs:
 
       - name: Fetch latest project updates
         run: |
-          # 构建API查询URL，按更新时间降序排序，关注最近更新的项目
-          # 注意：这里对查询进行了URL编码
           QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
           API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
-
           echo "调用API: $API_URL"
-
-          # 使用gh api命令调用，并获取丰富的项目信息
           gh api "$API_URL" \
             --jq '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' \
             > latest_results.json
-
-          # 提取项目URL作为本次运行的标识
           jq -r '.html_url' latest_results.json > current_urls.txt
-
         env:
           GH_FORCE_TTY: 0
 
       - name: Retrieve previous state
         run: |
-          # 加载上一次的完整结果和URL列表
           if [ -f previous_results.json ]; then
             cp previous_results.json previous_results_backup.json
             jq -r '.html_url' previous_results.json > previous_urls.txt
@@ -63,12 +52,11 @@ jobs:
       - name: Identify new and updated projects
         id: check_changes
         run: |
-          # 找出全新的项目（上次不存在的URL）
           grep -Fxv -f previous_urls.txt current_urls.txt > new_items.txt || true
           NEW_COUNT=$(wc -l < new_items.txt | tr -d ' ')
           echo "发现 $NEW_COUNT 个新项目"
 
-          # 创建Python脚本文件来比较更新
+          # 创建Python脚本来检测更新
           cat > detect_updates.py << 'EOF'
 import json
 from datetime import datetime, timedelta
@@ -154,7 +142,6 @@ EOF
           CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RSS_ITEM_FILE="rss_items.xml"
 
-          # 为新建的项目生成RSS条目
           if [ -s new_items.txt ]; then
             jq --slurpfile new_urls new_items.txt -r --arg date "$CURRENT_DATE" '
               .[] | select(.html_url as $u | $new_urls[] | index($u)) |
@@ -162,7 +149,6 @@ EOF
             ' latest_results.json > $RSS_ITEM_FILE
           fi
 
-          # 为更新的项目追加RSS条目
           if [ -s updated_items.txt ]; then
             jq --slurpfile updated_urls updated_items.txt -r --arg date "$CURRENT_DATE" '
               .[] | select(.html_url as $u | $updated_urls[] | index($u)) |
@@ -173,38 +159,42 @@ EOF
       - name: Update RSS feed and persist state
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          # 使用Python更新RSS feed（同上一个版本）
-          python3 -c "
+          # 创建Python脚本来更新RSS
+          cat > update_rss.py << 'EOF'
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import datetime
+import os
 
 # 解析现有的RSS feed
-try:
-    tree = ET.parse('feed.xml')
+rss_file = 'feed.xml'
+if os.path.exists(rss_file):
+    tree = ET.parse(rss_file)
     root = tree.getroot()
     channel = root.find('channel')
-except:
+else:
     # 如果文件不存在，创建新的
     root = ET.Element('rss')
     root.set('version', '2.0')
     channel = ET.SubElement(root, 'channel')
-    for tag, text in [
-        ('title', 'GitHub Monitor: BYOVD & EDR Evasion'),
-        ('link', f'https://github.com/{os.environ.get('GITHUB_REPOSITORY', '')}'),
-        ('description', '监控BYOVD及EDR对抗项目的更新和新出现'),
-        ('language', 'en-us')
-    ]:
-        elem = ET.SubElement(channel, tag)
-        elem.text = text
+    title = ET.SubElement(channel, 'title')
+    title.text = 'GitHub Monitor: BYOVD & EDR Evasion'
+    link = ET.SubElement(channel, 'link')
+    link.text = f'https://github.com/{os.environ.get("GITHUB_REPOSITORY", "")}'
+    description = ET.SubElement(channel, 'description')
+    description.text = '监控BYOVD及EDR对抗项目的更新和新出现'
+    language = ET.SubElement(channel, 'language')
+    language.text = 'en-us'
 
 # 解析新生成的items
-try:
-    new_items_tree = ET.parse('rss_items.xml')
-    for item in reversed(new_items_tree.findall('item')):
-        channel.insert(4, item)
-except:
-    pass
+rss_item_file = 'rss_items.xml'
+if os.path.exists(rss_item_file):
+    try:
+        item_tree = ET.parse(rss_item_file)
+        for item in reversed(item_tree.findall('item')):
+            channel.insert(4, item)  # 在lastBuildDate之后插入
+    except:
+        pass
 
 # 更新lastBuildDate
 last_build_date = channel.find('lastBuildDate')
@@ -215,15 +205,16 @@ last_build_date.text = datetime.datetime.now(datetime.timezone.utc).strftime('%a
 # 保存文件
 rough_string = ET.tostring(root, encoding='unicode')
 parsed = minidom.parseString(rough_string)
-with open('feed.xml', 'w', encoding='utf-8') as f:
+with open(rss_file, 'w', encoding='utf-8') as f:
     f.write(parsed.toprettyxml(indent='  '))
-          "
+EOF
+
+          python3 update_rss.py
 
           # 保存当前完整状态，用于下次比较
           cp latest_results.json previous_results.json
           cp current_urls.txt previous_urls.txt
 
-          # 配置Git并推送更新
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed.xml previous_results.json previous_urls.txt
@@ -233,7 +224,6 @@ with open('feed.xml', 'w', encoding='utf-8') as f:
       - name: No changes notification
         if: steps.check_changes.outputs.has_changes == 'false'
         run: |
-          # 仅更新检查时间，不推送内容
           date +"%Y-%m-%d %H:%M:%S - No changes detected" >> monitor.log
           git add monitor.log
           git config user.name "github-actions[bot]"
