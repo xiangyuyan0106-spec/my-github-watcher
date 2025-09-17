@@ -1,14 +1,16 @@
+# detect_updates.py
 import json
 from datetime import datetime, timedelta
 import os
 
-# 加载当前和之前的结果
+# 加载当前结果（每行一个JSON对象）
 current_items = []
 with open('latest_results.json', 'r') as f:
     for line in f:
         if line.strip():
             current_items.append(json.loads(line))
 
+# 加载之前的结果
 previous_items = []
 if os.path.exists('previous_results_backup.json'):
     with open('previous_results_backup.json', 'r') as f:
