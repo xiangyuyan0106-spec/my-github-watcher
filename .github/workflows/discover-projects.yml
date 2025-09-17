@@ -27,6 +27,16 @@ jobs:
       - name: Authenticate GitHub CLI
         run: echo "${{ secrets.GH_PAT }}" | gh auth login --with-token
 
+      - name: Upload debug files
+        if: always() # 即使失败也运行
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-files
+          path: |
+            api_response.json
+            latest_results.json
+          retention-days: 1
+          
       - name: Fetch latest project updates
         run: |
           QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
