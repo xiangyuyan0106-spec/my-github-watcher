@@ -44,7 +44,9 @@ jobs:
           echo "调用API: $API_URL"
           
           # 获取完整的API响应
-          gh api --no-tty "$API_URL" > api_response.json
+          gh api "$API_URL" > api_response.json
+          sed -r 's/\x1B\[[0-9;]*[mK]//g' api_response.json > clean.json
+          mv clean.json api_response.json
           
           # 查看文件前几行内容，帮助调试
           echo "=== API响应文件前200个字符 ==="
