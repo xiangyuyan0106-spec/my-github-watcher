@@ -43,35 +43,30 @@ jobs:
           API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
           echo "调用API: $API_URL"
           
-          # 首先测试gh命令是否能正常工作
-          echo "=== 测试gh命令 ==="
-          gh --version
+          # 获取完整的API响应
+          gh api "$API_URL" > api_response.json
           
-          # 测试认证是否有效
-          echo "=== 测试认证 ==="
-          gh api user --jq .login || echo "认证测试失败"
+          # 查看文件前几行内容，帮助调试
+          echo "=== API响应文件前200个字符 ==="
+          head -c 200 api_response.json
+          echo -e "\n\n=== 文件信息 ==="
+          ls -la api_response.json
+          echo "文件大小: $(wc -c < api_response.json) 字节"
           
-          # 直接显示API调用的原始响应
-          echo "=== 直接显示API响应 ==="
-          gh api "$API_URL" --verbose 2>&1 | head -50
-          
-          # 尝试保存响应
-          echo "=== 尝试保存响应 ==="
-          if gh api "$API_URL" > api_response.raw 2>api_error.log; then
-            echo "✅ API调用成功"
-            ls -la api_response.raw
-            echo "文件内容前200字符:"
-            head -c 200 api_response.raw || true
+          # 尝试解析JSON看是否有效
+          if jq . api_response.json > /dev/null 2>&1; then
+            echo "✅ JSON格式有效"
+            echo "找到 $(jq '.items | length' api_response.json) 个项目"
           else
-            echo "❌ API调用失败"
-            echo "错误信息:"
-            cat api_error.log || true
+            echo "❌ JSON格式无效，显示错误信息："
+            jq . api_response.json 2>&1 | head -20
           fi
           
-          # 无论如何都尝试继续，看看能走到哪一步
-          touch api_response.json
-          touch latest_results.json
-          touch current_urls.txt
+          # 使用jq从响应中提取items数组并格式化为每行一个JSON对象
+          jq -c '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' api_response.json > latest_results.json
+          
+          # 提取项目URL
+          jq -r '.html_url' latest_results.json > current_urls.txt
         env:
           GH_FORCE_TTY: 0
 
