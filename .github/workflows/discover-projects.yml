@@ -50,7 +50,7 @@ jobs:
           echo "=== API响应文件前200个字符 ==="
           head -c 300 api_response.json
           echo -e "\n\n=== jsonstart ==="
-          head -n1 your.json | cat -A
+          head -n1 api_response.json | cat -A
           echo -e "\n\n=== 文件信息 ==="
           ls -la api_response.json
           echo "文件大小: $(wc -c < api_response.json) 字节"
