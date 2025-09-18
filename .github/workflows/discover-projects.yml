@@ -161,10 +161,19 @@ jobs:
           echo "        f.write(f'{url}\\n')" >> detect_updates.py
           echo "" >> detect_updates.py
           echo "print(f'发现 {updated_count} 个项目有更新')" >> detect_updates.py
-
+          
           # 执行Python脚本
           python3 detect_updates.py
-
+          UPDATED_COUNT=$(wc -l < updated_items.txt | tr -d ' ')
+          echo "CHANGE_COUNT=$((NEW_COUNT + UPDATED_COUNT))" >> $GITHUB_ENV
+          echo "NEW_COUNT=$NEW_COUNT" >> $GITHUB_ENV
+          echo "UPDATED_COUNT=$UPDATED_COUNT" >> $GITHUB_ENV
+          
+          if [ "$NEW_COUNT" -gt 0 ] || [ "$UPDATED_COUNT" -gt 0 ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
       - name: Generate RSS feed for changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
