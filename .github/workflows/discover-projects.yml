@@ -90,7 +90,7 @@ jobs:
           grep -Fxv -f previous_urls.txt current_urls.txt > new_items.txt || true
           NEW_COUNT=$(wc -l < new_items.txt | tr -d ' ')
           echo "发现 $NEW_COUNT 个新项目"
-          cat new_items
+          cat new_items.txt
 
           # 创建Python脚本来检测更新
           # cat > detect_updates.py << 'EOF'
