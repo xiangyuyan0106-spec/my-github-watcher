@@ -14,11 +14,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
 
-      - name: Setup GitHub CLI and jq
+      - name: Setup environment
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq curl
+          sudo apt-get install -y jq curl python3 python3-pip
+          pip3 install beautifulsoup4
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
           echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
           sudo apt update
@@ -27,78 +29,61 @@ jobs:
       - name: Authenticate GitHub CLI
         run: echo "${{ secrets.GH_PAT }}" | gh auth login --with-token
 
-      - name: Upload debug files
-        if: always() # 即使失败也运行
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-files
-          path: |
-            api_response.json
-            latest_results.json
-          retention-days: 1
-          
-      - name: Fetch latest project updates
+      - name: Fetch GitHub projects
         run: |
           QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
           API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
           echo "调用API: $API_URL"
           
-          # 获取完整的API响应
+          # 获取API响应
           gh api "$API_URL" > api_response.json
           sed -r 's/\x1B\[[0-9;]*[mK]//g' api_response.json > clean.json
           mv clean.json api_response.json
-          
-          # 查看文件前几行内容，帮助调试
-          echo "=== API响应文件前200个字符 ==="
-          head -c 300 api_response.json
-          echo -e "\n\n=== jsonstart ==="
-          head -n1 api_response.json | cat -A
-          echo -e "\n\n=== 文件信息 ==="
-          ls -la api_response.json
-          echo "文件大小: $(wc -c < api_response.json) 字节"
-          
-          # 尝试解析JSON看是否有效
+          # 检查JSON有效性
           if jq . api_response.json > /dev/null 2>&1; then
             echo "✅ JSON格式有效"
-            echo "找到 $(jq '.items | length' api_response.json) 个项目"
+            TOTAL_COUNT=$(jq '.total_count' api_response.json)
+            echo "找到 $TOTAL_COUNT 个项目，获取了 $(jq '.items | length' api_response.json) 个项目"
           else
-            echo "❌ JSON格式无效，显示错误信息："
-            jq . api_response.json 2>&1 | head -20
+            echo "❌ JSON格式无效"
+            exit 1
           fi
           
-          # 使用jq从响应中提取items数组并格式化为每行一个JSON对象
+          # 提取项目信息
           jq -c '.items[] | {full_name, html_url, description, stargazers_count, updated_at, pushed_at, created_at, topics }' api_response.json > latest_results.json
-          
-          # 提取项目URL
           jq -r '.html_url' latest_results.json > current_urls.txt
-        env:
-          GH_FORCE_TTY: 0
 
       - name: Retrieve previous state
         run: |
           if [ -f previous_results.json ]; then
             cp previous_results.json previous_results_backup.json
-            jq -r '.html_url' previous_results.json > previous_urls.txt
+            jq -r '.html_url' previous_results_backup.json 2>/dev/null > previous_urls.txt || echo "[]" > previous_results_backup.json
           else
-            touch previous_urls.txt
             echo "[]" > previous_results_backup.json
+            touch previous_urls.txt
           fi
 
-      - name: Identify new and updated projects
+      - name: Identify changes
         id: check_changes
         run: |
+          # 检测新项目
           grep -Fxv -f previous_urls.txt current_urls.txt > new_items.txt || true
           NEW_COUNT=$(wc -l < new_items.txt | tr -d ' ')
           echo "发现 $NEW_COUNT 个新项目"
-          cat new_items.txt
 
-          # 创建Python脚本来检测更新
-          # cat > detect_updates.py << 'EOF'
+          # 创建检测更新的Python脚本
           echo "import json" > detect_updates.py
           echo "from datetime import datetime, timedelta" >> detect_updates.py
           echo "import os" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "# 加载当前结果" >> detect_updates.py
+          echo "def parse_github_time(time_str):" >> detect_updates.py
+          echo "    if not time_str:" >> detect_updates.py
+          echo "        return None" >> detect_updates.py
+          echo "    try:" >> detect_updates.py
+          echo "        return datetime.fromisoformat(time_str.replace('Z', '+00:00'))" >> detect_updates.py
+          echo "    except (ValueError, TypeError):" >> detect_updates.py
+          echo "        return None" >> detect_updates.py
+          echo "" >> detect_updates.py
           echo "current_items = []" >> detect_updates.py
           echo "if os.path.exists('latest_results.json'):" >> detect_updates.py
           echo "    with open('latest_results.json', 'r') as f:" >> detect_updates.py
@@ -109,7 +94,6 @@ jobs:
           echo "                except json.JSONDecodeError:" >> detect_updates.py
           echo "                    pass" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "# 加载之前的结果" >> detect_updates.py
           echo "previous_items = []" >> detect_updates.py
           echo "if os.path.exists('previous_results_backup.json'):" >> detect_updates.py
           echo "    with open('previous_results_backup.json', 'r') as f:" >> detect_updates.py
@@ -120,184 +104,239 @@ jobs:
           echo "                except json.JSONDecodeError:" >> detect_updates.py
           echo "                    pass" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "# 创建映射以便快速查找" >> detect_updates.py
           echo "previous_map = {item['html_url']: item for item in previous_items if 'html_url' in item}" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "updated_count = 0" >> detect_updates.py
           echo "updated_urls = []" >> detect_updates.py
-          echo "" >> detect_updates.py
           echo "for current in current_items:" >> detect_updates.py
           echo "    url = current.get('html_url')" >> detect_updates.py
           echo "    if not url or url not in previous_map:" >> detect_updates.py
           echo "        continue" >> detect_updates.py
-          echo "        " >> detect_updates.py
+          echo "    " >> detect_updates.py
           echo "    previous = previous_map[url]" >> detect_updates.py
           echo "    " >> detect_updates.py
-          echo "    try:" >> detect_updates.py
-          echo "        # 解析时间字符串" >> detect_updates.py
-          echo "        current_updated = datetime.fromisoformat(current['updated_at'].replace('Z', '+00:00'))" >> detect_updates.py
-          echo "        previous_updated = datetime.fromisoformat(previous['updated_at'].replace('Z', '+00:00'))" >> detect_updates.py
-          echo "        " >> detect_updates.py
-          echo "        # 检查是否在最近一次检查之后有更新" >> detect_updates.py
-          echo "        if current_updated > previous_updated + timedelta(hours=1):" >> detect_updates.py
-          echo "            # 检查其他重要变化" >> detect_updates.py
-          echo "            star_increase = current.get('stargazers_count', 0) - previous.get('stargazers_count', 0)" >> detect_updates.py
-          echo "            current_topics = set(current.get('topics', []))" >> detect_updates.py
-          echo "            previous_topics = set(previous.get('topics', []))" >> detect_updates.py
-          echo "            new_topics = current_topics - previous_topics" >> detect_updates.py
-          echo "            " >> detect_updates.py
-          echo "            # 如果有显著更新，则标记" >> detect_updates.py
-          echo "            if (current_updated - previous_updated).days < 7 or star_increase > 2 or new_topics:" >> detect_updates.py
-          echo "                updated_count += 1" >> detect_updates.py
-          echo "                updated_urls.append(url)" >> detect_updates.py
-          echo "                print(f'检测到更新: {url}')" >> detect_updates.py
-          echo "                " >> detect_updates.py
-          echo "    except (KeyError, ValueError, TypeError) as e:" >> detect_updates.py
-          echo "        print(f'处理项目 {url} 时出错: {e}')" >> detect_updates.py
+          echo "    current_updated = parse_github_time(current.get('updated_at'))" >> detect_updates.py
+          echo "    previous_updated = parse_github_time(previous.get('updated_at'))" >> detect_updates.py
+          echo "    " >> detect_updates.py
+          echo "    if not current_updated or not previous_updated:" >> detect_updates.py
           echo "        continue" >> detect_updates.py
+          echo "    " >> detect_updates.py
+          echo "    time_diff = current_updated - previous_updated" >> detect_updates.py
+          echo "    if time_diff > timedelta(hours=1):" >> detect_updates.py
+          echo "        star_increase = current.get('stargazers_count', 0) - previous.get('stargazers_count', 0)" >> detect_updates.py
+          echo "        current_topics = set(current.get('topics', []))" >> detect_updates.py
+          echo "        previous_topics = set(previous.get('topics', []))" >> detect_updates.py
+          echo "        new_topics = current_topics - previous_topics" >> detect_updates.py
+          echo "        " >> detect_updates.py
+          echo "        if time_diff.days < 7 or star_increase > 2 or new_topics:" >> detect_updates.py
+          echo "            updated_urls.append(url)" >> detect_updates.py
+          echo "            print(f'检测到更新: {url}')" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "# 保存更新列表" >> detect_updates.py
           echo "with open('updated_items.txt', 'w') as f:" >> detect_updates.py
           echo "    for url in updated_urls:" >> detect_updates.py
           echo "        f.write(f'{url}\\n')" >> detect_updates.py
           echo "" >> detect_updates.py
-          echo "print(f'发现 {updated_count} 个项目有更新')" >> detect_updates.py
-          
-          # 执行Python脚本
+          echo "print(f'发现 {len(updated_urls)} 个项目有更新')" >> detect_updates.py
+
           python3 detect_updates.py
           UPDATED_COUNT=$(wc -l < updated_items.txt | tr -d ' ')
-          echo "CHANGE_COUNT=$((NEW_COUNT + UPDATED_COUNT))" >> $GITHUB_ENV
+          
           echo "NEW_COUNT=$NEW_COUNT" >> $GITHUB_ENV
           echo "UPDATED_COUNT=$UPDATED_COUNT" >> $GITHUB_ENV
+          echo "CHANGE_COUNT=$((NEW_COUNT + UPDATED_COUNT))" >> $GITHUB_ENV
           
           if [ "$NEW_COUNT" -gt 0 ] || [ "$UPDATED_COUNT" -gt 0 ]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
-      - name: Generate RSS feed for changes
+
+      - name: Generate RSS items
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RSS_ITEM_FILE="rss_items.xml"
-          : > $RSS_ITEM_FILE   # 清空文件
-
+          
+          # 创建有效的XML结构
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > $RSS_ITEM_FILE
+          echo '<items>' >> $RSS_ITEM_FILE
+          
+          # HTML转义函数
+          html_escape() {
+            echo "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g'
+          }
+          
           # 处理新项目
           if [ -s new_items.txt ]; then
-            echo "=== 生成新项目 RSS 项目 ==="
+            echo "处理 $NEW_COUNT 个新项目..."
             while read -r url; do
-              jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
-                select(.html_url == $url) |
-                "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
-              ' latest_results.json
-            done < new_items.txt >> $RSS_ITEM_FILE
+              # 从JSON文件中提取项目信息
+              project_info=$(grep -F "\"html_url\":\"$url\"" latest_results.json || grep -F "\"html_url\": \"$url\"" latest_results.json || true)
+              if [ -n "$project_info" ]; then
+                full_name=$(echo "$project_info" | jq -r '.full_name')
+                description=$(echo "$project_info" | jq -r '.description // "No description"')
+                description_escaped=$(html_escape "$description")
+                
+                echo '  <item>' >> $RSS_ITEM_FILE
+                echo "    <title>🚀 新项目: $full_name</title>" >> $RSS_ITEM_FILE
+                echo "    <link>$url</link>" >> $RSS_ITEM_FILE
+                echo "    <description>新发现的BYOVD/EDR对抗项目。描述: $description_escaped</description>" >> $RSS_ITEM_FILE
+                echo "    <pubDate>$CURRENT_DATE</pubDate>" >> $RSS_ITEM_FILE
+                echo "    <guid isPermaLink=\"true\">${url}?new=1&amp;ts=$(date +%s)</guid>" >> $RSS_ITEM_FILE
+                echo '  </item>' >> $RSS_ITEM_FILE
+              fi
+            done < new_items.txt
           fi
-
-          # 处理已更新项目
+          
+          # 处理更新项目
           if [ -s updated_items.txt ]; then
-            echo "=== 生成更新项目 RSS 项目 ==="
+            echo "处理 $UPDATED_COUNT 个更新项目..."
             while read -r url; do
-              jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
-                select(.html_url == $url) |
-                "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
-              ' latest_results.json
-            done < updated_items.txt >> $RSS_ITEM_FILE
+              project_info=$(grep -F "\"html_url\":\"$url\"" latest_results.json || grep -F "\"html_url\": \"$url\"" latest_results.json || true)
+              if [ -n "$project_info" ]; then
+                full_name=$(echo "$project_info" | jq -r '.full_name')
+                description=$(echo "$project_info" | jq -r '.description // "No description"')
+                description_escaped=$(html_escape "$description")
+                
+                echo '  <item>' >> $RSS_ITEM_FILE
+                echo "    <title>📢 更新: $full_name</title>" >> $RSS_ITEM_FILE
+                echo "    <link>$url</link>" >> $RSS_ITEM_FILE
+                echo "    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: $description_escaped</description>" >> $RSS_ITEM_FILE
+                echo "    <pubDate>$CURRENT_DATE</pubDate>" >> $RSS_ITEM_FILE
+                echo "    <guid isPermaLink=\"true\">${url}?updated=1&amp;ts=$(date +%s)</guid>" >> $RSS_ITEM_FILE
+                echo '  </item>' >> $RSS_ITEM_FILE
+              fi
+            done < updated_items.txt
           fi
+          
+          echo '</items>' >> $RSS_ITEM_FILE
+          echo "✅ RSS项目文件生成完成"
 
-          echo "✅ RSS item 文件生成完成: $RSS_ITEM_FILE"
-
-
-      - name: Update RSS feed and persist state
+      - name: Update RSS feed
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          # 创建Python脚本来更新RSS
-          # 一行一行创建Python脚本
-          echo "import xml.etree.ElementTree as ET" > update_rss.py
-          echo "from xml.dom import minidom" >> update_rss.py
-          echo "import datetime" >> update_rss.py
-          echo "import os" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "# 解析现有的RSS feed" >> update_rss.py
-          echo "rss_file = 'feed.xml'" >> update_rss.py
-          echo "if os.path.exists(rss_file):" >> update_rss.py
-          echo "    try:" >> update_rss.py
-          echo "        tree = ET.parse(rss_file)" >> update_rss.py
-          echo "        root = tree.getroot()" >> update_rss.py
-          echo "        channel = root.find('channel')" >> update_rss.py
-          echo "    except:" >> update_rss.py
-          echo "        root = ET.Element('rss')" >> update_rss.py
-          echo "        root.set('version', '2.0')" >> update_rss.py
-          echo "        channel = ET.SubElement(root, 'channel')" >> update_rss.py
-          echo "        title = ET.SubElement(channel, 'title')" >> update_rss.py
-          echo "        title.text = 'GitHub Monitor: BYOVD & EDR Evasion'" >> update_rss.py
-          echo "        link = ET.SubElement(channel, 'link')" >> update_rss.py
-          echo "        link.text = 'https://github.com/${{ github.repository }}'" >> update_rss.py
-          echo "        description = ET.SubElement(channel, 'description')" >> update_rss.py
-          echo "        description.text = '监控BYOVD及EDR对抗项目的更新和新出现'" >> update_rss.py
-          echo "        language = ET.SubElement(channel, 'language')" >> update_rss.py
-          echo "        language.text = 'en-us'" >> update_rss.py
-          echo "else:" >> update_rss.py
-          echo "    root = ET.Element('rss')" >> update_rss.py
-          echo "    root.set('version', '2.0')" >> update_rss.py
-          echo "    channel = ET.SubElement(root, 'channel')" >> update_rss.py
-          echo "    title = ET.SubElement(channel, 'title')" >> update_rss.py
-          echo "    title.text = 'GitHub Monitor: BYOVD & EDR Evasion'" >> update_rss.py
-          echo "    link = ET.SubElement(channel, 'link')" >> update_rss.py
-          echo "    link.text = 'https://github.com/${{ github.repository }}'" >> update_rss.py
-          echo "    description = ET.SubElement(channel, 'description')" >> update_rss.py
-          echo "    description.text = '监控BYOVD及EDR对抗项目的更新和新出现'" >> update_rss.py
-          echo "    language = ET.SubElement(channel, 'language')" >> update_rss.py
-          echo "    language.text = 'en-us'" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "# 解析新生成的items" >> update_rss.py
-          echo "rss_item_file = 'rss_items.xml'" >> update_rss.py
-          echo "if os.path.exists(rss_item_file):" >> update_rss.py
-          echo "    try:" >> update_rss.py
-          echo "        item_tree = ET.parse(rss_item_file)" >> update_rss.py
-          echo "        for item in reversed(item_tree.findall('item')):" >> update_rss.py
-          echo "            # 找到插入位置（在lastBuildDate之后）" >> update_rss.py
-          echo "            insert_index = 4" >> update_rss.py
-          echo "            for i, child in enumerate(channel):" >> update_rss.py
-          echo "                if child.tag == 'lastBuildDate':" >> update_rss.py
-          echo "                    insert_index = i + 1" >> update_rss.py
-          echo "                    break" >> update_rss.py
-          echo "            channel.insert(insert_index, item)" >> update_rss.py
-          echo "    except Exception as e:" >> update_rss.py
-          echo "        print(f'解析RSS项目时出错: {e}')" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "# 更新lastBuildDate" >> update_rss.py
-          echo "last_build_date = channel.find('lastBuildDate')" >> update_rss.py
-          echo "if last_build_date is None:" >> update_rss.py
-          echo "    last_build_date = ET.SubElement(channel, 'lastBuildDate')" >> update_rss.py
-          echo "last_build_date.text = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "# 保存文件" >> update_rss.py
-          echo "rough_string = ET.tostring(root, encoding='unicode')" >> update_rss.py
-          echo "parsed = minidom.parseString(rough_string)" >> update_rss.py
-          echo "with open(rss_file, 'w', encoding='utf-8') as f:" >> update_rss.py
-          echo "    f.write(parsed.toprettyxml(indent='  '))" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "print('RSS feed更新完成')" >> update_rss.py
+          # 创建更新RSS feed的Python脚本
+          echo "import xml.etree.ElementTree as ET" > update_rss_feed.py
+          echo "from xml.dom import minidom" >> update_rss_feed.py
+          echo "from datetime import datetime" >> update_rss_feed.py
+          echo "import os" >> update_rss_feed.py
+          echo "import re" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "def ensure_rss_structure():" >> update_rss_feed.py
+          echo "    rss_file = 'feed.xml'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    if os.path.exists(rss_file):" >> update_rss_feed.py
+          echo "        try:" >> update_rss_feed.py
+          echo "            tree = ET.parse(rss_file)" >> update_rss_feed.py
+          echo "            root = tree.getroot()" >> update_rss_feed.py
+          echo "            channel = root.find('channel')" >> update_rss_feed.py
+          echo "            if channel is not None:" >> update_rss_feed.py
+          echo "                return root, channel" >> update_rss_feed.py
+          echo "        except:" >> update_rss_feed.py
+          echo "            pass" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    root = ET.Element('rss')" >> update_rss_feed.py
+          echo "    root.set('version', '2.0')" >> update_rss_feed.py
+          echo "    channel = ET.SubElement(root, 'channel')" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    title = ET.SubElement(channel, 'title')" >> update_rss_feed.py
+          echo "    title.text = 'GitHub Monitor: BYOVD & EDR Evasion'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    link = ET.SubElement(channel, 'link')" >> update_rss_feed.py
+          echo "    link.text = 'https://github.com/${{ github.repository }}'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    description = ET.SubElement(channel, 'description')" >> update_rss_feed.py
+          echo "    description.text = '监控BYOVD及EDR对抗项目的更新和新出现'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    language = ET.SubElement(channel, 'language')" >> update_rss_feed.py
+          echo "    language.text = 'en-us'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    return root, channel" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "def parse_rss_items():" >> update_rss_feed.py
+          echo "    items = []" >> update_rss_feed.py
+          echo "    rss_item_file = 'rss_items.xml'" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    if not os.path.exists(rss_item_file):" >> update_rss_feed.py
+          echo "        return items" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    try:" >> update_rss_feed.py
+          echo "        with open(rss_item_file, 'r', encoding='utf-8') as f:" >> update_rss_feed.py
+          echo "            content = f.read()" >> update_rss_feed.py
+          echo "        " >> update_rss_feed.py
+          echo "        item_matches = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)" >> update_rss_feed.py
+          echo "        for match in item_matches:" >> update_rss_feed.py
+          echo "            items.append('<item>' + match + '</item>')" >> update_rss_feed.py
+          echo "        " >> update_rss_feed.py
+          echo "    except Exception as e:" >> update_rss_feed.py
+          echo "        print(f'解析RSS项目时出错: {e}')" >> update_rss_feed.py
+          echo "    " >> update_rss_feed.py
+          echo "    return items" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "root, channel = ensure_rss_structure()" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "last_build_date = channel.find('lastBuildDate')" >> update_rss_feed.py
+          echo "if last_build_date is not None:" >> update_rss_feed.py
+          echo "    channel.remove(last_build_date)" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "rss_items = parse_rss_items()" >> update_rss_feed.py
+          echo "for item_xml in reversed(rss_items):" >> update_rss_feed.py
+          echo "    try:" >> update_rss_feed.py
+          echo "        item_element = ET.fromstring(item_xml)" >> update_rss_feed.py
+          echo "        channel.insert(0, item_element)" >> update_rss_feed.py
+          echo "    except ET.ParseError as e:" >> update_rss_feed.py
+          echo "        print(f'无法解析item: {e}')" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "new_last_build_date = ET.SubElement(channel, 'lastBuildDate')" >> update_rss_feed.py
+          echo "new_last_build_date.text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "rough_string = ET.tostring(root, encoding='unicode')" >> update_rss_feed.py
+          echo "parsed = minidom.parseString(rough_string)" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "with open('feed.xml', 'w', encoding='utf-8') as f:" >> update_rss_feed.py
+          echo "    f.write(parsed.toprettyxml(indent='  '))" >> update_rss_feed.py
+          echo "" >> update_rss_feed.py
+          echo "print('RSS feed更新完成')" >> update_rss_feed.py
 
-          # 执行Python脚本
-          python3 update_rss.py
+          python3 update_rss_feed.py
 
-          # 保存当前完整状态，用于下次比较
+      - name: Persist state and commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          # 保存状态
           cp latest_results.json previous_results.json
           cp current_urls.txt previous_urls.txt
-
+          
+          # 配置Git
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 提交更改
           git add feed.xml previous_results.json previous_urls.txt
-          git commit -m "CI: Found ${{ env.CHANGE_COUNT }} changes ($NEW_COUNT new, $UPDATED_COUNT updated)"
+          git commit -m "CI: Found ${{ env.CHANGE_COUNT }} changes (${{ env.NEW_COUNT }} new, ${{ env.UPDATED_COUNT }} updated)"
           git push
 
-      - name: No changes notification
+      - name: No changes - update log
         if: steps.check_changes.outputs.has_changes == 'false'
         run: |
-          date +"%Y-%m-%d %H:%M:%S - No changes detected" >> monitor.log
-          git add monitor.log
+          echo "$(date +"%Y-%m-%d %H:%M:%S") - No changes detected" >> monitor.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "CI: Monitoring completed, no changes" || exit 0
-          git push || exit 0
+          git add monitor.log
+          git commit -m "CI: Monitoring completed, no changes" || echo "No changes to commit"
+          git push || echo "Nothing to push"
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-files
+          path: |
+            api_response.json
+            latest_results.json
+            current_urls.txt
+            new_items.txt
+            updated_items.txt
+            rss_items.xml
+            detect_updates.py
+            update_rss_feed.py
+          retention-days: 2
