@@ -1,10 +1,26 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
+  
+  
   <channel>
+    
+    
     <title>GitHub Monitor: BYOVD &amp; EDR Evasion</title>
+    
+    
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+    
+    
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
+    
+    
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Sep 2025 06:38:04 GMT</lastBuildDate>
+    
+    
+    <lastBuildDate>Fri, 19 Sep 2025 07:23:17 GMT</lastBuildDate>
+    
+  
   </channel>
+  
+
 </rss>
