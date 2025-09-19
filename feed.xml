@@ -8,7 +8,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -20,19 +24,19 @@
     <item>
       
     
-      <title>🚀 新项目: terribledactyl/silver-fox-byovd-hunts</title>
+      <title>📢 更新: Jean-Francois-C/Windows-Penetration-Testing</title>
       
     
-      <link>https://github.com/terribledactyl/silver-fox-byovd-hunts</link>
+      <link>https://github.com/Jean-Francois-C/Windows-Penetration-Testing</link>
       
     
-      <description>新发现的BYOVD/EDR对抗项目。描述: Hunt logic for Silver Fox amsdk.sys abuse</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming).</description>
       
     
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
+      <pubDate>2025-09-19T18:34:43Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/terribledactyl/silver-fox-byovd-hunts?new=1&amp;ts=1758286373</guid>
+      <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?updated=1&amp;ts=1758306883</guid>
       
   
     </item>
@@ -48,67 +52,29 @@
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
       
     
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
+      <pubDate>2025-09-19T18:34:43Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758286373</guid>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758306883</guid>
       
   
     </item>
     <item>
       
     
-      <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <title>📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       
     
-      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       
     
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT</description>
       
     
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
+      <pubDate>2025-09-19T18:34:43Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758286373</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: gmh5225/awesome-game-security</title>
-      
-    
-      <link>https://github.com/gmh5225/awesome-game-security</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR]</description>
-      
-    
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1758286373</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: mertdas/ValleyTerminator</title>
-      
-    
-      <link>https://github.com/mertdas/ValleyTerminator</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Terminate AV/EDR processes by exploiting the vulnerable NsecSoft driver</description>
-      
-    
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/mertdas/ValleyTerminator?updated=1&amp;ts=1758286373</guid>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758306883</guid>
       
   
     </item>
@@ -124,10 +90,10 @@
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: NSecSoftBYOVD POC</description>
       
     
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
+      <pubDate>2025-09-19T18:34:43Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?updated=1&amp;ts=1758286373</guid>
+      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?updated=1&amp;ts=1758306883</guid>
       
   
     </item>
@@ -143,58 +109,39 @@
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.</description>
       
     
+      <pubDate>2025-09-19T18:34:43Z</pubDate>
+      
+    
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1758306883</guid>
+      
+  
+    </item>
+    <item>
+      
+      
+    
+      
+      <title>🚀 新项目: terribledactyl/silver-fox-byovd-hunts</title>
+      
+      
+    
+      
+      <link>https://github.com/terribledactyl/silver-fox-byovd-hunts</link>
+      
+      
+    
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Hunt logic for Silver Fox amsdk.sys abuse</description>
+      
+      
+    
+      
       <pubDate>2025-09-19T12:52:53Z</pubDate>
       
-    
-      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1758286373</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: BlackSnufkin/BYOVD</title>
-      
-    
-      <link>https://github.com/BlackSnufkin/BYOVD</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).</description>
-      
-    
-      <pubDate>2025-09-19T12:52:53Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1758286373</guid>
-      
-  
-    </item>
-    <item>
-      
       
     
       
-      <title>🚀 新项目: xiangyuyan0106-spec/my-github-watcher</title>
-      
-      
-    
-      
-      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: auto get BYOVD KILLER PROJECT</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/terribledactyl/silver-fox-byovd-hunts?new=1&amp;ts=1758286373</guid>
       
       
   
@@ -207,172 +154,7 @@
       
     
       
-      <title>🚀 新项目: killvxk/gitweekly</title>
-      
-      
-    
-      
-      <link>https://github.com/killvxk/gitweekly</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: nomi-sec/PoC-in-GitHub</title>
-      
-      
-    
-      
-      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: parth45/ASWE-Prep</title>
-      
-      
-    
-      
-      <link>https://github.com/parth45/ASWE-Prep</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/parth45/ASWE-Prep?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: GhostTroops/TOP</title>
-      
-      
-    
-      
-      <link>https://github.com/GhostTroops/TOP</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: gmh5225/awesome-game-security</title>
-      
-      
-    
-      
-      <link>https://github.com/gmh5225/awesome-game-security</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: awesome game security [Welcome to PR]</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <title>📢 更新: HotCakeX/Harden-Windows-Security</title>
       
       
     
@@ -382,17 +164,17 @@
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -405,27 +187,27 @@
       
     
       
-      <title>🚀 新项目: tanjiti/sec_profile</title>
+      <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
       
       
     
       
-      <link>https://github.com/tanjiti/sec_profile</link>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/tanjiti/sec_profile?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -438,27 +220,27 @@
       
     
       
-      <title>🚀 新项目: Jean-Francois-C/Windows-Penetration-Testing</title>
+      <title>📢 更新: gmh5225/awesome-game-security</title>
       
       
     
       
-      <link>https://github.com/Jean-Francois-C/Windows-Penetration-Testing</link>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
       
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR]</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -471,40 +253,7 @@
       
     
       
-      <title>🚀 新项目: grisuno/CVE-2022-22077</title>
-      
-      
-    
-      
-      <link>https://github.com/grisuno/CVE-2022-22077</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/grisuno/CVE-2022-22077?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: mertdas/ValleyTerminator</title>
+      <title>📢 更新: mertdas/ValleyTerminator</title>
       
       
     
@@ -514,17 +263,17 @@
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: Terminate AV/EDR processes by exploiting the vulnerable NsecSoft driver</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Terminate AV/EDR processes by exploiting the vulnerable NsecSoft driver</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/mertdas/ValleyTerminator?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/mertdas/ValleyTerminator?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -537,73 +286,7 @@
       
     
       
-      <title>🚀 新项目: 0xsyr0/Cybersecurity-Glossary</title>
-      
-      
-    
-      
-      <link>https://github.com/0xsyr0/Cybersecurity-Glossary</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: A summary of the most abbreviations I encountered so far</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/0xsyr0/Cybersecurity-Glossary?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: 3xploit666/WatchDog_Killer</title>
-      
-      
-    
-      
-      <link>https://github.com/3xploit666/WatchDog_Killer</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/3xploit666/WatchDog_Killer?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: ANYLNK/NSecSoftBYOVD</title>
+      <title>📢 更新: ANYLNK/NSecSoftBYOVD</title>
       
       
     
@@ -613,17 +296,17 @@
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: NSecSoftBYOVD POC</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: NSecSoftBYOVD POC</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -636,73 +319,7 @@
       
     
       
-      <title>🚀 新项目: b1ank1108/awesome-stars</title>
-      
-      
-    
-      
-      <link>https://github.com/b1ank1108/awesome-stars</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: didntchooseaname/loldrivers-database</title>
-      
-      
-    
-      
-      <link>https://github.com/didntchooseaname/loldrivers-database</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a HVCI and Microsoft drivers blocklist check.</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: j3h4ck/WatchDogKiller</title>
+      <title>📢 更新: j3h4ck/WatchDogKiller</title>
       
       
     
@@ -712,50 +329,17 @@
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: ghostbyt3/BYOVD-POC</title>
-      
-      
-    
-      
-      <link>https://github.com/ghostbyt3/BYOVD-POC</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: POC for BYOVD</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/ghostbyt3/BYOVD-POC?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -768,337 +352,7 @@
       
     
       
-      <title>🚀 新项目: geeknik/my-awesome-stars</title>
-      
-      
-    
-      
-      <link>https://github.com/geeknik/my-awesome-stars</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of my GitHub stars!</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/geeknik/my-awesome-stars?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: GiladLeef/winscape</title>
-      
-      
-    
-      
-      <link>https://github.com/GiladLeef/winscape</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: Escape Windows defender &amp; Third Party AVs via BYOVD</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/GiladLeef/winscape?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: BlackSnufkin/LitterBox</title>
-      
-      
-    
-      
-      <link>https://github.com/BlackSnufkin/LitterBox</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/BlackSnufkin/LitterBox?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: 4l3x777/4l3x777</title>
-      
-      
-    
-      
-      <link>https://github.com/4l3x777/4l3x777</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: Config files for my GitHub profile.</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/4l3x777/4l3x777?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: pwnfuzz/byovd-watchdog</title>
-      
-      
-    
-      
-      <link>https://github.com/pwnfuzz/byovd-watchdog</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/pwnfuzz/byovd-watchdog?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: deletehead/windbgx</title>
-      
-      
-    
-      
-      <link>https://github.com/deletehead/windbgx</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/deletehead/windbgx?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: professor-moody/ludus_litterbox_role</title>
-      
-      
-    
-      
-      <link>https://github.com/professor-moody/ludus_litterbox_role</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/professor-moody/ludus_litterbox_role?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: slep2-0/WindowsRootkit</title>
-      
-      
-    
-      
-      <link>https://github.com/slep2-0/WindowsRootkit</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: Read the README</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/slep2-0/WindowsRootkit?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: alex3O/BYOVD-DriverKiller</title>
-      
-      
-    
-      
-      <link>https://github.com/alex3O/BYOVD-DriverKiller</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: Driver Reverse &amp; Exploitation</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/alex3O/BYOVD-DriverKiller?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: diego-tella/CVE-2025-1055-poc</title>
-      
-      
-    
-      
-      <link>https://github.com/diego-tella/CVE-2025-1055-poc</link>
-      
-      
-    
-      
-      <description>新发现的BYOVD/EDR对抗项目。描述: PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys</description>
-      
-      
-    
-      
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
-      
-      
-    
-      
-      <guid isPermaLink="true">https://github.com/diego-tella/CVE-2025-1055-poc?new=1&amp;ts=1758270159</guid>
-      
-      
-  
-    
-    </item>
-    
-    
-    <item>
-      
-      
-    
-      
-      <title>🚀 新项目: BlackSnufkin/BYOVD</title>
+      <title>📢 更新: BlackSnufkin/BYOVD</title>
       
       
     
@@ -1108,17 +362,17 @@
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).</description>
       
       
     
       
-      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      <pubDate>2025-09-19T12:52:53Z</pubDate>
       
       
     
       
-      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?new=1&amp;ts=1758270159</guid>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1758286373</guid>
       
       
   
@@ -1129,37 +383,1416 @@
     <item>
       
       
-    
-      
-      <title>🚀 新项目: R1perXNX/HuaweiKiller</title>
-      
       
     
       
-      <link>https://github.com/R1perXNX/HuaweiKiller</link>
+      
+      <title>🚀 新项目: xiangyuyan0106-spec/my-github-watcher</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      
       
       
     
       
-      <description>新发现的BYOVD/EDR对抗项目。描述: Huawei Audio Driver Exploit </description>
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: auto get BYOVD KILLER PROJECT</description>
+      
       
       
     
+      
       
       <pubDate>2025-09-19T08:22:39Z</pubDate>
       
       
+      
     
       
-      <guid isPermaLink="true">https://github.com/R1perXNX/HuaweiKiller?new=1&amp;ts=1758270159</guid>
+      
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?new=1&amp;ts=1758270159</guid>
+      
       
       
   
     
+    
     </item>
     
     
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: killvxk/gitweekly</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/killvxk/gitweekly</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: nomi-sec/PoC-in-GitHub</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: parth45/ASWE-Prep</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/parth45/ASWE-Prep</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/parth45/ASWE-Prep?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: GhostTroops/TOP</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/GhostTroops/TOP</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: gmh5225/awesome-game-security</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: awesome game security [Welcome to PR]</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: tanjiti/sec_profile</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/tanjiti/sec_profile</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/tanjiti/sec_profile?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: Jean-Francois-C/Windows-Penetration-Testing</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/Jean-Francois-C/Windows-Penetration-Testing</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: grisuno/CVE-2022-22077</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/grisuno/CVE-2022-22077</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/grisuno/CVE-2022-22077?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: mertdas/ValleyTerminator</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/mertdas/ValleyTerminator</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Terminate AV/EDR processes by exploiting the vulnerable NsecSoft driver</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/mertdas/ValleyTerminator?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: 0xsyr0/Cybersecurity-Glossary</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/0xsyr0/Cybersecurity-Glossary</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: A summary of the most abbreviations I encountered so far</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/0xsyr0/Cybersecurity-Glossary?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: 3xploit666/WatchDog_Killer</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/3xploit666/WatchDog_Killer</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/3xploit666/WatchDog_Killer?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: ANYLNK/NSecSoftBYOVD</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/ANYLNK/NSecSoftBYOVD</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: NSecSoftBYOVD POC</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: b1ank1108/awesome-stars</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: didntchooseaname/loldrivers-database</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a HVCI and Microsoft drivers blocklist check.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: j3h4ck/WatchDogKiller</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/j3h4ck/WatchDogKiller</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: ghostbyt3/BYOVD-POC</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/ghostbyt3/BYOVD-POC</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: POC for BYOVD</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/ghostbyt3/BYOVD-POC?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: geeknik/my-awesome-stars</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/geeknik/my-awesome-stars</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of my GitHub stars!</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/geeknik/my-awesome-stars?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: GiladLeef/winscape</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/GiladLeef/winscape</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Escape Windows defender &amp; Third Party AVs via BYOVD</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/GiladLeef/winscape?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: BlackSnufkin/LitterBox</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/BlackSnufkin/LitterBox</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/LitterBox?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: 4l3x777/4l3x777</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/4l3x777/4l3x777</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Config files for my GitHub profile.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/4l3x777/4l3x777?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: pwnfuzz/byovd-watchdog</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/pwnfuzz/byovd-watchdog</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/pwnfuzz/byovd-watchdog?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: deletehead/windbgx</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/deletehead/windbgx</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/deletehead/windbgx?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: professor-moody/ludus_litterbox_role</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/professor-moody/ludus_litterbox_role</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/professor-moody/ludus_litterbox_role?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: slep2-0/WindowsRootkit</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/slep2-0/WindowsRootkit</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Read the README</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/slep2-0/WindowsRootkit?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: alex3O/BYOVD-DriverKiller</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/alex3O/BYOVD-DriverKiller</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Driver Reverse &amp; Exploitation</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/alex3O/BYOVD-DriverKiller?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: diego-tella/CVE-2025-1055-poc</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/diego-tella/CVE-2025-1055-poc</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/diego-tella/CVE-2025-1055-poc?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: BlackSnufkin/BYOVD</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>🚀 新项目: R1perXNX/HuaweiKiller</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/R1perXNX/HuaweiKiller</link>
+      
+      
+      
+    
+      
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: Huawei Audio Driver Exploit </description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-19T08:22:39Z</pubDate>
+      
+      
+      
+    
+      
+      
+      <guid isPermaLink="true">https://github.com/R1perXNX/HuaweiKiller?new=1&amp;ts=1758270159</guid>
+      
+      
+      
+  
+    
+    
+    </item>
+    
+    
+    
+    
     <title>GitHub Monitor: BYOVD &amp; EDR Evasion</title>
+    
+    
     
     
     
@@ -1177,7 +1810,11 @@
     
     
     
+    
+    
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
+    
+    
     
     
     
@@ -1195,12 +1832,16 @@
     
     
     
-    <lastBuildDate>Fri, 19 Sep 2025 12:52:53 GMT</lastBuildDate>
+    
+    
+    <lastBuildDate>Fri, 19 Sep 2025 18:34:43 GMT</lastBuildDate>
   </channel>
   
   
   
   
+  
+
 
 
 
