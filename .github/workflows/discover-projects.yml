@@ -178,106 +178,119 @@ jobs:
       - name: Generate RSS feed for changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          CURRENT_DATE=$(date -u +"%a, %d %b %Y %H:%M:%S GMT")
+          CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RSS_ITEM_FILE="rss_items.xml"
-          echo "" > $RSS_ITEM_FILE
-      
-          # 新项目
+          : > $RSS_ITEM_FILE   # 清空文件
+
+          # 处理新项目
           if [ -s new_items.txt ]; then
             echo "=== 生成新项目 RSS 项目 ==="
             while read -r url; do
               jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
-                .[] | select(.html_url == $url) |
-                "  <item>\n    <title>新项目: " + .full_name + "</title>\n    <link>" + .html_url + "</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: " + (.description // "No description") + "</description>\n    <pubDate>" + $date + "</pubDate>\n    <guid isPermaLink=\"true\">" + .html_url + "?new=1</guid>\n  </item>"
-              ' latest_results.json >> $RSS_ITEM_FILE
-            done < new_items.txt
+                select(.html_url == $url) |
+                "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
+              ' latest_results.json
+            done < new_items.txt >> $RSS_ITEM_FILE
           fi
-      
-          # 更新项目
+
+          # 处理已更新项目
           if [ -s updated_items.txt ]; then
             echo "=== 生成更新项目 RSS 项目 ==="
             while read -r url; do
               jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
-                .[] | select(.html_url == $url) |
-                "  <item>\n    <title>更新: " + .full_name + "</title>\n    <link>" + .html_url + "</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: " + (.description // "No description") + "</description>\n    <pubDate>" + $date + "</pubDate>\n    <guid isPermaLink=\"true\">" + .html_url + "?updated=" + (now|tostring) + "</guid>\n  </item>"
-              ' latest_results.json >> $RSS_ITEM_FILE
-            done < updated_items.txt
+                select(.html_url == $url) |
+                "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
+              ' latest_results.json
+            done < updated_items.txt >> $RSS_ITEM_FILE
           fi
-      
-          echo "生成 RSS 项目完成，文件: $RSS_ITEM_FILE"
 
+          echo "✅ RSS item 文件生成完成: $RSS_ITEM_FILE"
 
 
       - name: Update RSS feed and persist state
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          # 创建 Python 脚本
+          # 创建Python脚本来更新RSS
+          # 一行一行创建Python脚本
           echo "import xml.etree.ElementTree as ET" > update_rss.py
           echo "from xml.dom import minidom" >> update_rss.py
           echo "import datetime" >> update_rss.py
           echo "import os" >> update_rss.py
           echo "" >> update_rss.py
+          echo "# 解析现有的RSS feed" >> update_rss.py
           echo "rss_file = 'feed.xml'" >> update_rss.py
-          echo "rss_item_file = 'rss_items.xml'" >> update_rss.py
-          echo "" >> update_rss.py
-          echo "# 创建或解析 feed.xml" >> update_rss.py
           echo "if os.path.exists(rss_file):" >> update_rss.py
           echo "    try:" >> update_rss.py
           echo "        tree = ET.parse(rss_file)" >> update_rss.py
           echo "        root = tree.getroot()" >> update_rss.py
           echo "        channel = root.find('channel')" >> update_rss.py
-          echo "        if channel is None:" >> update_rss.py
-          echo "            channel = ET.SubElement(root, 'channel')" >> update_rss.py
           echo "    except:" >> update_rss.py
-          echo "        root = ET.Element('rss', version='2.0')" >> update_rss.py
+          echo "        root = ET.Element('rss')" >> update_rss.py
+          echo "        root.set('version', '2.0')" >> update_rss.py
           echo "        channel = ET.SubElement(root, 'channel')" >> update_rss.py
+          echo "        title = ET.SubElement(channel, 'title')" >> update_rss.py
+          echo "        title.text = 'GitHub Monitor: BYOVD & EDR Evasion'" >> update_rss.py
+          echo "        link = ET.SubElement(channel, 'link')" >> update_rss.py
+          echo "        link.text = 'https://github.com/${{ github.repository }}'" >> update_rss.py
+          echo "        description = ET.SubElement(channel, 'description')" >> update_rss.py
+          echo "        description.text = '监控BYOVD及EDR对抗项目的更新和新出现'" >> update_rss.py
+          echo "        language = ET.SubElement(channel, 'language')" >> update_rss.py
+          echo "        language.text = 'en-us'" >> update_rss.py
           echo "else:" >> update_rss.py
-          echo "    root = ET.Element('rss', version='2.0')" >> update_rss.py
+          echo "    root = ET.Element('rss')" >> update_rss.py
+          echo "    root.set('version', '2.0')" >> update_rss.py
           echo "    channel = ET.SubElement(root, 'channel')" >> update_rss.py
           echo "    title = ET.SubElement(channel, 'title')" >> update_rss.py
           echo "    title.text = 'GitHub Monitor: BYOVD & EDR Evasion'" >> update_rss.py
           echo "    link = ET.SubElement(channel, 'link')" >> update_rss.py
-          echo "    link.text = f'https://github.com/${{ github.repository }}'" >> update_rss.py
+          echo "    link.text = 'https://github.com/${{ github.repository }}'" >> update_rss.py
           echo "    description = ET.SubElement(channel, 'description')" >> update_rss.py
           echo "    description.text = '监控BYOVD及EDR对抗项目的更新和新出现'" >> update_rss.py
           echo "    language = ET.SubElement(channel, 'language')" >> update_rss.py
           echo "    language.text = 'en-us'" >> update_rss.py
           echo "" >> update_rss.py
-          echo "# 追加新的 <item>" >> update_rss.py
+          echo "# 解析新生成的items" >> update_rss.py
+          echo "rss_item_file = 'rss_items.xml'" >> update_rss.py
           echo "if os.path.exists(rss_item_file):" >> update_rss.py
           echo "    try:" >> update_rss.py
           echo "        item_tree = ET.parse(rss_item_file)" >> update_rss.py
-          echo "        for item in item_tree.findall('item'):" >> update_rss.py
-          echo "            channel.append(item)" >> update_rss.py
+          echo "        for item in reversed(item_tree.findall('item')):" >> update_rss.py
+          echo "            # 找到插入位置（在lastBuildDate之后）" >> update_rss.py
+          echo "            insert_index = 4" >> update_rss.py
+          echo "            for i, child in enumerate(channel):" >> update_rss.py
+          echo "                if child.tag == 'lastBuildDate':" >> update_rss.py
+          echo "                    insert_index = i + 1" >> update_rss.py
+          echo "                    break" >> update_rss.py
+          echo "            channel.insert(insert_index, item)" >> update_rss.py
           echo "    except Exception as e:" >> update_rss.py
           echo "        print(f'解析RSS项目时出错: {e}')" >> update_rss.py
           echo "" >> update_rss.py
-          echo "# 更新 lastBuildDate" >> update_rss.py
+          echo "# 更新lastBuildDate" >> update_rss.py
           echo "last_build_date = channel.find('lastBuildDate')" >> update_rss.py
           echo "if last_build_date is None:" >> update_rss.py
           echo "    last_build_date = ET.SubElement(channel, 'lastBuildDate')" >> update_rss.py
           echo "last_build_date.text = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')" >> update_rss.py
           echo "" >> update_rss.py
-          echo "# 保存 feed.xml" >> update_rss.py
+          echo "# 保存文件" >> update_rss.py
           echo "rough_string = ET.tostring(root, encoding='unicode')" >> update_rss.py
           echo "parsed = minidom.parseString(rough_string)" >> update_rss.py
           echo "with open(rss_file, 'w', encoding='utf-8') as f:" >> update_rss.py
           echo "    f.write(parsed.toprettyxml(indent='  '))" >> update_rss.py
           echo "" >> update_rss.py
-          echo "print('✅ RSS feed更新完成')" >> update_rss.py
+          echo "print('RSS feed更新完成')" >> update_rss.py
 
-          # 执行 Python 脚本
+          # 执行Python脚本
           python3 update_rss.py
 
-          # 保存当前状态用于下次对比
+          # 保存当前完整状态，用于下次比较
           cp latest_results.json previous_results.json
           cp current_urls.txt previous_urls.txt
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed.xml previous_results.json previous_urls.txt
-          git commit -m "CI: Found ${{ env.CHANGE_COUNT }} changes ($NEW_COUNT new, $UPDATED_COUNT updated)" || true
-          git push || true
+          git commit -m "CI: Found ${{ env.CHANGE_COUNT }} changes ($NEW_COUNT new, $UPDATED_COUNT updated)"
+          git push
 
       - name: No changes notification
         if: steps.check_changes.outputs.has_changes == 'false'
