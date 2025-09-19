@@ -180,20 +180,32 @@ jobs:
         run: |
           CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RSS_ITEM_FILE="rss_items.xml"
+          : > $RSS_ITEM_FILE   # 清空文件
 
+          # 处理新项目
           if [ -s new_items.txt ]; then
-            jq --slurpfile new_urls new_items.txt -r --arg date "$CURRENT_DATE" '
-              .[] | select(.html_url as $u | $new_urls[] | index($u)) |
-              @html "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
-            ' latest_results.json > $RSS_ITEM_FILE
+            echo "=== 生成新项目 RSS 项目 ==="
+            while read -r url; do
+              jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
+                select(.html_url == $url) |
+                "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
+              ' latest_results.json
+            done < new_items.txt >> $RSS_ITEM_FILE
           fi
 
+          # 处理已更新项目
           if [ -s updated_items.txt ]; then
-            jq --slurpfile updated_urls updated_items.txt -r --arg date "$CURRENT_DATE" '
-              .[] | select(.html_url as $u | $updated_urls[] | index($u)) |
-              @html "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
-            ' latest_results.json >> $RSS_ITEM_FILE
+            echo "=== 生成更新项目 RSS 项目 ==="
+            while read -r url; do
+              jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
+                select(.html_url == $url) |
+                "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // "No description" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
+              ' latest_results.json
+            done < updated_items.txt >> $RSS_ITEM_FILE
           fi
+
+          echo "✅ RSS item 文件生成完成: $RSS_ITEM_FILE"
+
 
       - name: Update RSS feed and persist state
         if: steps.check_changes.outputs.has_changes == 'true'
