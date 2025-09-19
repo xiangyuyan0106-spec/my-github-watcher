@@ -180,27 +180,26 @@ jobs:
         run: |
           CURRENT_DATE=$(date -u +"%a, %d %b %Y %H:%M:%S GMT")
           RSS_ITEM_FILE="rss_items.xml"
-          # 先清空旧内容
           echo "" > $RSS_ITEM_FILE
       
-          # 生成新项目的 RSS 项目
+          # 新项目
           if [ -s new_items.txt ]; then
             echo "=== 生成新项目 RSS 项目 ==="
             while read -r url; do
               jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
                 .[] | select(.html_url == $url) |
-                "  <item>\n    <title>🚀 新项目: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?new=1</guid>\n  </item>"
+                "  <item>\n    <title>新项目: " + .full_name + "</title>\n    <link>" + .html_url + "</link>\n    <description>新发现的BYOVD/EDR对抗项目。描述: " + (.description // "No description") + "</description>\n    <pubDate>" + $date + "</pubDate>\n    <guid isPermaLink=\"true\">" + .html_url + "?new=1</guid>\n  </item>"
               ' latest_results.json >> $RSS_ITEM_FILE
             done < new_items.txt
           fi
       
-          # 生成更新项目的 RSS 项目
+          # 更新项目
           if [ -s updated_items.txt ]; then
             echo "=== 生成更新项目 RSS 项目 ==="
             while read -r url; do
               jq -r --arg url "$url" --arg date "$CURRENT_DATE" '
                 .[] | select(.html_url == $url) |
-                "  <item>\n    <title>📢 更新: \(.full_name)</title>\n    <link>\(.html_url)</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: \(.description // \"No description\" | @html)</description>\n    <pubDate>\($date)</pubDate>\n    <guid isPermaLink=\"true\">\(.html_url)?updated=\(now|floor)</guid>\n  </item>"
+                "  <item>\n    <title>更新: " + .full_name + "</title>\n    <link>" + .html_url + "</link>\n    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: " + (.description // "No description") + "</description>\n    <pubDate>" + $date + "</pubDate>\n    <guid isPermaLink=\"true\">" + .html_url + "?updated=" + (now|tostring) + "</guid>\n  </item>"
               ' latest_results.json >> $RSS_ITEM_FILE
             done < updated_items.txt
           fi
