@@ -1,6 +1,7 @@
+https://github.com/CrackerCat/feed
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/Jean-Francois-C/Windows-Penetration-Testing
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/gmh5225/awesome-game-security
@@ -27,4 +28,3 @@ https://github.com/alex3O/BYOVD-DriverKiller
 https://github.com/diego-tella/CVE-2025-1055-poc
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/R1perXNX/HuaweiKiller
-https://github.com/terribledactyl/silver-fox-byovd-hunts
