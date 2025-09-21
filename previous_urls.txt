@@ -1,10 +1,10 @@
+https://github.com/b1ank1108/awesome-stars
 https://github.com/TwoSevenOneT/EDR-Freeze
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/Jean-Francois-C/Windows-Penetration-Testing
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/grisuno/CVE-2022-22077
-https://github.com/CrackerCat/feed
 https://github.com/killvxk/gitweekly
 https://github.com/0xbekoo/SSDT-Hook-Detector
 https://github.com/HotCakeX/Harden-Windows-Security
@@ -14,7 +14,6 @@ https://github.com/mertdas/ValleyTerminator
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/3xploit666/WatchDog_Killer
 https://github.com/ANYLNK/NSecSoftBYOVD
-https://github.com/b1ank1108/awesome-stars
 https://github.com/didntchooseaname/loldrivers-database
 https://github.com/j3h4ck/WatchDogKiller
 https://github.com/ghostbyt3/BYOVD-POC
@@ -28,3 +27,4 @@ https://github.com/professor-moody/ludus_litterbox_role
 https://github.com/slep2-0/WindowsRootkit
 https://github.com/alex3O/BYOVD-DriverKiller
 https://github.com/diego-tella/CVE-2025-1055-poc
+https://github.com/BlackSnufkin/BYOVD

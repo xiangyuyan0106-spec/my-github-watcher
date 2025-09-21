@@ -20,6 +20,8 @@
   
   
   
+  
+  
   <channel>
     
     
@@ -41,79 +43,62 @@
     
     
     
+    
+    
     <item>
       
     
-      <title>🚀 新项目: TwoSevenOneT/EDR-Freeze</title>
+      <title>🚀 新项目: BlackSnufkin/BYOVD</title>
+      
+    
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      
+    
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).</description>
+      
+    
+      <pubDate>2025-09-21T06:36:00Z</pubDate>
+      
+    
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?new=1&amp;ts=1758436560</guid>
+      
+  
+    </item>
+    <item>
+      
+    
+      <title>📢 更新: b1ank1108/awesome-stars</title>
+      
+    
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      
+    
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier</description>
+      
+    
+      <pubDate>2025-09-21T06:36:00Z</pubDate>
+      
+    
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1758436560</guid>
+      
+  
+    </item>
+    <item>
+      
+    
+      <title>📢 更新: TwoSevenOneT/EDR-Freeze</title>
       
     
       <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
       
     
-      <description>新发现的BYOVD/EDR对抗项目。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.</description>
       
     
-      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      <pubDate>2025-09-21T06:36:00Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?new=1&amp;ts=1758420309</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: GhostTroops/TOP</title>
-      
-    
-      <link>https://github.com/GhostTroops/TOP</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</description>
-      
-    
-      <pubDate>2025-09-21T02:05:09Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1758420309</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: Jean-Francois-C/Windows-Penetration-Testing</title>
-      
-    
-      <link>https://github.com/Jean-Francois-C/Windows-Penetration-Testing</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming).</description>
-      
-    
-      <pubDate>2025-09-21T02:05:09Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?updated=1&amp;ts=1758420309</guid>
-      
-  
-    </item>
-    <item>
-      
-    
-      <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
-      
-    
-      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
-      
-    
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
-      
-    
-      <pubDate>2025-09-21T02:05:09Z</pubDate>
-      
-    
-      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758420309</guid>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1758436560</guid>
       
   
     </item>
@@ -129,32 +114,79 @@
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT</description>
       
     
-      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      <pubDate>2025-09-21T06:36:00Z</pubDate>
       
     
-      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758420309</guid>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758436560</guid>
       
   
     </item>
     <item>
       
-    
-      <title>📢 更新: HotCakeX/Harden-Windows-Security</title>
       
     
-      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      
+      <title>🚀 新项目: TwoSevenOneT/EDR-Freeze</title>
+      
       
     
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
+      
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      
       
     
+      
+      <description>新发现的BYOVD/EDR对抗项目。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.</description>
+      
+      
+    
+      
       <pubDate>2025-09-21T02:05:09Z</pubDate>
       
+      
     
-      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758420309</guid>
+      
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?new=1&amp;ts=1758420309</guid>
+      
       
   
+    
     </item>
+    
+    
+    <item>
+      
+      
+    
+      
+      <title>📢 更新: GhostTroops/TOP</title>
+      
+      
+    
+      
+      <link>https://github.com/GhostTroops/TOP</link>
+      
+      
+    
+      
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</description>
+      
+      
+    
+      
+      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      
+      
+    
+      
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1758420309</guid>
+      
+      
+  
+    
+    </item>
+    
+    
     <item>
       
       
@@ -175,326 +207,598 @@
       
     
       
-      <pubDate>2025-09-20T18:32:09Z</pubDate>
+      <pubDate>2025-09-21T02:05:09Z</pubDate>
       
       
     
+      
+      <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?updated=1&amp;ts=1758420309</guid>
+      
+      
+  
+    
+    </item>
+    
+    
+    <item>
+      
+      
+    
+      
+      <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
+      
+      
+    
+      
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      
+      
+    
+      
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
+      
+      
+    
+      
+      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      
+      
+    
+      
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758420309</guid>
+      
+      
+  
+    
+    </item>
+    
+    
+    <item>
+      
+      
+    
+      
+      <title>📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      
+      
+    
+      
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      
+      
+    
+      
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT</description>
+      
+      
+    
+      
+      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      
+      
+    
+      
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758420309</guid>
+      
+      
+  
+    
+    </item>
+    
+    
+    <item>
+      
+      
+    
+      
+      <title>📢 更新: HotCakeX/Harden-Windows-Security</title>
+      
+      
+    
+      
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      
+      
+    
+      
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
+      
+      
+    
+      
+      <pubDate>2025-09-21T02:05:09Z</pubDate>
+      
+      
+    
+      
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758420309</guid>
+      
+      
+  
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      
+    
+      
+      
+      <title>📢 更新: Jean-Francois-C/Windows-Penetration-Testing</title>
+      
+      
+      
+    
+      
+      
+      <link>https://github.com/Jean-Francois-C/Windows-Penetration-Testing</link>
+      
+      
+      
+    
+      
+      
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming).</description>
+      
+      
+      
+    
+      
+      
+      <pubDate>2025-09-20T18:32:09Z</pubDate>
+      
+      
+      
+    
+      
       
       <guid isPermaLink="true">https://github.com/Jean-Francois-C/Windows-Penetration-Testing?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: grisuno/CVE-2022-22077</title>
       
       
+      
     
+      
       
       <link>https://github.com/grisuno/CVE-2022-22077</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/grisuno/CVE-2022-22077?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: CrackerCat/feed</title>
       
       
+      
     
+      
       
       <link>https://github.com/CrackerCat/feed</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/CrackerCat/feed?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: killvxk/gitweekly</title>
       
       
+      
     
+      
       
       <link>https://github.com/killvxk/gitweekly</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       
       
+      
     
+      
       
       <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
       
       
+      
     
+      
       
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: HotCakeX/Harden-Windows-Security</title>
       
       
+      
     
+      
       
       <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: gmh5225/awesome-game-security</title>
       
       
+      
     
+      
       
       <link>https://github.com/gmh5225/awesome-game-security</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR]</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
+      
     
+      
       
       <title>📢 更新: BlackSnufkin/LitterBox</title>
       
       
+      
     
+      
       
       <link>https://github.com/BlackSnufkin/LitterBox</link>
       
       
+      
     
+      
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.</description>
       
       
+      
     
+      
       
       <pubDate>2025-09-20T18:32:09Z</pubDate>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://github.com/BlackSnufkin/LitterBox?updated=1&amp;ts=1758393129</guid>
       
       
+      
   
     
+    
     </item>
+    
+    
     
     
     <item>
       
       
       
+      
     
+      
       
       
       <title>🚀 新项目: 0xbekoo/SSDT-Hook-Detector</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/0xbekoo/SSDT-Hook-Detector</link>
       
       
       
+      
     
+      
       
       
       <description>新发现的BYOVD/EDR对抗项目。描述: The project demonstrates a simple detection method for SSDT Hook in User Mode via BYOVD</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/0xbekoo/SSDT-Hook-Detector?new=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -503,45 +807,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: CrackerCat/feed</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/CrackerCat/feed</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/CrackerCat/feed?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -550,45 +868,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: nomi-sec/PoC-in-GitHub</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -597,45 +929,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: killvxk/gitweekly</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/killvxk/gitweekly</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -644,45 +990,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -691,45 +1051,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: HotCakeX/Harden-Windows-Security</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -738,45 +1112,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: pwnfuzz/byovd-watchdog</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/pwnfuzz/byovd-watchdog</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/pwnfuzz/byovd-watchdog?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -785,45 +1173,59 @@
       
       
       
+      
     
+      
       
       
       <title>📢 更新: alex3O/BYOVD-DriverKiller</title>
       
       
       
+      
     
+      
       
       
       <link>https://github.com/alex3O/BYOVD-DriverKiller</link>
       
       
       
+      
     
+      
       
       
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Driver Reverse &amp; Exploitation</description>
       
       
       
+      
     
+      
       
       
       <pubDate>2025-09-20T12:49:01Z</pubDate>
       
       
       
+      
     
+      
       
       
       <guid isPermaLink="true">https://github.com/alex3O/BYOVD-DriverKiller?updated=1&amp;ts=1758372541</guid>
       
       
       
+      
   
     
     
+    
     </item>
+    
+    
     
     
     
@@ -833,7 +1235,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -842,7 +1246,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -851,7 +1257,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -860,7 +1268,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -869,7 +1279,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -878,11 +1290,15 @@
       
       
       
+      
   
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -894,7 +1310,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -903,7 +1321,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -912,7 +1332,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -921,7 +1343,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -930,7 +1354,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -939,11 +1365,15 @@
       
       
       
+      
   
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -955,7 +1385,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -964,7 +1396,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -973,7 +1407,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -982,7 +1418,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -991,7 +1429,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1000,11 +1440,15 @@
       
       
       
+      
   
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1017,7 +1461,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1028,7 +1474,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1039,7 +1487,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1050,7 +1500,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1061,7 +1513,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1072,12 +1526,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1092,7 +1550,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1103,7 +1563,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1114,7 +1576,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1125,7 +1589,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1136,7 +1602,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1147,12 +1615,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1167,7 +1639,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1178,7 +1652,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1189,7 +1665,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1200,7 +1678,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1211,7 +1691,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1222,12 +1704,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1242,7 +1728,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1253,7 +1741,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1264,7 +1754,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1275,7 +1767,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1286,7 +1780,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1297,12 +1793,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1317,7 +1817,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1328,7 +1830,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1339,7 +1843,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1350,7 +1856,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1361,7 +1869,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1372,12 +1882,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1392,7 +1906,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1403,7 +1919,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1414,7 +1932,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1425,7 +1945,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1436,7 +1958,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1447,12 +1971,16 @@
       
       
       
+      
   
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1468,7 +1996,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1481,7 +2011,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1494,7 +2026,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1507,7 +2041,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1520,7 +2056,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1533,13 +2071,17 @@
       
       
       
+      
   
     
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1557,7 +2099,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1570,7 +2114,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1583,7 +2129,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1596,7 +2144,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1609,7 +2159,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1622,13 +2174,17 @@
       
       
       
+      
   
     
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1646,7 +2202,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1659,7 +2217,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1672,7 +2232,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1685,7 +2247,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1698,7 +2262,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1711,13 +2277,17 @@
       
       
       
+      
   
     
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1735,7 +2305,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1748,7 +2320,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1761,7 +2335,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1774,7 +2350,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1787,7 +2365,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1800,13 +2380,17 @@
       
       
       
+      
   
     
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1824,7 +2408,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1837,7 +2423,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1850,7 +2438,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1863,7 +2453,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1876,7 +2468,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1889,13 +2483,17 @@
       
       
       
+      
   
     
     
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -1914,7 +2512,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1929,7 +2529,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1944,7 +2546,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1959,7 +2563,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1974,7 +2580,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -1989,6 +2597,7 @@
       
       
       
+      
   
     
     
@@ -1996,7 +2605,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2017,7 +2629,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2032,7 +2646,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2047,7 +2663,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2062,7 +2680,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2077,7 +2697,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2092,6 +2714,7 @@
       
       
       
+      
   
     
     
@@ -2099,7 +2722,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2120,7 +2746,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2135,7 +2763,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2150,7 +2780,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2165,7 +2797,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2180,7 +2814,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2195,6 +2831,7 @@
       
       
       
+      
   
     
     
@@ -2202,7 +2839,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2223,7 +2863,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2238,7 +2880,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2253,7 +2897,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2268,7 +2914,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2283,7 +2931,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2298,6 +2948,7 @@
       
       
       
+      
   
     
     
@@ -2305,7 +2956,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2326,7 +2980,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2341,7 +2997,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2356,7 +3014,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2371,7 +3031,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2386,7 +3048,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2401,6 +3065,7 @@
       
       
       
+      
   
     
     
@@ -2408,7 +3073,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2429,7 +3097,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2444,7 +3114,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2459,7 +3131,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2474,7 +3148,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2489,7 +3165,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2504,6 +3182,7 @@
       
       
       
+      
   
     
     
@@ -2511,7 +3190,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2532,7 +3214,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2547,7 +3231,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2562,7 +3248,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2577,7 +3265,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2592,7 +3282,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2607,6 +3299,7 @@
       
       
       
+      
   
     
     
@@ -2614,7 +3307,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2635,7 +3331,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2650,7 +3348,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2665,7 +3365,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2680,7 +3382,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2695,7 +3399,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2710,6 +3416,7 @@
       
       
       
+      
   
     
     
@@ -2717,7 +3424,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2739,7 +3449,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2756,7 +3468,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2773,7 +3487,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2790,7 +3506,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2807,7 +3525,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2824,6 +3544,7 @@
       
       
       
+      
   
     
     
@@ -2832,7 +3553,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2856,7 +3580,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2873,7 +3599,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2890,7 +3618,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2907,7 +3637,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2924,7 +3656,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2941,6 +3675,7 @@
       
       
       
+      
   
     
     
@@ -2949,7 +3684,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -2973,7 +3711,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -2990,7 +3730,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3007,7 +3749,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3024,7 +3768,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3041,7 +3787,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3058,6 +3806,7 @@
       
       
       
+      
   
     
     
@@ -3066,7 +3815,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3090,7 +3842,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3107,7 +3861,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3124,7 +3880,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3141,7 +3899,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3158,7 +3918,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3175,6 +3937,7 @@
       
       
       
+      
   
     
     
@@ -3183,7 +3946,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3207,7 +3973,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3224,7 +3992,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3241,7 +4011,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3258,7 +4030,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3275,7 +4049,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3292,6 +4068,7 @@
       
       
       
+      
   
     
     
@@ -3300,7 +4077,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3324,7 +4104,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3341,7 +4123,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3358,7 +4142,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3375,7 +4161,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3392,7 +4180,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3409,6 +4199,7 @@
       
       
       
+      
   
     
     
@@ -3417,7 +4208,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3441,7 +4235,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3458,7 +4254,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3475,7 +4273,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3492,7 +4292,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3509,7 +4311,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3526,6 +4330,7 @@
       
       
       
+      
   
     
     
@@ -3534,7 +4339,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3558,7 +4366,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3575,7 +4385,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3592,7 +4404,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3609,7 +4423,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3626,7 +4442,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3643,6 +4461,7 @@
       
       
       
+      
   
     
     
@@ -3651,7 +4470,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3675,7 +4497,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3692,7 +4516,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3709,7 +4535,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3726,7 +4554,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3743,7 +4573,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3760,6 +4592,7 @@
       
       
       
+      
   
     
     
@@ -3768,7 +4601,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3792,7 +4628,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3809,7 +4647,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3826,7 +4666,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3843,7 +4685,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3860,7 +4704,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3877,6 +4723,7 @@
       
       
       
+      
   
     
     
@@ -3885,7 +4732,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -3909,7 +4759,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3926,7 +4778,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3943,7 +4797,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3960,7 +4816,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3977,7 +4835,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -3994,6 +4854,7 @@
       
       
       
+      
   
     
     
@@ -4002,7 +4863,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4026,7 +4890,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4043,7 +4909,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4060,7 +4928,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4077,7 +4947,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4094,7 +4966,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4111,6 +4985,7 @@
       
       
       
+      
   
     
     
@@ -4119,7 +4994,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4143,7 +5021,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4160,7 +5040,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4177,7 +5059,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4194,7 +5078,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4211,7 +5097,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4228,6 +5116,7 @@
       
       
       
+      
   
     
     
@@ -4236,7 +5125,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4260,7 +5152,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4277,7 +5171,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4294,7 +5190,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4311,7 +5209,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4328,7 +5228,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4345,6 +5247,7 @@
       
       
       
+      
   
     
     
@@ -4353,7 +5256,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4377,7 +5283,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4394,7 +5302,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4411,7 +5321,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4428,7 +5340,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4445,7 +5359,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4462,6 +5378,7 @@
       
       
       
+      
   
     
     
@@ -4470,7 +5387,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4494,7 +5414,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4511,7 +5433,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4528,7 +5452,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4545,7 +5471,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4562,7 +5490,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4579,6 +5509,7 @@
       
       
       
+      
   
     
     
@@ -4587,7 +5518,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4611,7 +5545,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4628,7 +5564,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4645,7 +5583,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4662,7 +5602,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4679,7 +5621,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4696,6 +5640,7 @@
       
       
       
+      
   
     
     
@@ -4704,7 +5649,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4728,7 +5676,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4745,7 +5695,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4762,7 +5714,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4779,7 +5733,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4796,7 +5752,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4813,6 +5771,7 @@
       
       
       
+      
   
     
     
@@ -4821,7 +5780,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4845,7 +5807,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4862,7 +5826,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4879,7 +5845,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4896,7 +5864,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4913,7 +5883,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4930,6 +5902,7 @@
       
       
       
+      
   
     
     
@@ -4938,7 +5911,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -4962,7 +5938,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4979,7 +5957,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -4996,7 +5976,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5013,7 +5995,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5030,7 +6014,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5047,6 +6033,7 @@
       
       
       
+      
   
     
     
@@ -5055,7 +6042,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5079,7 +6069,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5096,7 +6088,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5113,7 +6107,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5130,7 +6126,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5147,7 +6145,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5164,6 +6164,7 @@
       
       
       
+      
   
     
     
@@ -5172,7 +6173,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5196,7 +6200,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5213,7 +6219,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5230,7 +6238,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5247,7 +6257,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5264,7 +6276,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5281,6 +6295,7 @@
       
       
       
+      
   
     
     
@@ -5289,7 +6304,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5313,7 +6331,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5330,7 +6350,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5347,7 +6369,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5364,7 +6388,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5381,7 +6407,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5398,6 +6426,7 @@
       
       
       
+      
   
     
     
@@ -5406,7 +6435,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5430,7 +6462,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5447,7 +6481,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5464,7 +6500,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5481,7 +6519,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5498,7 +6538,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5515,6 +6557,7 @@
       
       
       
+      
   
     
     
@@ -5523,7 +6566,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5547,7 +6593,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5564,7 +6612,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5581,7 +6631,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5598,7 +6650,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5615,7 +6669,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5632,6 +6688,7 @@
       
       
       
+      
   
     
     
@@ -5640,7 +6697,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5664,7 +6724,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5681,7 +6743,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5698,7 +6762,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5715,7 +6781,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5732,7 +6800,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5749,6 +6819,7 @@
       
       
       
+      
   
     
     
@@ -5757,7 +6828,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5781,7 +6855,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5798,7 +6874,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5815,7 +6893,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5832,7 +6912,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5849,7 +6931,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5866,6 +6950,7 @@
       
       
       
+      
   
     
     
@@ -5874,7 +6959,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -5898,7 +6986,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5915,7 +7005,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5932,7 +7024,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5949,7 +7043,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5966,7 +7062,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -5983,6 +7081,7 @@
       
       
       
+      
   
     
     
@@ -5991,7 +7090,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -6015,7 +7117,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6032,7 +7136,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6049,7 +7155,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6066,7 +7174,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6083,7 +7193,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6100,6 +7212,7 @@
       
       
       
+      
   
     
     
@@ -6108,7 +7221,10 @@
     
     
     
+    
     </item>
+    
+    
     
     
     
@@ -6132,7 +7248,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6149,7 +7267,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6166,7 +7286,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6183,7 +7305,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6200,7 +7324,9 @@
       
       
       
+      
     
+      
       
       
       
@@ -6217,7 +7343,9 @@
       
       
       
+      
   
+    
     
     
     
@@ -6240,7 +7368,11 @@
     
     
     
+    
+    
     <title>GitHub Monitor: BYOVD &amp; EDR Evasion</title>
+    
+    
     
     
     
@@ -6282,7 +7414,11 @@
     
     
     
+    
+    
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
+    
+    
     
     
     
@@ -6324,7 +7460,9 @@
     
     
     
-    <lastBuildDate>Sun, 21 Sep 2025 02:05:09 GMT</lastBuildDate>
+    
+    
+    <lastBuildDate>Sun, 21 Sep 2025 06:36:00 GMT</lastBuildDate>
   </channel>
   
   
@@ -6336,6 +7474,8 @@
   
   
   
+  
+
 
 
 
