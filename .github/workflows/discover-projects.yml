@@ -296,9 +296,10 @@ jobs:
           echo "    f.write(parsed.toprettyxml(indent='  '))" >> update_rss_feed.py
           echo "" >> update_rss_feed.py
           echo "print('RSS feed更新完成')" >> update_rss_feed.py
-
+          
           python3 update_rss_feed.py
-
+          grep -v '^$' feed.xml > feed_temp.xml && mv feed_temp.xml feed.xml
+          
       - name: Persist state and commit changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
