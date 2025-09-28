@@ -319,6 +319,12 @@ jobs:
       - name: No changes - update log
         if: steps.check_changes.outputs.has_changes == 'false'
         run: |
+          if [ -f feed.xml ]; then
+            grep -v '^[[:space:]]*$' feed.xml > feed_temp.xml && mv feed_temp.xml feed.xml
+          else
+            :
+          fi
+          
           echo "$(date +"%Y-%m-%d %H:%M:%S") - No changes detected" >> monitor.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
