@@ -174,12 +174,14 @@ jobs:
               if [ -n "$project_info" ]; then
                 full_name=$(echo "$project_info" | jq -r '.full_name')
                 description=$(echo "$project_info" | jq -r '.description // "No description"')
+                pushed_at=$(echo "$project_info" | jq -r '.pushed_at // "Unknown"')
+                updated_at=$(echo "$project_info" | jq -r '.updated_at // "Unknown"')
                 description_escaped=$(html_escape "$description")
                 
                 echo '  <item>' >> $RSS_ITEM_FILE
                 echo "    <title>🚀 新项目: $full_name</title>" >> $RSS_ITEM_FILE
                 echo "    <link>$url</link>" >> $RSS_ITEM_FILE
-                echo "    <description>新发现的BYOVD/EDR对抗项目。描述: $description_escaped</description>" >> $RSS_ITEM_FILE
+                echo "    <description>新发现的BYOVD/EDR对抗项目。描述: $description_escaped | 最后推送: $pushed_at | 最后更新: $updated_at</description>" >> $RSS_ITEM_FILE
                 echo "    <pubDate>$CURRENT_DATE</pubDate>" >> $RSS_ITEM_FILE
                 echo "    <guid isPermaLink=\"true\">${url}?new=1&amp;ts=$(date +%s)</guid>" >> $RSS_ITEM_FILE
                 echo '  </item>' >> $RSS_ITEM_FILE
@@ -195,12 +197,14 @@ jobs:
               if [ -n "$project_info" ]; then
                 full_name=$(echo "$project_info" | jq -r '.full_name')
                 description=$(echo "$project_info" | jq -r '.description // "No description"')
+                pushed_at=$(echo "$project_info" | jq -r '.pushed_at // "Unknown"')
+                updated_at=$(echo "$project_info" | jq -r '.updated_at // "Unknown"')
                 description_escaped=$(html_escape "$description")
                 
                 echo '  <item>' >> $RSS_ITEM_FILE
                 echo "    <title>📢 更新: $full_name</title>" >> $RSS_ITEM_FILE
                 echo "    <link>$url</link>" >> $RSS_ITEM_FILE
-                echo "    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: $description_escaped</description>" >> $RSS_ITEM_FILE
+                echo "    <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: $description_escaped | 最后推送: $pushed_at | 最后更新: $updated_at</description>" >> $RSS_ITEM_FILE
                 echo "    <pubDate>$CURRENT_DATE</pubDate>" >> $RSS_ITEM_FILE
                 echo "    <guid isPermaLink=\"true\">${url}?updated=1&amp;ts=$(date +%s)</guid>" >> $RSS_ITEM_FILE
                 echo '  </item>' >> $RSS_ITEM_FILE
