@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2025-09-29T06:38:15Z | 最后更新: 2025-09-29T06:38:18Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-09-29T04:37:56Z | 最后更新: 2025-09-29T04:38:00Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-09-29T02:29:16Z | 最后更新: 2025-09-29T02:29:19Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CaledoniaProject/drivers-binaries</title>
+      <link>https://github.com/CaledoniaProject/drivers-binaries</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploitable drivers, you know what I mean | 最后推送: 2025-09-29T02:20:31Z | 最后更新: 2025-09-29T02:20:35Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CaledoniaProject/drivers-binaries?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-09-29T01:58:42Z | 最后更新: 2025-09-29T01:58:45Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-09-29T00:41:21Z | 最后更新: 2025-09-29T06:29:49Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2025-09-28T11:46:15Z | 最后更新: 2025-09-29T05:29:42Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-09-25T13:49:22Z | 最后更新: 2025-09-29T06:04:52Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: j3h4ck/WatchDogKiller</title>
+      <link>https://github.com/j3h4ck/WatchDogKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD. | 最后推送: 2025-09-11T00:58:17Z | 最后更新: 2025-09-29T02:54:16Z</description>
+      <pubDate>2025-09-29T06:40:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1759128042</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-09-29T01:10:57Z | 最后更新: 2025-09-29T01:11:01Z</description>
@@ -2028,6 +2091,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 01:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 06:40:42 GMT</lastBuildDate>
   </channel>
 </rss>
