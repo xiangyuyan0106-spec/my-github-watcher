@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-09-29T01:10:57Z | 最后更新: 2025-09-29T01:11:01Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-09-29T00:41:21Z | 最后更新: 2025-09-29T00:41:25Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JFR-C/Windows-Penetration-Testing</title>
+      <link>https://github.com/JFR-C/Windows-Penetration-Testing</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming). | 最后推送: 2025-09-28T20:39:27Z | 最后更新: 2025-09-28T20:39:30Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JFR-C/Windows-Penetration-Testing?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-09-28T18:31:49Z | 最后更新: 2025-09-28T18:31:52Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | 最后推送: 2025-09-25T14:16:45Z | 最后更新: 2025-09-28T20:56:41Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-09-25T13:49:22Z | 最后更新: 2025-09-29T01:18:02Z</description>
+      <pubDate>2025-09-29T01:58:41Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1759111121</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: deletehead/windbgx</title>
       <link>https://github.com/deletehead/windbgx</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2025-09-25T14:34:32Z | 最后更新: 2025-09-05T09:45:57Z</description>
@@ -1986,6 +2028,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 18:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 01:58:41 GMT</lastBuildDate>
   </channel>
 </rss>
