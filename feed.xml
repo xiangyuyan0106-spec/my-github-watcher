@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: infosecn1nja/Red-Teaming-Toolkit</title>
+      <link>https://github.com/infosecn1nja/Red-Teaming-Toolkit</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. | 最后推送: 2025-09-29T14:30:52Z | 最后更新: 2025-09-29T14:31:00Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/infosecn1nja/Red-Teaming-Toolkit?new=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-09-29T18:36:11Z | 最后更新: 2025-09-29T18:36:14Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-09-29T13:01:32Z | 最后更新: 2025-09-29T13:07:27Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-09-29T12:55:13Z | 最后更新: 2025-09-29T12:55:16Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-09-29T04:37:56Z | 最后更新: 2025-09-29T16:31:11Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-09-25T13:49:22Z | 最后更新: 2025-09-29T16:19:15Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: j3h4ck/WatchDogKiller</title>
+      <link>https://github.com/j3h4ck/WatchDogKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD. | 最后推送: 2025-09-11T00:58:17Z | 最后更新: 2025-09-29T18:22:36Z</description>
+      <pubDate>2025-09-29T18:38:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1759171099</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: CrackerCat/feed</title>
       <link>https://github.com/CrackerCat/feed</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-09-29T12:52:47Z | 最后更新: 2025-09-29T12:52:51Z</description>
@@ -2133,6 +2182,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 12:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 18:38:19 GMT</lastBuildDate>
   </channel>
 </rss>
