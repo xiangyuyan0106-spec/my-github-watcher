@@ -1,6 +1,6 @@
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/JodisKripe/BYOVD
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/JFR-C/Windows-Penetration-Testing
@@ -16,7 +16,7 @@ https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/ybdt/evasion-hub
 https://github.com/grisuno/CVE-2022-22077
 https://github.com/0xbekoo/SSDT-Hook-Detector
-https://github.com/parth45/ASWE-Prep
+https://github.com/parth45/CETP-Prep
 https://github.com/mertdas/ValleyTerminator
 https://github.com/3xploit666/WatchDog_Killer
 https://github.com/ANYLNK/NSecSoftBYOVD
