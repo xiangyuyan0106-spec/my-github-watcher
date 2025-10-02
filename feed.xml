@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: frlc/frlc</title>
+      <link>https://github.com/frlc/frlc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2025-10-02T12:40:19Z | 最后更新: 2025-10-02T12:40:23Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/frlc/frlc?new=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: rivaldofwijaya/Pembeku-EDR</title>
+      <link>https://github.com/rivaldofwijaya/Pembeku-EDR</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modified version of the real tool for security testing | 最后推送: 2025-09-26T05:00:46Z | 最后更新: 2025-10-02T09:00:25Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rivaldofwijaya/Pembeku-EDR?new=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-02T12:42:28Z | 最后更新: 2025-10-02T12:42:32Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-02T06:37:01Z | 最后更新: 2025-10-02T06:37:03Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-10-02T01:20:30Z | 最后更新: 2025-10-02T10:13:55Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-09-29T13:01:32Z | 最后更新: 2025-10-02T07:39:28Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1759409513</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-09-25T13:49:22Z | 最后更新: 2025-10-02T11:01:16Z</description>
+      <pubDate>2025-10-02T12:51:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1759409514</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
       <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-10-02T02:23:47Z | 最后更新: 2025-10-02T02:23:51Z</description>
@@ -2588,6 +2637,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2025 06:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 12:51:54 GMT</lastBuildDate>
   </channel>
 </rss>

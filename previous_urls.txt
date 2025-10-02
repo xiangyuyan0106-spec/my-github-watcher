@@ -1,8 +1,9 @@
-https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/frlc/frlc
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/gmh5225/awesome-game-security
 https://github.com/GhostTroops/TOP
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/JodisKripe/BYOVD
 https://github.com/JFR-C/Windows-Penetration-Testing
 https://github.com/infosecn1nja/Red-Teaming-Toolkit
@@ -12,6 +13,7 @@ https://github.com/CaledoniaProject/drivers-binaries
 https://github.com/d4rt3s/Boby
 https://github.com/b1ank1108/awesome-stars
 https://github.com/0xsyr0/Cybersecurity-Glossary
+https://github.com/rivaldofwijaya/Pembeku-EDR
 https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/ybdt/evasion-hub
 https://github.com/grisuno/CVE-2022-22077
@@ -26,5 +28,3 @@ https://github.com/j3h4ck/WatchDogKiller
 https://github.com/ghostbyt3/BYOVD-POC
 https://github.com/geeknik/my-awesome-stars
 https://github.com/GiladLeef/winscape
-https://github.com/BlackSnufkin/LitterBox
-https://github.com/4l3x777/4l3x777
