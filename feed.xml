@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: JFR-C/Windows-Penetration-Testing</title>
+      <link>https://github.com/JFR-C/Windows-Penetration-Testing</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming). | 最后推送: 2025-10-04T16:25:30Z | 最后更新: 2025-10-04T16:25:33Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JFR-C/Windows-Penetration-Testing?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-04T12:47:11Z | 最后更新: 2025-10-04T12:47:14Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-04T12:40:59Z | 最后更新: 2025-10-04T17:40:48Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-10-04T01:04:55Z | 最后更新: 2025-10-04T17:42:11Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-10-03T14:11:11Z | 最后更新: 2025-10-04T18:10:27Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-10-03T13:52:09Z | 最后更新: 2025-10-04T16:51:40Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: infosecn1nja/Red-Teaming-Toolkit</title>
+      <link>https://github.com/infosecn1nja/Red-Teaming-Toolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. | 最后推送: 2025-09-29T14:30:52Z | 最后更新: 2025-10-04T17:39:27Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/infosecn1nja/Red-Teaming-Toolkit?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CaledoniaProject/drivers-binaries</title>
+      <link>https://github.com/CaledoniaProject/drivers-binaries</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploitable drivers, you know what I mean | 最后推送: 2025-09-29T02:20:31Z | 最后更新: 2025-10-04T17:41:19Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CaledoniaProject/drivers-binaries?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-09-25T13:49:22Z | 最后更新: 2025-10-04T17:01:22Z</description>
+      <pubDate>2025-10-04T18:33:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1759602792</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-04T12:40:59Z | 最后更新: 2025-10-04T12:41:02Z</description>
@@ -2945,6 +3008,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Oct 2025 12:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 18:33:12 GMT</lastBuildDate>
   </channel>
 </rss>
