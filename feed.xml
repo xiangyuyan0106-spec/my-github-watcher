@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: IamVanLord/NSecSoftBYOVD</title>
+      <link>https://github.com/IamVanLord/NSecSoftBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠️ Terminate AV processes easily with NSecSoftBYOVD using the provided driver for streamlined execution in your environment. | 最后推送: 2025-10-05T18:25:20Z | 最后更新: 2025-10-05T18:25:23Z</description>
+      <pubDate>2025-10-05T18:32:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/IamVanLord/NSecSoftBYOVD?updated=1&amp;ts=1759689132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-10-05T16:56:56Z | 最后更新: 2025-10-05T16:57:00Z</description>
+      <pubDate>2025-10-05T18:32:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1759689132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-05T12:48:30Z | 最后更新: 2025-10-05T12:48:33Z</description>
+      <pubDate>2025-10-05T18:32:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1759689132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: j3h4ck/WatchDogKiller</title>
+      <link>https://github.com/j3h4ck/WatchDogKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD. | 最后推送: 2025-09-11T00:58:17Z | 最后更新: 2025-10-05T14:40:25Z</description>
+      <pubDate>2025-10-05T18:32:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/WatchDogKiller?updated=1&amp;ts=1759689132</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-05T12:44:26Z | 最后更新: 2025-10-05T12:44:30Z</description>
@@ -3148,6 +3176,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 12:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 18:32:12 GMT</lastBuildDate>
   </channel>
 </rss>
