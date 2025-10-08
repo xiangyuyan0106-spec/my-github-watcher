@@ -1,11 +1,11 @@
+https://github.com/IamVanLord/NSecSoftBYOVD
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/JFR-C/Windows-Penetration-Testing
 https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/IamVanLord/NSecSoftBYOVD
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/JodisKripe/BYOVD
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/b1ank1108/awesome-stars
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 https://github.com/TwoSevenOneT/EDR-Freeze
