@@ -1,9 +1,9 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/Yenn503/Noctis-MCP
 https://github.com/IamVanLord/NSecSoftBYOVD
+https://github.com/ybdt/evasion-hub
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/JodisKripe/BYOVD
 https://github.com/killvxk/gitweekly
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/JodisKripe/JodisKripe
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
@@ -20,7 +20,6 @@ https://github.com/d4rt3s/Boby
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/rivaldofwijaya/Pembeku-EDR
 https://github.com/deletehead/windbgx
-https://github.com/ybdt/evasion-hub
 https://github.com/grisuno/CVE-2022-22077
 https://github.com/0xbekoo/SSDT-Hook-Detector
 https://github.com/parth45/CETP-Prep
@@ -28,3 +27,4 @@ https://github.com/mertdas/ValleyTerminator
 https://github.com/3xploit666/WatchDog_Killer
 https://github.com/ANYLNK/NSecSoftBYOVD
 https://github.com/SplineUser/SplineUser
+https://github.com/didntchooseaname/loldrivers-database
