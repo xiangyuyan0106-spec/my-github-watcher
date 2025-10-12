@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: IamVanLord/NSecSoftBYOVD</title>
+      <link>https://github.com/IamVanLord/NSecSoftBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠️ Terminate AV processes easily with NSecSoftBYOVD using the provided driver for streamlined execution in your environment. | 最后推送: 2025-10-12T01:47:48Z | 最后更新: 2025-10-12T01:47:51Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/IamVanLord/NSecSoftBYOVD?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-10-12T01:12:19Z | 最后更新: 2025-10-12T01:12:22Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-12T00:41:17Z | 最后更新: 2025-10-12T00:41:20Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-10-11T20:16:14Z | 最后更新: 2025-10-11T20:16:18Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-11T18:30:59Z | 最后更新: 2025-10-11T18:31:02Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xsyr0/Cybersecurity-Glossary</title>
+      <link>https://github.com/0xsyr0/Cybersecurity-Glossary</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A summary of the most abbreviations I encountered so far | 最后推送: 2025-10-10T20:00:14Z | 最后更新: 2025-10-11T21:25:41Z</description>
+      <pubDate>2025-10-12T02:00:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xsyr0/Cybersecurity-Glossary?updated=1&amp;ts=1760234439</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: killvxk/gitweekly</title>
       <link>https://github.com/killvxk/gitweekly</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2025-10-11T16:32:34Z | 最后更新: 2025-10-11T16:32:37Z</description>
@@ -4373,6 +4415,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 18:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 02:00:40 GMT</lastBuildDate>
   </channel>
 </rss>
