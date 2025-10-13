@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: IamVanLord/NSecSoftBYOVD</title>
+      <link>https://github.com/IamVanLord/NSecSoftBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠️ Terminate AV processes easily with NSecSoftBYOVD using the provided driver for streamlined execution in your environment. | 最后推送: 2025-10-13T06:02:07Z | 最后更新: 2025-10-13T06:02:11Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/IamVanLord/NSecSoftBYOVD?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-10-13T02:44:12Z | 最后更新: 2025-10-13T02:44:16Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-13T02:03:11Z | 最后更新: 2025-10-13T02:03:14Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-13T00:40:53Z | 最后更新: 2025-10-13T02:47:48Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-10-11T20:16:14Z | 最后更新: 2025-10-13T05:11:51Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-10-11T01:32:51Z | 最后更新: 2025-10-13T06:06:17Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ANYLNK/NSecSoftBYOVD</title>
+      <link>https://github.com/ANYLNK/NSecSoftBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: NSecSoftBYOVD POC | 最后推送: 2025-09-14T17:57:11Z | 最后更新: 2025-10-13T02:22:47Z</description>
+      <pubDate>2025-10-13T06:40:10Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ANYLNK/NSecSoftBYOVD?updated=1&amp;ts=1760337610</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-10-13T01:14:02Z | 最后更新: 2025-10-13T01:14:06Z</description>
@@ -4569,6 +4618,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 02:03:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 06:40:10 GMT</lastBuildDate>
   </channel>
 </rss>
