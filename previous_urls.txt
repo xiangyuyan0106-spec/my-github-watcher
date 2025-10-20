@@ -1,13 +1,12 @@
-https://github.com/JFR-C/Windows-Penetration-Testing
-https://github.com/0xHaskar/ArsenalKit
+https://github.com/GhostTroops/TOP
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/IamVanLord/NSecSoftBYOVD
 https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/tanjiti/sec_profile
+https://github.com/JFR-C/Windows-Penetration-Testing
+https://github.com/0xHaskar/ArsenalKit
 https://github.com/b1ank1108/awesome-stars
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/grisuno/CVE-2022-22077
-https://github.com/GhostTroops/TOP
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/gmh5225/awesome-game-security
 https://github.com/vmlmwiki/kemoda
@@ -28,3 +27,4 @@ https://github.com/CaledoniaProject/drivers-binaries
 https://github.com/d4rt3s/Boby
 https://github.com/rivaldofwijaya/Pembeku-EDR
 https://github.com/deletehead/windbgx
+https://github.com/0xbekoo/SSDT-Hook-Detector
