@@ -1,7 +1,8 @@
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/IamVanLord/NSecSoftBYOVD
-https://github.com/killvxk/gitweekly
+https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/killvxk/gitweekly
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/JFR-C/Windows-Penetration-Testing
@@ -17,7 +18,6 @@ https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/JodisKripe/BYOVD
 https://github.com/TwoSevenOneT/EDR-Freeze
-https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/ybdt/evasion-hub
 https://github.com/JodisKripe/JodisKripe
 https://github.com/CyberSecurityUP/Red-Team-Exercises
