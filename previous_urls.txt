@@ -1,8 +1,7 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/killvxk/gitweekly
 https://github.com/IamVanLord/NSecSoftBYOVD
 https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/volume19/driver-hunter
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/killvxk/gitweekly
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/carved4/bflip
@@ -28,3 +27,4 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit
 https://github.com/CaledoniaProject/drivers-binaries
 https://github.com/d4rt3s/Boby
 https://github.com/rivaldofwijaya/Pembeku-EDR
+https://github.com/deletehead/windbgx
