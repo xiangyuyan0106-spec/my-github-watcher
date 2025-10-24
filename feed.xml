@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: moiz-2x/CVE-2025-24990_POC</title>
+      <link>https://github.com/moiz-2x/CVE-2025-24990_POC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Proof of Concept CVE-2025-24990 (Agere Systems's driver)  | 最后推送: 2025-10-24T04:11:41Z | 最后更新: 2025-10-24T04:11:44Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moiz-2x/CVE-2025-24990_POC?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: IamVanLord/NSecSoftBYOVD</title>
+      <link>https://github.com/IamVanLord/NSecSoftBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠️ Terminate AV processes easily with NSecSoftBYOVD using the provided driver for streamlined execution in your environment. | 最后推送: 2025-10-24T03:52:00Z | 最后更新: 2025-10-24T03:52:03Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/IamVanLord/NSecSoftBYOVD?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-10-24T02:26:18Z | 最后更新: 2025-10-24T02:26:22Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-10-24T01:54:40Z | 最后更新: 2025-10-24T01:54:43Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-10-24T00:41:54Z | 最后更新: 2025-10-24T04:10:07Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-10-22T06:22:11Z | 最后更新: 2025-10-24T01:56:41Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: infosecn1nja/Red-Teaming-Toolkit</title>
+      <link>https://github.com/infosecn1nja/Red-Teaming-Toolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. | 最后推送: 2025-09-29T14:30:52Z | 最后更新: 2025-10-24T04:40:13Z</description>
+      <pubDate>2025-10-24T06:38:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/infosecn1nja/Red-Teaming-Toolkit?updated=1&amp;ts=1761287912</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-10-24T01:08:11Z | 最后更新: 2025-10-24T01:08:15Z</description>
@@ -6837,6 +6886,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 01:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 06:38:32 GMT</lastBuildDate>
   </channel>
 </rss>
