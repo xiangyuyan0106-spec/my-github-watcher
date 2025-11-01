@@ -1,9 +1,9 @@
-https://github.com/TwoSevenOneT/EDR-Freeze
-https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/IamVanLord/NSecSoftBYOVD
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/TwoSevenOneT/EDR-Freeze
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/moiz-2x/CVE-2025-24990_POC
 https://github.com/tanjiti/sec_profile
