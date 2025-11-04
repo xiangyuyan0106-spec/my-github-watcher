@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: infosecn1nja/Red-Teaming-Toolkit</title>
+      <link>https://github.com/infosecn1nja/Red-Teaming-Toolkit</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. | 最后推送: 2025-09-29T14:30:52Z | 最后更新: 2025-11-03T14:53:28Z</description>
+      <pubDate>2025-11-04T02:02:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/infosecn1nja/Red-Teaming-Toolkit?new=1&amp;ts=1762221747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-11-04T01:13:10Z | 最后更新: 2025-11-04T01:13:14Z</description>
+      <pubDate>2025-11-04T02:02:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1762221747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-11-04T00:41:15Z | 最后更新: 2025-11-04T00:41:19Z</description>
+      <pubDate>2025-11-04T02:02:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1762221747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-11-03T18:35:05Z | 最后更新: 2025-11-03T18:35:09Z</description>
+      <pubDate>2025-11-04T02:02:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1762221747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/BYOVD</title>
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,). | 最后推送: 2025-10-15T10:19:54Z | 最后更新: 2025-11-03T20:13:53Z</description>
+      <pubDate>2025-11-04T02:02:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1762221747</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: felipealfonsog/felipealfonsog</title>
       <link>https://github.com/felipealfonsog/felipealfonsog</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Journey through the cryptic corridors of code. Unravel the secrets encoded in the shadows. Welcome to the realm where algorithms whisper in binary tongues. Dare to explore, for within lies the essence of innovation. | 最后推送: 2025-11-03T18:02:39Z | 最后更新: 2025-11-03T18:02:43Z</description>
@@ -8888,6 +8923,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 18:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 02:02:27 GMT</lastBuildDate>
   </channel>
 </rss>
