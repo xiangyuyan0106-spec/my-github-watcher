@@ -2,6 +2,20 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-11-08T02:27:09Z | 最后更新: 2025-11-08T02:27:12Z</description>
+      <pubDate>2025-11-08T06:37:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1762583850</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-11-08T01:56:10Z | 最后更新: 2025-11-08T01:56:14Z</description>
+      <pubDate>2025-11-08T06:37:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1762583850</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-11-08T01:10:02Z | 最后更新: 2025-11-08T01:10:06Z</description>
@@ -9609,6 +9623,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 01:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 06:37:30 GMT</lastBuildDate>
   </channel>
 </rss>
