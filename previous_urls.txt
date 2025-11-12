@@ -1,12 +1,13 @@
+https://github.com/CDipper/BYOVD
+https://github.com/HotCakeX/Harden-Windows-Security
+https://github.com/AptAmoeba/KQL-Threat-Hunting
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/tanjiti/sec_profile
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/AptAmoeba/KQL-Threat-Hunting
-https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/killvxk/gitweekly
 https://github.com/osamayo/PhysicalMemExploit
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/ikinustaT/iKARMA
 https://github.com/gmh5225/awesome-game-security
 https://github.com/xHyperPacket/xHyperPacket
@@ -27,4 +28,3 @@ https://github.com/0xHaskar/ArsenalKit
 https://github.com/grisuno/CVE-2022-22077
 https://github.com/tkmru/awesome-edr-bypass
 https://github.com/BlackSnufkin/BYOVD
-https://github.com/JodisKripe/BYOVD
