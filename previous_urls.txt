@@ -1,10 +1,11 @@
-https://github.com/azdabat/MISP-TI-Rules
-https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/azdabat/MISP-TI-Rules
+https://github.com/azdabat/Threat-Intelligence-Presentation---Sentinel---MISP---OpenCTI--Feedback-loop
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/CDipper/BYOVD
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/GhostTroops/TOP
 https://github.com/tanjiti/sec_profile
 https://github.com/gmh5225/awesome-game-security
 https://github.com/BlackSnufkin/LitterBox
@@ -27,4 +28,3 @@ https://github.com/vmlmwiki/kemoda
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/carved4/bflip
 https://github.com/0xHaskar/ArsenalKit
-https://github.com/grisuno/CVE-2022-22077
