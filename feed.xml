@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: azdabat/azdabat</title>
+      <link>https://github.com/azdabat/azdabat</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Advanced SOC, Incident Response and Threat Intelligence research/Engineering. Detection logic/Engineering, attack chains and MITRE-mapped artefacts. | 最后推送: 2025-11-15T17:09:21Z | 最后更新: 2025-11-15T17:09:25Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/azdabat?new=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ikinustaT/iKARMA</title>
+      <link>https://github.com/ikinustaT/iKARMA</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-11-15T17:08:55Z | 最后更新: 2025-11-15T17:08:58Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ikinustaT/iKARMA?updated=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: azdabat/MISP-TI-Rules</title>
+      <link>https://github.com/azdabat/MISP-TI-Rules</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting rules with MISP TI Indicators and weighted scores | 最后推送: 2025-11-15T15:22:19Z | 最后更新: 2025-11-15T15:22:22Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/MISP-TI-Rules?updated=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-11-15T12:49:50Z | 最后更新: 2025-11-15T12:49:53Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-11-15T12:42:48Z | 最后更新: 2025-11-15T15:04:36Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CDipper/BYOVD</title>
+      <link>https://github.com/CDipper/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 记录一些漏洞驱动，主要是学习Windows Kernel | 最后推送: 2025-11-14T03:44:46Z | 最后更新: 2025-11-15T17:50:49Z</description>
+      <pubDate>2025-11-15T18:33:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CDipper/BYOVD?updated=1&amp;ts=1763231610</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: rishavand1/Red-Team-Techniques</title>
       <link>https://github.com/rishavand1/Red-Team-Techniques</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: AVE | 最后推送: 2025-11-15T09:45:04Z | 最后更新: 2025-11-15T09:45:17Z</description>
@@ -10778,6 +10820,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Nov 2025 12:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 18:33:30 GMT</lastBuildDate>
   </channel>
 </rss>
