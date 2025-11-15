@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: rishavand1/Red-Team-Techniques</title>
+      <link>https://github.com/rishavand1/Red-Team-Techniques</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: AVE | 最后推送: 2025-11-15T09:45:04Z | 最后更新: 2025-11-15T09:45:17Z</description>
+      <pubDate>2025-11-15T12:49:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rishavand1/Red-Team-Techniques?new=1&amp;ts=1763210990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-11-15T12:42:48Z | 最后更新: 2025-11-15T12:42:52Z</description>
+      <pubDate>2025-11-15T12:49:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1763210990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ikinustaT/iKARMA</title>
+      <link>https://github.com/ikinustaT/iKARMA</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-11-15T07:43:14Z | 最后更新: 2025-11-15T07:43:17Z</description>
+      <pubDate>2025-11-15T12:49:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ikinustaT/iKARMA?updated=1&amp;ts=1763210990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-11-15T06:36:27Z | 最后更新: 2025-11-15T06:36:30Z</description>
+      <pubDate>2025-11-15T12:49:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1763210990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TwoSevenOneT/EDR-Freeze</title>
+      <link>https://github.com/TwoSevenOneT/EDR-Freeze</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | 最后推送: 2025-11-01T03:27:54Z | 最后更新: 2025-11-15T10:41:11Z</description>
+      <pubDate>2025-11-15T12:49:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TwoSevenOneT/EDR-Freeze?updated=1&amp;ts=1763210990</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
       <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-11-15T02:40:39Z | 最后更新: 2025-11-15T02:40:42Z</description>
@@ -10743,6 +10778,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Nov 2025 06:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 12:49:50 GMT</lastBuildDate>
   </channel>
 </rss>
