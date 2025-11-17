@@ -1,12 +1,13 @@
-https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/vvswift/Bypass-Protection0x00
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/azdabat/MISP-TI-Rules
+https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 https://github.com/GhostTroops/TOP
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/ikinustaT/iKARMA
-https://github.com/azdabat/MISP-TI-Rules
 https://github.com/azdabat/azdabat
-https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/gmh5225/awesome-game-security
 https://github.com/tanjiti/sec_profile
 https://github.com/b1ank1108/awesome-stars
@@ -24,7 +25,6 @@ https://github.com/cyb3rHawk/DEATHCON-2025-Cyb3rhawk-Deconstructing-the-EDR-Evas
 https://github.com/m4rba4s/K-9_Script
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/jakydibe/BYOKSH
-https://github.com/vvswift/Bypass-Protection0x00
 https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/moiz-2x/CVE-2025-24990_POC
 https://github.com/D7EAD/CVE-2025-61156
