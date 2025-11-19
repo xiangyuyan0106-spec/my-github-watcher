@@ -1,11 +1,12 @@
+https://github.com/CrackerCat/feed
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/ikinustaT/iKARMA
 https://github.com/killvxk/gitweekly
 https://github.com/tanjiti/sec_profile
 https://github.com/ybdt/evasion-hub
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/azdabat/azdabat
 https://github.com/gmh5225/awesome-game-security
 https://github.com/azdabat/MISP-TI-Rules
@@ -27,4 +28,3 @@ https://github.com/l0n3m4n/SearchToolkit
 https://github.com/jakydibe/BYOKSH
 https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/moiz-2x/CVE-2025-24990_POC
-https://github.com/D7EAD/CVE-2025-61156
