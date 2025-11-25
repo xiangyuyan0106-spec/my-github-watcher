@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-11-25T12:44:40Z | 最后更新: 2025-11-25T12:44:45Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ikinustaT/iKARMA</title>
+      <link>https://github.com/ikinustaT/iKARMA</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-11-25T07:48:49Z | 最后更新: 2025-11-25T07:48:53Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ikinustaT/iKARMA?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-11-25T07:30:53Z | 最后更新: 2025-11-25T07:30:57Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-11-25T06:41:17Z | 最后更新: 2025-11-25T06:41:20Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TheMalwareGuardian/Rootkits-Development-Starter-Pack</title>
+      <link>https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Starter pack for learning how to develop Kernel-Mode rootkits: basic proof-of-concepts, development environment configuration, and step-by-step resources to begin coding low-level rootkit components from scratch. | 最后推送: 2025-11-24T16:35:32Z | 最后更新: 2025-11-25T12:42:20Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TheMalwareGuardian/Bootkits-Development-Starter-Pack</title>
+      <link>https://github.com/TheMalwareGuardian/Bootkits-Development-Starter-Pack</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Starter pack for learning how to develop UEFI bootkits: basic proof-of-concepts, development environment configuration, and step-by-step resources to begin coding low-level bootkit components from scratch. | 最后推送: 2025-11-24T16:35:15Z | 最后更新: 2025-11-25T12:43:41Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/Bootkits-Development-Starter-Pack?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV / EDR / XDR Evasion | 最后推送: 2025-11-18T12:33:21Z | 最后更新: 2025-11-25T10:07:03Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/LitterBox</title>
+      <link>https://github.com/BlackSnufkin/LitterBox</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities. | 最后推送: 2025-11-12T13:30:29Z | 最后更新: 2025-11-25T12:52:24Z</description>
+      <pubDate>2025-11-25T12:56:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/LitterBox?updated=1&amp;ts=1764075418</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: ikinustaT/iKARMA</title>
       <link>https://github.com/ikinustaT/iKARMA</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-11-25T05:03:21Z | 最后更新: 2025-11-25T05:03:25Z</description>
@@ -12178,6 +12234,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 06:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 12:56:58 GMT</lastBuildDate>
   </channel>
 </rss>
