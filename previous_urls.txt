@@ -1,9 +1,10 @@
-https://github.com/kabalzo/WindowsHardwareTempCollector
-https://github.com/ikinustaT/iKARMA
-https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/jakydibe/BYOKSH
+https://github.com/ikinustaT/iKARMA
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/kabalzo/WindowsHardwareTempCollector
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/GhostTroops/TOP
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/killvxk/gitweekly
 https://github.com/l0n3m4n/SearchToolkit
@@ -27,4 +28,3 @@ https://github.com/rishavand1/Red-Team-Techniques
 https://github.com/BlackSnufkin/LitterBox
 https://github.com/osamayo/PhysicalMemExploit
 https://github.com/xHyperPacket/xHyperPacket
-https://github.com/JFR-C/Windows-Penetration-Testing
