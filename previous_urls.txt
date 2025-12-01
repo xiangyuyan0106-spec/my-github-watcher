@@ -1,8 +1,9 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/azdabat/azdabat
-https://github.com/azdabat/MISP-TI-Rules
+https://github.com/killvxk/gitweekly
+https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/azdabat/MISP-TI-Rules
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/ikinustaT/iKARMA
@@ -11,7 +12,6 @@ https://github.com/gmh5225/awesome-game-security
 https://github.com/ybdt/evasion-hub
 https://github.com/ikinustaT/iKARMA-old
 https://github.com/250wuyifan/BYOVD-KillProcess
-https://github.com/killvxk/gitweekly
 https://github.com/jakydibe/BYOKSH
 https://github.com/kabalzo/WindowsHardwareTempCollector
 https://github.com/l0n3m4n/SearchToolkit
