@@ -1,11 +1,13 @@
-https://github.com/azdabat/azdabat
-https://github.com/killvxk/gitweekly
-https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/CDipper/BYOVD
+https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/tjemilz/ShadowLink
+https://github.com/killvxk/gitweekly
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/azdabat/azdabat
+https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/azdabat/MISP-TI-Rules
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/GhostTroops/TOP
 https://github.com/ikinustaT/iKARMA
 https://github.com/b1ank1108/awesome-stars
 https://github.com/gmh5225/awesome-game-security
@@ -19,7 +21,6 @@ https://github.com/slep2-0/WindowsRootkit
 https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack
 https://github.com/TheMalwareGuardian/Bootkits-Development-Starter-Pack
 https://github.com/didntchooseaname/loldrivers-database
-https://github.com/CDipper/BYOVD
 https://github.com/AptAmoeba/KQL-Threat-Hunting
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/SplineUser/SplineUser
@@ -27,4 +28,3 @@ https://github.com/vvswift/Bypass-Protection0x00
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 https://github.com/CaledoniaProject/drivers-binaries
 https://github.com/rishavand1/Red-Team-Techniques
-https://github.com/BlackSnufkin/LitterBox
