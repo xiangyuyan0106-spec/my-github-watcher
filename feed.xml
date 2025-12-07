@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR Evasion | 最后推送: 2025-12-07T04:18:03Z | 最后更新: 2025-12-07T04:18:09Z</description>
+      <pubDate>2025-12-07T06:37:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1765089431</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2025-12-07T03:54:35Z | 最后更新: 2025-12-07T03:54:38Z</description>
+      <pubDate>2025-12-07T06:37:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1765089431</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-12-07T03:00:19Z | 最后更新: 2025-12-07T03:00:23Z</description>
+      <pubDate>2025-12-07T06:37:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1765089431</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-07T02:23:12Z | 最后更新: 2025-12-07T02:23:15Z</description>
+      <pubDate>2025-12-07T06:37:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765089431</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-12-07T01:23:29Z | 最后更新: 2025-12-07T01:23:33Z</description>
@@ -13837,6 +13865,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 02:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 06:37:11 GMT</lastBuildDate>
   </channel>
 </rss>
