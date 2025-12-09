@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: AptAmoeba/KQL-Threat-Hunting</title>
+      <link>https://github.com/AptAmoeba/KQL-Threat-Hunting</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A collection of Threat Hunting &amp; Alert queries I've written for 365 Defender's 'Advanced Threat Hunting' | 最后推送: 2025-12-09T16:21:56Z | 最后更新: 2025-12-09T16:21:59Z</description>
+      <pubDate>2025-12-09T18:37:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AptAmoeba/KQL-Threat-Hunting?updated=1&amp;ts=1765305445</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-09T13:00:10Z | 最后更新: 2025-12-09T13:00:14Z</description>
+      <pubDate>2025-12-09T18:37:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765305446</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-08T15:43:33Z | 最后更新: 2025-12-09T15:05:53Z</description>
+      <pubDate>2025-12-09T18:37:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1765305446</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: vvswift/Bypass-Protection0x00</title>
+      <link>https://github.com/vvswift/Bypass-Protection0x00</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: EDR &amp; AV Bypass Arsenal— a comprehensive collection of tools, patches, and techniques for evading modern EDR and antivirus defenses. | 最后推送: 2025-11-17T13:12:05Z | 最后更新: 2025-12-09T14:54:55Z</description>
+      <pubDate>2025-12-09T18:37:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/vvswift/Bypass-Protection0x00?updated=1&amp;ts=1765305446</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-09T12:46:15Z | 最后更新: 2025-12-09T12:46:20Z</description>
@@ -14152,6 +14180,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 13:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 18:37:26 GMT</lastBuildDate>
   </channel>
 </rss>
