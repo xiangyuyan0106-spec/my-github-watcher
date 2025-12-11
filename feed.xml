@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Roadmvn/C-Full-Offensive-Course</title>
+      <link>https://github.com/Roadmvn/C-Full-Offensive-Course</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 45 modules progressifs | Red Team &amp; Exploitation binaire | 最后推送: 2025-12-10T21:36:51Z | 最后更新: 2025-12-10T21:36:55Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Roadmvn/C-Full-Offensive-Course?new=1&amp;ts=1765419095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-12-11T01:18:59Z | 最后更新: 2025-12-11T01:19:03Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1765419095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-11T00:45:29Z | 最后更新: 2025-12-11T00:45:33Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1765419096</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-10T21:02:20Z | 最后更新: 2025-12-11T01:50:54Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1765419096</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-10T18:40:04Z | 最后更新: 2025-12-10T18:40:07Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765419096</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR Evasion | 最后推送: 2025-12-07T04:18:03Z | 最后更新: 2025-12-10T22:43:43Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1765419096</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TheMalwareGuardian/Rootkits-Development-Starter-Pack</title>
+      <link>https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Starter pack for learning how to develop Kernel-Mode rootkits: basic proof-of-concepts, development environment configuration, and step-by-step resources to begin coding low-level rootkit components from scratch. | 最后推送: 2025-11-24T16:35:32Z | 最后更新: 2025-12-10T20:34:04Z</description>
+      <pubDate>2025-12-11T02:11:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack?updated=1&amp;ts=1765419096</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-10T13:00:19Z | 最后更新: 2025-12-10T13:00:22Z</description>
@@ -14285,6 +14334,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Dec 2025 18:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 02:11:36 GMT</lastBuildDate>
   </channel>
 </rss>
