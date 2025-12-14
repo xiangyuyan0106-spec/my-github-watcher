@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: BrenesRM/CybersecurityOS-Hardening</title>
+      <link>https://github.com/BrenesRM/CybersecurityOS-Hardening</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2025-12-13T20:04:22Z | 最后更新: 2025-12-13T20:04:26Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BrenesRM/CybersecurityOS-Hardening?new=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-12-14T01:23:52Z | 最后更新: 2025-12-14T01:23:56Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-14T00:44:16Z | 最后更新: 2025-12-14T00:44:20Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Roadmvn/C-Full-Offensive-Course</title>
+      <link>https://github.com/Roadmvn/C-Full-Offensive-Course</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 206 modules progressifs | Red Team, Malware Dev &amp; Exploitation binaire | Windows, Linux, macOS | 最后推送: 2025-12-13T22:25:35Z | 最后更新: 2025-12-13T22:25:39Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Roadmvn/C-Full-Offensive-Course?updated=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-13T18:35:37Z | 最后更新: 2025-12-13T18:35:40Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-13T13:23:19Z | 最后更新: 2025-12-14T02:18:40Z</description>
+      <pubDate>2025-12-14T02:23:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1765679035</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
       <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-13T13:23:19Z | 最后更新: 2025-12-13T18:29:11Z</description>
@@ -14691,6 +14733,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 18:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 02:23:55 GMT</lastBuildDate>
   </channel>
 </rss>

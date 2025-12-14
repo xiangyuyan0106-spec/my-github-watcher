@@ -1,9 +1,10 @@
-https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/Roadmvn/C-Full-Offensive-Course
+https://github.com/BrenesRM/CybersecurityOS-Hardening
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/HotCakeX/Harden-Windows-Security
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/killvxk/gitweekly
 https://github.com/JodisKripe/BYOVD
 https://github.com/l0n3m4n/SearchToolkit
@@ -27,4 +28,3 @@ https://github.com/slep2-0/WindowsRootkit
 https://github.com/TheMalwareGuardian/Rootkits-Development-Starter-Pack
 https://github.com/TheMalwareGuardian/Bootkits-Development-Starter-Pack
 https://github.com/SplineUser/SplineUser
-https://github.com/vvswift/Bypass-Protection0x00
