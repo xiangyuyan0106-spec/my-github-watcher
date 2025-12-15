@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-15T06:44:45Z | 最后更新: 2025-12-15T06:44:51Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: l0n3m4n/SearchToolkit</title>
+      <link>https://github.com/l0n3m4n/SearchToolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer, Bug Hunter, Forensics, LAW enforcement etc.  | 最后推送: 2025-12-15T06:41:40Z | 最后更新: 2025-12-15T06:41:44Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/l0n3m4n/SearchToolkit?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-15T05:56:52Z | 最后更新: 2025-12-15T05:56:56Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2025-12-15T05:46:36Z | 最后更新: 2025-12-15T05:46:39Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-12-15T03:02:09Z | 最后更新: 2025-12-15T03:02:13Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-15T02:21:10Z | 最后更新: 2025-12-15T02:21:13Z</description>
+      <pubDate>2025-12-15T06:47:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765781243</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-12-15T01:20:52Z | 最后更新: 2025-12-15T01:20:56Z</description>
@@ -14831,6 +14873,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Dec 2025 02:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:47:23 GMT</lastBuildDate>
   </channel>
 </rss>
