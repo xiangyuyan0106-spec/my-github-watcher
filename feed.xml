@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: BrenesRM/CybersecurityOS-Hardening</title>
+      <link>https://github.com/BrenesRM/CybersecurityOS-Hardening</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-12-16T18:30:53Z | 最后更新: 2025-12-16T18:31:01Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BrenesRM/CybersecurityOS-Hardening?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2025-12-16T18:26:49Z | 最后更新: 2025-12-16T18:26:52Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-16T17:00:13Z | 最后更新: 2025-12-16T17:51:21Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-16T15:26:42Z | 最后更新: 2025-12-16T15:26:46Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-16T13:00:54Z | 最后更新: 2025-12-16T13:00:58Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-16T12:45:48Z | 最后更新: 2025-12-16T17:28:24Z</description>
+      <pubDate>2025-12-16T18:41:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1765910514</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Maverick2623/WindowsEprocessOffsetScrapper</title>
       <link>https://github.com/Maverick2623/WindowsEprocessOffsetScrapper</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: This has been vibe coded for my own ease to pull the 0xProtection offset from www.vergiliusproject.com | 最后推送: 2025-12-16T06:53:59Z | 最后更新: 2025-12-16T06:54:03Z</description>
@@ -15048,6 +15090,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 13:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 18:41:54 GMT</lastBuildDate>
   </channel>
 </rss>
