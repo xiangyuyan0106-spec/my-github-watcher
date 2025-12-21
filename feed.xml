@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-21T12:44:33Z | 最后更新: 2025-12-21T12:44:38Z</description>
+      <pubDate>2025-12-21T12:53:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1766321601</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: tanjiti/sec_profile</title>
+      <link>https://github.com/tanjiti/sec_profile</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等) | 最后推送: 2025-12-21T09:46:54Z | 最后更新: 2025-12-21T09:46:58Z</description>
+      <pubDate>2025-12-21T12:53:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tanjiti/sec_profile?updated=1&amp;ts=1766321601</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-21T06:40:02Z | 最后更新: 2025-12-21T06:40:05Z</description>
+      <pubDate>2025-12-21T12:53:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1766321601</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-18T11:38:07Z | 最后更新: 2025-12-21T12:42:34Z</description>
+      <pubDate>2025-12-21T12:53:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1766321601</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
       <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-12-21T03:02:12Z | 最后更新: 2025-12-21T03:02:16Z</description>
@@ -15643,6 +15671,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 06:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 12:53:21 GMT</lastBuildDate>
   </channel>
 </rss>
