@@ -2,6 +2,27 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-23T17:48:12Z | 最后更新: 2025-12-23T17:48:16Z</description>
+      <pubDate>2025-12-23T18:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1766515277</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-23T12:59:36Z | 最后更新: 2025-12-23T12:59:40Z</description>
+      <pubDate>2025-12-23T18:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1766515277</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-22T20:22:16Z | 最后更新: 2025-12-23T13:12:32Z</description>
+      <pubDate>2025-12-23T18:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1766515277</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-23T12:45:25Z | 最后更新: 2025-12-23T12:45:30Z</description>
@@ -16014,6 +16035,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Dec 2025 12:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 18:41:17 GMT</lastBuildDate>
   </channel>
 </rss>
