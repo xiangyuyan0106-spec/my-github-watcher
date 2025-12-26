@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: JodisKripe/BYOVD</title>
+      <link>https://github.com/JodisKripe/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Bring Your Own Vulnerable Driver PoCs developed to learn about the process. | 最后推送: 2025-12-26T05:10:54Z | 最后更新: 2025-12-26T05:10:57Z</description>
+      <pubDate>2025-12-26T06:42:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JodisKripe/BYOVD?updated=1&amp;ts=1766731359</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-12-26T02:56:48Z | 最后更新: 2025-12-26T02:56:51Z</description>
+      <pubDate>2025-12-26T06:42:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1766731359</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-26T02:11:18Z | 最后更新: 2025-12-26T02:11:21Z</description>
+      <pubDate>2025-12-26T06:42:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1766731359</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2025-12-26T00:44:28Z | 最后更新: 2025-12-26T04:46:12Z</description>
+      <pubDate>2025-12-26T06:42:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1766731360</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2025-12-26T01:18:54Z | 最后更新: 2025-12-26T01:18:58Z</description>
@@ -16322,6 +16350,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 02:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 06:42:40 GMT</lastBuildDate>
   </channel>
 </rss>
