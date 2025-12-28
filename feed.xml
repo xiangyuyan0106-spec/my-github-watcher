@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2025-12-28T06:04:29Z | 最后更新: 2025-12-28T06:04:33Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-28T04:23:53Z | 最后更新: 2025-12-28T04:23:57Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2025-12-28T04:05:25Z | 最后更新: 2025-12-28T04:05:28Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2025-12-28T03:08:30Z | 最后更新: 2025-12-28T03:08:34Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0x06K/Ring-3-to-Ring-0</title>
+      <link>https://github.com/0x06K/Ring-3-to-Ring-0</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This is my personal collection of malware development notes, tools, code snippets, and resources I explore and learn from. It’s my go-to place to keep everything organized and handy. | 最后推送: 2025-12-28T02:40:09Z | 最后更新: 2025-12-28T02:40:13Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0x06K/Ring-3-to-Ring-0?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2025-12-28T02:30:02Z | 最后更新: 2025-12-28T02:30:06Z</description>
+      <pubDate>2025-12-28T06:41:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1766904063</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: 0xchriswar/malware-development-roadmap</title>
       <link>https://github.com/0xchriswar/malware-development-roadmap</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Comprehensive learning path for offensive security and red team malware development. | 最后推送: 2025-12-27T19:25:09Z | 最后更新: 2025-12-27T19:28:13Z</description>
@@ -16602,6 +16644,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Dec 2025 02:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 06:41:03 GMT</lastBuildDate>
   </channel>
 </rss>
