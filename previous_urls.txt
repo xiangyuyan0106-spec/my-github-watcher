@@ -1,9 +1,12 @@
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/HotCakeX/Harden-Windows-Security
+https://github.com/cyberrtb/Ransomware_Defense_Pack
+https://github.com/JodisKripe/BYOVD
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/JFR-C/Windows-Penetration-Testing
 https://github.com/0x06K/Ring-3-to-Ring-0
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/tanjiti/sec_profile
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/killvxk/gitweekly
@@ -12,10 +15,8 @@ https://github.com/0xchriswar/malware-development-roadmap
 https://github.com/gmh5225/awesome-game-security
 https://github.com/b1ank1108/awesome-stars
 https://github.com/DeadManOfficial/Red-Teaming-Toolkit
-https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/chmod760/BYOVD_K7RKScan
 https://github.com/TuranAbdulkadir/Python-Advanced-Projects
-https://github.com/JodisKripe/BYOVD
 https://github.com/Invalid-ptr/Invalid-ptr
 https://github.com/didntchooseaname/loldrivers-database
 https://github.com/ybdt/evasion-hub
@@ -27,4 +28,3 @@ https://github.com/mizuna-honeypot/RansomLabKit
 https://github.com/AptAmoeba/KQL-Threat-Hunting
 https://github.com/4l3x777/4l3x777
 https://github.com/jakydibe/BYOKSH
-https://github.com/kabalzo/WindowsHardwareTempCollector
