@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: AptAmoeba/KQL-Threat-Hunting</title>
+      <link>https://github.com/AptAmoeba/KQL-Threat-Hunting</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A collection of Threat Hunting &amp; Alert queries I've written for 365 Defender's 'Advanced Threat Hunting' | 最后推送: 2025-12-11T20:09:25Z | 最后更新: 2025-12-11T20:09:29Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AptAmoeba/KQL-Threat-Hunting?new=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-01T12:45:22Z | 最后更新: 2026-01-01T12:45:26Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0x06K/Ring-3-to-Ring-0</title>
+      <link>https://github.com/0x06K/Ring-3-to-Ring-0</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This is my personal collection of malware development notes, tools, code snippets, and resources I explore and learn from. It’s my go-to place to keep everything organized and handy. | 最后推送: 2026-01-01T11:46:17Z | 最后更新: 2026-01-01T11:46:20Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0x06K/Ring-3-to-Ring-0?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-01T06:44:21Z | 最后更新: 2026-01-01T06:44:24Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DONKEY0xSHOT/EDRLast</title>
+      <link>https://github.com/DONKEY0xSHOT/EDRLast</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2025-12-31T04:27:36Z | 最后更新: 2026-01-01T07:00:30Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DONKEY0xSHOT/EDRLast?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2025-12-30T17:55:43Z | 最后更新: 2026-01-01T11:50:54Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-30T15:00:57Z | 最后更新: 2026-01-01T11:36:22Z</description>
+      <pubDate>2026-01-01T12:58:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1767272287</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gavrikov2044-bot/cs-legit</title>
       <link>https://github.com/gavrikov2044-bot/cs-legit</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CS2 External Cheat | 最后推送: 2026-01-01T06:22:55Z | 最后更新: 2026-01-01T06:22:58Z</description>
@@ -17267,6 +17316,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 06:44:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 12:58:07 GMT</lastBuildDate>
   </channel>
 </rss>

@@ -1,10 +1,9 @@
-https://github.com/gavrikov2044-bot/cs-legit
-https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/tanjiti/sec_profile
 https://github.com/0x06K/Ring-3-to-Ring-0
+https://github.com/gavrikov2044-bot/cs-legit
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/GhostTroops/TOP
 https://github.com/DONKEY0xSHOT/EDRLast
 https://github.com/MallaKing/Windows-Priviledge-Escalation-Surface-Scanner
 https://github.com/killvxk/gitweekly
@@ -28,3 +27,4 @@ https://github.com/zecter310/test
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/BrenesRM/CybersecurityOS-Hardening
 https://github.com/mizuna-honeypot/RansomLabKit
+https://github.com/AptAmoeba/KQL-Threat-Hunting
