@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-03T01:16:18Z | 最后更新: 2026-01-03T01:16:21Z</description>
+      <pubDate>2026-01-03T02:08:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1767406091</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-03T00:45:28Z | 最后更新: 2026-01-03T00:45:32Z</description>
+      <pubDate>2026-01-03T02:08:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767406091</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-02T18:39:38Z | 最后更新: 2026-01-02T18:39:41Z</description>
+      <pubDate>2026-01-03T02:08:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767406091</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-02T13:26:51Z | 最后更新: 2026-01-03T01:41:59Z</description>
+      <pubDate>2026-01-03T02:08:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1767406091</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-30T15:00:57Z | 最后更新: 2026-01-03T01:15:28Z</description>
+      <pubDate>2026-01-03T02:08:11Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1767406091</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: 0x06K/Ring-3-to-Ring-0</title>
       <link>https://github.com/0x06K/Ring-3-to-Ring-0</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This is my personal collection of malware development notes, tools, code snippets, and resources I explore and learn from. It’s my go-to place to keep everything organized and handy. | 最后推送: 2026-01-02T16:47:37Z | 最后更新: 2026-01-02T16:47:40Z</description>
@@ -17484,6 +17519,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 18:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 02:08:12 GMT</lastBuildDate>
   </channel>
 </rss>
