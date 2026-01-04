@@ -1,11 +1,12 @@
+https://github.com/b1ank1108/awesome-stars
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/AptAmoeba/KQL-Threat-Hunting
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/briderj-hub/Ransomware_Defense_Pack
 https://github.com/gmh5225/awesome-game-security
 https://github.com/0x06K/Ring-3-to-Ring-0
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/JFR-C/Windows-Penetration-Testing
 https://github.com/DONKEY0xSHOT/EDRLast
 https://github.com/MallaKing/Windows-Priviledge-Escalation-Surface-Scanner
@@ -17,7 +18,6 @@ https://github.com/JodisKripe/BYOVD
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/nyascla/mal-dev-lab
 https://github.com/0xchriswar/malware-development-roadmap
-https://github.com/b1ank1108/awesome-stars
 https://github.com/chmod760/BYOVD_K7RKScan
 https://github.com/TuranAbdulkadir/Python-Advanced-Projects
 https://github.com/Invalid-ptr/Invalid-ptr
