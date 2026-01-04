@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Red Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-01-04T11:22:34Z | 最后更新: 2026-01-04T11:22:38Z</description>
+      <pubDate>2026-01-04T12:55:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?new=1&amp;ts=1767531332</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-04T12:45:51Z | 最后更新: 2026-01-04T12:45:56Z</description>
+      <pubDate>2026-01-04T12:55:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767531332</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-04T06:41:56Z | 最后更新: 2026-01-04T06:41:59Z</description>
+      <pubDate>2026-01-04T12:55:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767531332</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-03T10:46:26Z | 最后更新: 2026-01-04T12:15:59Z</description>
+      <pubDate>2026-01-04T12:55:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1767531332</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
       <link>https://github.com/b1ank1108/awesome-stars</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-01-04T04:09:22Z | 最后更新: 2026-01-04T04:09:25Z</description>
@@ -17673,6 +17701,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jan 2026 06:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 12:55:32 GMT</lastBuildDate>
   </channel>
 </rss>
