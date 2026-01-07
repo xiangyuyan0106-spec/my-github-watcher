@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-07T06:45:45Z | 最后更新: 2026-01-07T06:45:49Z</description>
+      <pubDate>2026-01-07T06:46:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767768367</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-01-07T04:57:23Z | 最后更新: 2026-01-07T04:57:26Z</description>
+      <pubDate>2026-01-07T06:46:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1767768367</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: quokka728/TheiaPg</title>
+      <link>https://github.com/quokka728/TheiaPg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Runtime PatchGuard bypass w11-25h2 | 最后推送: 2026-01-07T04:17:41Z | 最后更新: 2026-01-07T04:13:15Z</description>
+      <pubDate>2026-01-07T06:46:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/quokka728/TheiaPg?updated=1&amp;ts=1767768367</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-01-07T03:00:53Z | 最后更新: 2026-01-07T03:00:57Z</description>
+      <pubDate>2026-01-07T06:46:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1767768367</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-07T02:20:35Z | 最后更新: 2026-01-07T02:20:38Z</description>
+      <pubDate>2026-01-07T06:46:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767768367</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: quokka728/TheiaPg</title>
       <link>https://github.com/quokka728/TheiaPg</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Runtime PatchGuard bypass w11-25h2 | 最后推送: 2026-01-07T02:18:08Z | 最后更新: 2026-01-07T02:18:11Z</description>
@@ -18037,6 +18072,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jan 2026 02:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 06:46:07 GMT</lastBuildDate>
   </channel>
 </rss>
