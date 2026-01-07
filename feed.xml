@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: quokka728/TheiaPg</title>
+      <link>https://github.com/quokka728/TheiaPg</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Runtime PatchGuard bypass w11-25h2 | 最后推送: 2026-01-07T02:18:08Z | 最后更新: 2026-01-07T02:18:11Z</description>
+      <pubDate>2026-01-07T02:20:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/quokka728/TheiaPg?new=1&amp;ts=1767752434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-07T01:20:54Z | 最后更新: 2026-01-07T01:54:59Z</description>
+      <pubDate>2026-01-07T02:20:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1767752434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-07T01:19:25Z | 最后更新: 2026-01-07T01:19:29Z</description>
+      <pubDate>2026-01-07T02:20:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1767752434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-07T00:45:40Z | 最后更新: 2026-01-07T00:45:44Z</description>
+      <pubDate>2026-01-07T02:20:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767752434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-06T18:42:08Z | 最后更新: 2026-01-06T18:42:12Z</description>
+      <pubDate>2026-01-07T02:20:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767752434</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: kaannsaydamm/arakne</title>
       <link>https://github.com/kaannsaydamm/arakne</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-01-06T16:41:02Z | 最后更新: 2026-01-06T16:41:06Z</description>
@@ -18002,6 +18037,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 18:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 02:20:34 GMT</lastBuildDate>
   </channel>
 </rss>
