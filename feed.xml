@@ -2,6 +2,20 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: AptAmoeba/KQL-Threat-Hunting</title>
+      <link>https://github.com/AptAmoeba/KQL-Threat-Hunting</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A collection of Threat Hunting &amp; Alert queries I've written for 365 Defender's 'Advanced Threat Hunting' | 最后推送: 2026-01-07T17:41:42Z | 最后更新: 2026-01-07T17:41:46Z</description>
+      <pubDate>2026-01-07T18:44:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AptAmoeba/KQL-Threat-Hunting?updated=1&amp;ts=1767811446</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-07T13:01:37Z | 最后更新: 2026-01-07T13:01:41Z</description>
+      <pubDate>2026-01-07T18:44:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767811446</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: CDipper/BYOVD</title>
       <link>https://github.com/CDipper/BYOVD</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 记录一些漏洞驱动，主要是学习Windows Kernel | 最后推送: 2026-01-07T12:29:22Z | 最后更新: 2026-01-07T12:29:26Z</description>
@@ -18107,6 +18121,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jan 2026 13:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 18:44:06 GMT</lastBuildDate>
   </channel>
 </rss>
