@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-09T12:46:48Z | 最后更新: 2026-01-09T12:46:53Z</description>
+      <pubDate>2026-01-09T13:01:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767963683</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-01-09T12:43:59Z | 最后更新: 2026-01-09T12:44:02Z</description>
+      <pubDate>2026-01-09T13:01:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1767963683</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Red Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-01-09T09:34:42Z | 最后更新: 2026-01-09T09:34:46Z</description>
+      <pubDate>2026-01-09T13:01:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?updated=1&amp;ts=1767963683</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-09T06:46:20Z | 最后更新: 2026-01-09T06:46:24Z</description>
+      <pubDate>2026-01-09T13:01:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767963683</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-09T01:21:21Z | 最后更新: 2026-01-09T12:03:50Z</description>
+      <pubDate>2026-01-09T13:01:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1767963683</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: quokka728/TheiaPg</title>
       <link>https://github.com/quokka728/TheiaPg</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Runtime PatchGuard bypass - Windows 11 25H2 | 最后推送: 2026-01-09T06:38:23Z | 最后更新: 2026-01-09T06:36:54Z</description>
@@ -18324,6 +18359,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 06:46:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 13:01:23 GMT</lastBuildDate>
   </channel>
 </rss>
