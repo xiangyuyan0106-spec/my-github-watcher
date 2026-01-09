@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: quokka728/TheiaPg</title>
+      <link>https://github.com/quokka728/TheiaPg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Runtime PatchGuard bypass - Windows 11 25H2 | 最后推送: 2026-01-09T06:38:23Z | 最后更新: 2026-01-09T06:36:54Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/quokka728/TheiaPg?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-09T03:08:37Z | 最后更新: 2026-01-09T03:08:40Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-01-09T03:02:04Z | 最后更新: 2026-01-09T03:02:08Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-09T02:21:40Z | 最后更新: 2026-01-09T02:21:43Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-09T06:46:00Z | 最后更新: 2026-01-09T06:46:06Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-30T15:00:57Z | 最后更新: 2026-01-09T06:10:35Z</description>
+      <pubDate>2026-01-09T06:46:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1767941179</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-09T01:21:21Z | 最后更新: 2026-01-09T01:21:25Z</description>
@@ -18282,6 +18324,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 02:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:46:19 GMT</lastBuildDate>
   </channel>
 </rss>
