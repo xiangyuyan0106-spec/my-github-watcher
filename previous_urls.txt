@@ -1,6 +1,8 @@
+https://github.com/xM0kht4r/AV-EDR-Killer-
+https://github.com/JonathanBWM/Ombra-Yolo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/4l3x777/4l3x777
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/shashwatttttt/Red-team-ToolKit-
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
@@ -26,5 +28,3 @@ https://github.com/0xchriswar/malware-development-roadmap
 https://github.com/chmod760/BYOVD_K7RKScan
 https://github.com/TuranAbdulkadir/Python-Advanced-Projects
 https://github.com/Invalid-ptr/Invalid-ptr
-https://github.com/didntchooseaname/loldrivers-database
-https://github.com/ybdt/evasion-hub
