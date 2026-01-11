@@ -2,6 +2,20 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-11T12:45:29Z | 最后更新: 2026-01-11T12:45:33Z</description>
+      <pubDate>2026-01-11T12:56:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1768136162</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-11T06:42:28Z | 最后更新: 2026-01-11T06:42:32Z</description>
+      <pubDate>2026-01-11T12:56:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768136162</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
       <link>https://github.com/b1ank1108/awesome-stars</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-01-11T04:07:54Z | 最后更新: 2026-01-11T04:07:57Z</description>
@@ -18583,6 +18597,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 06:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 12:56:02 GMT</lastBuildDate>
   </channel>
 </rss>

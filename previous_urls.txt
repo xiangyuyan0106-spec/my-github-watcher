@@ -1,8 +1,9 @@
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/nyascla/mal-dev-lab
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/b1ank1108/awesome-stars
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/4l3x777/4l3x777
 https://github.com/shashwatttttt/Red-team-ToolKit-
 https://github.com/gmh5225/awesome-game-security
@@ -21,7 +22,6 @@ https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/cyberrtb/Ransomware_Defense_Pack
 https://github.com/JodisKripe/BYOVD
 https://github.com/0xsyr0/Cybersecurity-Glossary
-https://github.com/nyascla/mal-dev-lab
 https://github.com/0xchriswar/malware-development-roadmap
 https://github.com/chmod760/BYOVD_K7RKScan
 https://github.com/TuranAbdulkadir/Python-Advanced-Projects
