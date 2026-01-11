@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-01-11T04:07:54Z | 最后更新: 2026-01-11T04:07:57Z</description>
+      <pubDate>2026-01-11T06:42:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1768113747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-01-11T03:11:32Z | 最后更新: 2026-01-11T03:11:36Z</description>
+      <pubDate>2026-01-11T06:42:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1768113747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-11T02:31:46Z | 最后更新: 2026-01-11T02:31:50Z</description>
+      <pubDate>2026-01-11T06:42:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768113747</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2025-12-30T15:00:57Z | 最后更新: 2026-01-11T03:39:54Z</description>
+      <pubDate>2026-01-11T06:42:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1768113747</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
       <link>https://github.com/didntchooseaname/loldrivers-database</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a HVCI and Microsoft drivers blocklist check. | 最后推送: 2025-12-19T10:36:13Z | 最后更新: 2025-12-27T16:29:14Z</description>
@@ -18555,6 +18583,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 02:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:42:27 GMT</lastBuildDate>
   </channel>
 </rss>
