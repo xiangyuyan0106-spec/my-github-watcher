@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-12T01:24:35Z | 最后更新: 2026-01-12T01:24:39Z</description>
+      <pubDate>2026-01-12T02:27:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1768184847</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-12T00:45:34Z | 最后更新: 2026-01-12T01:29:45Z</description>
+      <pubDate>2026-01-12T02:27:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1768184847</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-11T18:38:31Z | 最后更新: 2026-01-11T18:38:34Z</description>
+      <pubDate>2026-01-12T02:27:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768184847</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-09T14:15:06Z | 最后更新: 2026-01-11T21:20:28Z</description>
+      <pubDate>2026-01-12T02:27:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1768184847</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-11T12:56:03Z | 最后更新: 2026-01-11T12:56:06Z</description>
@@ -18604,6 +18632,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 18:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 02:27:27 GMT</lastBuildDate>
   </channel>
 </rss>
