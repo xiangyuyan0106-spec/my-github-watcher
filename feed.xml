@@ -2,6 +2,20 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-01-14T03:07:57Z | 最后更新: 2026-01-14T03:08:01Z</description>
+      <pubDate>2026-01-14T06:46:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1768373178</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-14T02:25:54Z | 最后更新: 2026-01-14T02:25:57Z</description>
+      <pubDate>2026-01-14T06:46:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768373178</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: tjemilz/ShadowLink</title>
       <link>https://github.com/tjemilz/ShadowLink</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: C2 Framework for educationnal purposes | 最后推送: 2026-01-13T19:13:13Z | 最后更新: 2026-01-13T19:13:16Z</description>
@@ -18905,6 +18919,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 02:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:46:18 GMT</lastBuildDate>
   </channel>
 </rss>
