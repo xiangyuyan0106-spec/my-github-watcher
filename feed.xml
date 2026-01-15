@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-15T01:19:32Z | 最后更新: 2026-01-15T01:19:37Z</description>
+      <pubDate>2026-01-15T02:20:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1768443635</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-15T00:45:58Z | 最后更新: 2026-01-15T00:46:03Z</description>
+      <pubDate>2026-01-15T02:20:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1768443635</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-14T18:44:32Z | 最后更新: 2026-01-14T18:44:36Z</description>
+      <pubDate>2026-01-15T02:20:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768443635</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-14T15:21:40Z | 最后更新: 2026-01-14T21:33:10Z</description>
+      <pubDate>2026-01-15T02:20:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1768443635</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/AV-EDR-Killer</title>
+      <link>https://github.com/xM0kht4r/AV-EDR-Killer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR processes termination by exploiting a vulnerable driver (BYOVD) | 最后推送: 2026-01-13T22:12:53Z | 最后更新: 2026-01-15T01:01:04Z</description>
+      <pubDate>2026-01-15T02:20:35Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/AV-EDR-Killer?updated=1&amp;ts=1768443635</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: xM0kht4r/AV-EDR-Killer</title>
       <link>https://github.com/xM0kht4r/AV-EDR-Killer</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: AV/EDR processes termination by exploiting a vulnerable driver (BYOVD) | 最后推送: 2026-01-13T22:12:53Z | 最后更新: 2026-01-14T16:57:15Z</description>
@@ -18961,6 +18996,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 18:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:20:35 GMT</lastBuildDate>
   </channel>
 </rss>
