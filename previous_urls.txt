@@ -1,7 +1,9 @@
+https://github.com/yudishbeeharry/BYOVDResearch
+https://github.com/HeyMrSalt/iPAS-Specialist-Notes
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/CoderDayton/KernelWatch
 https://github.com/nyascla/mal-dev-lab
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/gmh5225/awesome-game-security
 https://github.com/DarkFunct/TK-CVE-Repo
@@ -26,5 +28,3 @@ https://github.com/MallaKing/Windows-Priviledge-Escalation-Surface-Scanner
 https://github.com/Maverick2623/WindowsEprocessOffsetScrapper
 https://github.com/cyberrtb/Ransomware_Defense_Pack
 https://github.com/JodisKripe/BYOVD
-https://github.com/0xsyr0/Cybersecurity-Glossary
-https://github.com/0xchriswar/malware-development-roadmap
