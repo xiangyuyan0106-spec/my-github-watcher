@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-18T01:27:07Z | 最后更新: 2026-01-18T01:27:11Z</description>
+      <pubDate>2026-01-18T02:30:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1768703421</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-18T00:45:39Z | 最后更新: 2026-01-18T00:45:43Z</description>
+      <pubDate>2026-01-18T02:30:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1768703421</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yudishbeeharry/BYOVDResearch</title>
+      <link>https://github.com/yudishbeeharry/BYOVDResearch</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Bring Your Own Vulnerable Driver (BYOVD) Research | 最后推送: 2026-01-17T20:08:02Z | 最后更新: 2026-01-17T20:08:06Z</description>
+      <pubDate>2026-01-18T02:30:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yudishbeeharry/BYOVDResearch?updated=1&amp;ts=1768703421</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-17T18:38:08Z | 最后更新: 2026-01-17T18:38:12Z</description>
+      <pubDate>2026-01-18T02:30:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768703421</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: yudishbeeharry/BYOVDResearch</title>
       <link>https://github.com/yudishbeeharry/BYOVDResearch</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Bring Your Own Vulnerable Driver (BYOVD) Research | 最后推送: 2026-01-17T18:28:39Z | 最后更新: 2026-01-17T18:28:43Z</description>
@@ -19409,6 +19437,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 18:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 02:30:21 GMT</lastBuildDate>
   </channel>
 </rss>
