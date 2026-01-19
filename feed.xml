@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: I3r1h0n/Sigurd</title>
+      <link>https://github.com/I3r1h0n/Sigurd</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A BYOVD technique abuse tool | 最后推送: 2026-01-19T00:02:13Z | 最后更新: 2026-01-19T00:02:17Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/I3r1h0n/Sigurd?new=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 0xsyr0/Cybersecurity-Glossary</title>
+      <link>https://github.com/0xsyr0/Cybersecurity-Glossary</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A summary of the most abbreviations I encountered so far | 最后推送: 2026-01-18T20:34:02Z | 最后更新: 2026-01-18T20:34:06Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xsyr0/Cybersecurity-Glossary?new=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-01-19T01:25:25Z | 最后更新: 2026-01-19T01:25:29Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CoderDayton/KernelWatch</title>
+      <link>https://github.com/CoderDayton/KernelWatch</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Proactive vulnerable driver hunting and analysis toolkit for security researchers. | 最后推送: 2026-01-18T21:31:28Z | 最后更新: 2026-01-18T21:31:29Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CoderDayton/KernelWatch?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-18T18:37:19Z | 最后更新: 2026-01-18T18:37:23Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-18T11:03:22Z | 最后更新: 2026-01-19T00:31:47Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-01-18T07:11:26Z | 最后更新: 2026-01-18T19:29:56Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-01-18T03:09:25Z | 最后更新: 2026-01-19T01:57:10Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/AV-EDR-Killer</title>
+      <link>https://github.com/xM0kht4r/AV-EDR-Killer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR processes termination by exploiting a vulnerable driver (BYOVD) | 最后推送: 2026-01-13T22:12:53Z | 最后更新: 2026-01-19T02:18:29Z</description>
+      <pubDate>2026-01-19T02:27:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/AV-EDR-Killer?updated=1&amp;ts=1768789649</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
       <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-18T12:55:10Z | 最后更新: 2026-01-18T12:55:13Z</description>
@@ -19514,6 +19577,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 18:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 02:27:29 GMT</lastBuildDate>
   </channel>
 </rss>
