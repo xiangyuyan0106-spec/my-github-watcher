@@ -1,11 +1,12 @@
+https://github.com/GhostTroops/TOP
+https://github.com/gmh5225/awesome-game-security
+https://github.com/xM0kht4r/AV-EDR-Killer
+https://github.com/I3r1h0n/Sigurd
 https://github.com/killvxk/gitweekly
-https://github.com/tkmru/awesome-edr-bypass
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/tkmru/awesome-edr-bypass
 https://github.com/boing737ng/DriverSight
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/gmh5225/awesome-game-security
-https://github.com/GhostTroops/TOP
-https://github.com/I3r1h0n/Sigurd
 https://github.com/CoderDayton/KernelWatch
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/ybdt/evasion-hub
@@ -14,7 +15,6 @@ https://github.com/b1ank1108/awesome-stars
 https://github.com/HeyMrSalt/iPAS-Specialist-Notes
 https://github.com/nyascla/mal-dev-lab
 https://github.com/slep2-0/WindowsRootkit
-https://github.com/xM0kht4r/AV-EDR-Killer
 https://github.com/tjemilz/ShadowLink
 https://github.com/JodisKripe/JodisKripe
 https://github.com/didntchooseaname/loldrivers-database
