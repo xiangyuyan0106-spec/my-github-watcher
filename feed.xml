@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-01-22T17:02:58Z | 最后更新: 2026-01-22T17:03:31Z</description>
+      <pubDate>2026-01-22T18:46:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1769107569</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-22T13:07:31Z | 最后更新: 2026-01-22T13:07:34Z</description>
+      <pubDate>2026-01-22T18:46:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1769107569</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-22T09:28:13Z | 最后更新: 2026-01-22T15:35:13Z</description>
+      <pubDate>2026-01-22T18:46:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1769107569</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: victoni/BYOVD-CVE-2023-52271-POC</title>
+      <link>https://github.com/victoni/BYOVD-CVE-2023-52271-POC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit for CVE-2023-52271 in C++. The code exploits the vulnerable driver wsftprm.sys kernel driver 2.0.0.0, which allows kernel-level access to terminate running PPL processes. | 最后推送: 2026-01-21T21:10:33Z | 最后更新: 2026-01-22T17:06:59Z</description>
+      <pubDate>2026-01-22T18:46:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/victoni/BYOVD-CVE-2023-52271-POC?updated=1&amp;ts=1769107569</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-22T09:28:13Z | 最后更新: 2026-01-22T09:28:17Z</description>
@@ -20137,6 +20165,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 13:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 18:46:09 GMT</lastBuildDate>
   </channel>
 </rss>
