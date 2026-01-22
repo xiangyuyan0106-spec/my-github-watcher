@@ -1,11 +1,14 @@
+https://github.com/GhostTroops/TOP
+https://github.com/zulloper/cve-poc
+https://github.com/xM0kht4r/AV-EDR-Killer
+https://github.com/b3s3da/TcnPeripheral64_PoC
+https://github.com/victoni/BYOVD-CVE-2023-52271-POC
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/gmh5225/awesome-game-security
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/GhostTroops/TOP
 https://github.com/killvxk/gitweekly
 https://github.com/nullcharb/BYOYD_YT
-https://github.com/xM0kht4r/AV-EDR-Killer
 https://github.com/I3r1h0n/Sigurd
 https://github.com/tkmru/awesome-edr-bypass
 https://github.com/boing737ng/DriverSight
@@ -25,6 +28,3 @@ https://github.com/pwnfuzz/byovd-watchdog
 https://github.com/AptAmoeba/KQL-Threat-Hunting
 https://github.com/CDipper/BYOVD
 https://github.com/0x06K/Ring-3-to-Ring-0
-https://github.com/briderj-hub/Ransomware_Defense_Pack
-https://github.com/JFR-C/Windows-Penetration-Testing
-https://github.com/MallaKing/Windows-Priviledge-Escalation-Surface-Scanner
