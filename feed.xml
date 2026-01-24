@@ -2,6 +2,20 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-24T12:56:09Z | 最后更新: 2026-01-24T12:56:12Z</description>
+      <pubDate>2026-01-24T18:39:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1769279977</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: tkmru/awesome-edr-bypass</title>
+      <link>https://github.com/tkmru/awesome-edr-bypass</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome EDR Bypass Resources For Ethical Hacking | 最后推送: 2026-01-19T14:21:37Z | 最后更新: 2026-01-24T14:21:13Z</description>
+      <pubDate>2026-01-24T18:39:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tkmru/awesome-edr-bypass?updated=1&amp;ts=1769279977</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: l0n3m4n/SearchToolkit</title>
       <link>https://github.com/l0n3m4n/SearchToolkit</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer, Bug Hunter, Forensics, LAW enforcement etc.  | 最后推送: 2026-01-24T10:21:19Z | 最后更新: 2026-01-24T10:21:23Z</description>
@@ -20522,6 +20536,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 12:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 18:39:37 GMT</lastBuildDate>
   </channel>
 </rss>
