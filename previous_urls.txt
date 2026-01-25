@@ -1,8 +1,9 @@
+https://github.com/b1ank1108/awesome-stars
+https://github.com/DarkFunct/TK-CVE-Repo
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/GhostTroops/TOP
 https://github.com/zulloper/cve-poc
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/l0n3m4n/SearchToolkit
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/didntchooseaname/loldrivers-database
 https://github.com/killvxk/gitweekly
@@ -17,7 +18,6 @@ https://github.com/boing737ng/DriverSight
 https://github.com/CoderDayton/KernelWatch
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/ybdt/evasion-hub
-https://github.com/b1ank1108/awesome-stars
 https://github.com/HeyMrSalt/iPAS-Specialist-Notes
 https://github.com/nyascla/mal-dev-lab
 https://github.com/slep2-0/WindowsRootkit
