@@ -1,11 +1,13 @@
+https://github.com/Neural-Phantom/MKL
+https://github.com/tkmru/awesome-edr-bypass
+https://github.com/gmh5225/awesome-game-security
 https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/azdabat/Engineering-Roadmap-and-Baseline-
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/azdabat/Engineering-Roadmap-and-Baseline-
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/zulloper/cve-poc
 https://github.com/ybdt/evasion-hub
-https://github.com/gmh5225/awesome-game-security
 https://github.com/b1ank1108/awesome-stars
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/didntchooseaname/loldrivers-database
@@ -15,7 +17,6 @@ https://github.com/b3s3da/TcnPeripheral64_PoC
 https://github.com/victoni/BYOVD-CVE-2023-52271-POC
 https://github.com/nullcharb/BYOYD_YT
 https://github.com/I3r1h0n/Sigurd
-https://github.com/tkmru/awesome-edr-bypass
 https://github.com/boing737ng/DriverSight
 https://github.com/CoderDayton/KernelWatch
 https://github.com/0xsyr0/Cybersecurity-Glossary
@@ -27,4 +28,3 @@ https://github.com/JodisKripe/JodisKripe
 https://github.com/4l3x777/4l3x777
 https://github.com/shashwatttttt/Red-team-ToolKit-
 https://github.com/pwnfuzz/byovd-watchdog
-https://github.com/AptAmoeba/KQL-Threat-Hunting
