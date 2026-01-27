@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: azdabat/Production-READY-Composite-Threat-Hunting-Rules</title>
+      <link>https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-01-27T11:38:04Z | 最后更新: 2026-01-27T11:38:08Z</description>
+      <pubDate>2026-01-27T13:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules?new=1&amp;ts=1769519284</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-27T12:47:45Z | 最后更新: 2026-01-27T12:47:58Z</description>
+      <pubDate>2026-01-27T13:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1769519284</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-01-27T09:38:45Z | 最后更新: 2026-01-27T09:54:06Z</description>
+      <pubDate>2026-01-27T13:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1769519284</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-27T06:49:00Z | 最后更新: 2026-01-27T06:49:03Z</description>
+      <pubDate>2026-01-27T13:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1769519284</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-26T15:32:16Z | 最后更新: 2026-01-27T09:56:31Z</description>
+      <pubDate>2026-01-27T13:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1769519284</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-27T06:46:25Z | 最后更新: 2026-01-27T06:46:30Z</description>
@@ -20900,6 +20935,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 13:08:04 GMT</lastBuildDate>
   </channel>
 </rss>
