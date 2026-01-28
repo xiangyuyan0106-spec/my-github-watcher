@@ -1,7 +1,7 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/killvxk/gitweekly
 https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/killvxk/gitweekly
 https://github.com/gmh5225/awesome-game-security
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
@@ -23,8 +23,8 @@ https://github.com/CoderDayton/KernelWatch
 https://github.com/0xsyr0/Cybersecurity-Glossary
 https://github.com/HeyMrSalt/iPAS-Specialist-Notes
 https://github.com/nyascla/mal-dev-lab
+https://github.com/PepejHa4ker/byovd
 https://github.com/slep2-0/WindowsRootkit
 https://github.com/tjemilz/ShadowLink
 https://github.com/JodisKripe/JodisKripe
 https://github.com/4l3x777/4l3x777
-https://github.com/shashwatttttt/Red-team-ToolKit-
