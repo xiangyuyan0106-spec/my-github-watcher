@@ -1,7 +1,8 @@
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/I3r1h0n/Sigurd
 https://github.com/CrackerCat/feed
-https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/zulloper/cve-poc
 https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules
@@ -18,7 +19,6 @@ https://github.com/xM0kht4r/AV-EDR-Killer
 https://github.com/b3s3da/TcnPeripheral64_PoC
 https://github.com/victoni/BYOVD-CVE-2023-52271-POC
 https://github.com/nullcharb/BYOYD_YT
-https://github.com/I3r1h0n/Sigurd
 https://github.com/boing737ng/DriverSight
 https://github.com/CoderDayton/KernelWatch
 https://github.com/0xsyr0/Cybersecurity-Glossary
