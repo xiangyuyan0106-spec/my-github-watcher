@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: azdabat/Production-READY-Composite-Threat-Hunting-Rules</title>
+      <link>https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-01-31T17:30:20Z | 最后更新: 2026-01-31T17:30:24Z</description>
+      <pubDate>2026-01-31T18:43:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/Production-READY-Composite-Threat-Hunting-Rules?updated=1&amp;ts=1769885020</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-01-31T13:04:35Z | 最后更新: 2026-01-31T13:04:39Z</description>
+      <pubDate>2026-01-31T18:43:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1769885020</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-31T12:46:08Z | 最后更新: 2026-01-31T15:24:47Z</description>
+      <pubDate>2026-01-31T18:43:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1769885020</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-01-30T07:49:04Z | 最后更新: 2026-01-31T18:31:34Z</description>
+      <pubDate>2026-01-31T18:43:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1769885020</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/AV-EDR-Killer</title>
+      <link>https://github.com/xM0kht4r/AV-EDR-Killer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR processes termination by exploiting a vulnerable driver (BYOVD) | 最后推送: 2026-01-21T23:37:33Z | 最后更新: 2026-01-31T17:14:50Z</description>
+      <pubDate>2026-01-31T18:43:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/AV-EDR-Killer?updated=1&amp;ts=1769885020</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-01-31T12:46:08Z | 最后更新: 2026-01-31T12:46:12Z</description>
@@ -21565,6 +21600,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 13:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 18:43:40 GMT</lastBuildDate>
   </channel>
 </rss>
