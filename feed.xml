@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-04T06:47:14Z | 最后更新: 2026-02-04T06:47:18Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-02-04T03:33:44Z | 最后更新: 2026-02-04T03:33:48Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-04T02:43:40Z | 最后更新: 2026-02-04T02:43:43Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</title>
+      <link>https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Advanced PoC &amp; Research for CVE-2026-0828 (Safetica) and CVE-2025-7771 (ThrottleStop). Analysis of BYOVD (Bring Your Own Vulnerable Driver) TTPs for Ring 0 process termination and physical memory R/W. Researching EDR-Killer patterns, PPL bypasses, and kernel-mode primitives used by MedusaLocker and other threat actors. | 最后推送: 2026-02-04T02:20:21Z | 最后更新: 2026-02-04T06:58:51Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-03T07:28:28Z | 最后更新: 2026-02-04T06:58:28Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-03T05:26:33Z | 最后更新: 2026-02-04T06:24:20Z</description>
+      <pubDate>2026-02-04T07:03:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1770188608</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</title>
       <link>https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Advanced PoC &amp; Research for CVE-2026-0828 (Safetica) and CVE-2025-7771 (ThrottleStop). Analysis of BYOVD (Bring Your Own Vulnerable Driver) TTPs for Ring 0 process termination and physical memory R/W. Researching EDR-Killer patterns, PPL bypasses, and kernel-mode primitives used by MedusaLocker and other threat actors. | 最后推送: 2026-02-04T02:20:21Z | 最后更新: 2026-02-04T02:23:53Z</description>
@@ -22174,6 +22216,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 02:43:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 07:03:28 GMT</lastBuildDate>
   </channel>
 </rss>
