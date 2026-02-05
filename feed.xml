@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-05T01:45:53Z | 最后更新: 2026-02-05T01:45:57Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-05T00:47:21Z | 最后更新: 2026-02-05T00:47:25Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-05T00:12:05Z | 最后更新: 2026-02-05T00:12:09Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-04T19:00:54Z | 最后更新: 2026-02-04T19:01:19Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</title>
+      <link>https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Advanced PoC &amp; Research for CVE-2026-0828 (Safetica) and CVE-2025-7771 (ThrottleStop). Analysis of BYOVD (Bring Your Own Vulnerable Driver) TTPs for Ring 0 process termination and physical memory R/W. Researching EDR-Killer patterns, PPL bypasses, and kernel-mode primitives used by MedusaLocker and other threat actors. | 最后推送: 2026-02-04T02:20:21Z | 最后更新: 2026-02-04T22:18:22Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-02-03T10:38:56Z | 最后更新: 2026-02-05T02:30:43Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-03T05:26:33Z | 最后更新: 2026-02-04T19:13:40Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: tkmru/awesome-edr-bypass</title>
+      <link>https://github.com/tkmru/awesome-edr-bypass</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome EDR Bypass Resources For Ethical Hacking | 最后推送: 2026-01-26T18:06:04Z | 最后更新: 2026-02-04T20:11:07Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tkmru/awesome-edr-bypass?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR Evasion | 最后推送: 2026-01-25T14:17:50Z | 最后更新: 2026-02-04T23:22:17Z</description>
+      <pubDate>2026-02-05T02:45:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1770259545</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-04T18:53:49Z | 最后更新: 2026-02-04T18:54:15Z</description>
@@ -22286,6 +22349,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 19:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 02:45:45 GMT</lastBuildDate>
   </channel>
 </rss>
