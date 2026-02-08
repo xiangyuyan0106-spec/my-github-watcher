@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: lucacapacci/PoC-in-GitHub</title>
+      <link>https://github.com/lucacapacci/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Mirror of https://github.com/nomi-sec/PoC-in-GitHub | 最后推送: 2026-02-08T02:38:06Z | 最后更新: 2026-02-08T02:38:10Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lucacapacci/PoC-in-GitHub?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-08T02:09:02Z | 最后更新: 2026-02-08T02:09:07Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-08T00:46:54Z | 最后更新: 2026-02-08T00:46:58Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-08T00:15:53Z | 最后更新: 2026-02-08T00:15:56Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-02-07T23:16:10Z | 最后更新: 2026-02-07T23:16:13Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-07T18:48:35Z | 最后更新: 2026-02-07T18:48:38Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-02-07T08:49:24Z | 最后更新: 2026-02-08T02:58:13Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-06T21:48:51Z | 最后更新: 2026-02-07T22:23:15Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-05T16:24:26Z | 最后更新: 2026-02-08T02:16:34Z</description>
+      <pubDate>2026-02-08T03:25:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1770521126</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Jahanzaib-Gull/Windows-KMDF-Security-Infrastructure-PoC</title>
       <link>https://github.com/Jahanzaib-Gull/Windows-KMDF-Security-Infrastructure-PoC</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A kernel-mode software architecture designed for Windows (x64) focusing on secure communication, environment attestation, and integrity monitoring. This repository represents Milestone 1 of the infrastructure development, delivering a foundational x64 Kernel-Mode Driver Framework (KMDF) driver and a dedicated user-mode validation suite. | 最后推送: 2026-02-07T18:31:05Z | 最后更新: 2026-02-07T18:31:09Z</description>
@@ -23063,6 +23126,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Feb 2026 18:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 03:25:26 GMT</lastBuildDate>
   </channel>
 </rss>
