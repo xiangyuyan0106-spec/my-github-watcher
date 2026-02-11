@@ -1,15 +1,14 @@
 https://github.com/d4miansec/Reynolds-Ransomware-BYOVD-Driver-Analysis
 https://github.com/lucacapacci/PoC-in-GitHub
-https://github.com/ThePhoenixAgency/AI-Pulse
+https://github.com/JEFFERSON-007/JEFFERSON-007
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/CrackerCat/feed
-https://github.com/nbajpai-code/tn
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nbajpai-code/tn
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/gmh5225/awesome-game-security
 https://github.com/GhostTroops/TOP
-https://github.com/JEFFERSON-007/JEFFERSON-007
 https://github.com/zulloper/cve-poc
 https://github.com/I3r1h0n/Sigurd
 https://github.com/kyxiaxiang/360WFP_Exploit
@@ -28,3 +27,4 @@ https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828
 https://github.com/nyascla/mal-dev-lab
 https://github.com/D3fD3c0y/EDR-Evasion
 https://github.com/ITherso/monolith-test
+https://github.com/VoidChecksum/Invalid-ptr
