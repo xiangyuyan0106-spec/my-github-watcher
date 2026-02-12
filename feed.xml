@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: iamthefrogy/Threat-Intel-Atlas</title>
+      <link>https://github.com/iamthefrogy/Threat-Intel-Atlas</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Your single pane of glass for threat intel: a clean, public feed that highlights high‑value security updates and trends. | 最后推送: 2026-02-12T06:48:54Z | 最后更新: 2026-02-12T06:48:57Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iamthefrogy/Threat-Intel-Atlas?new=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lucacapacci/PoC-in-GitHub</title>
+      <link>https://github.com/lucacapacci/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Mirror of https://github.com/nomi-sec/PoC-in-GitHub | 最后推送: 2026-02-12T07:03:35Z | 最后更新: 2026-02-12T07:03:39Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lucacapacci/PoC-in-GitHub?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-12T06:55:00Z | 最后更新: 2026-02-12T06:55:04Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-12T06:47:44Z | 最后更新: 2026-02-12T06:47:49Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-02-12T05:22:05Z | 最后更新: 2026-02-12T05:22:08Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-02-12T03:59:53Z | 最后更新: 2026-02-12T03:59:57Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-02-12T03:47:10Z | 最后更新: 2026-02-12T03:47:14Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-12T02:55:39Z | 最后更新: 2026-02-12T02:55:42Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-11T14:12:54Z | 最后更新: 2026-02-12T05:19:52Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kyxiaxiang/360WFP_Exploit</title>
+      <link>https://github.com/kyxiaxiang/360WFP_Exploit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD: Use 360 ​​WFP driver to block EDR/XDR network connection. | 最后推送: 2026-02-10T17:32:24Z | 最后更新: 2026-02-12T06:35:08Z</description>
+      <pubDate>2026-02-12T07:13:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kyxiaxiang/360WFP_Exploit?updated=1&amp;ts=1770880393</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: ANYLNK/NSecSoftBYOVD</title>
       <link>https://github.com/ANYLNK/NSecSoftBYOVD</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: NSecSoftBYOVD POC | 最后推送: 2026-02-12T02:48:16Z | 最后更新: 2026-02-12T02:48:20Z</description>
@@ -24001,6 +24071,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2026 02:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:13:13 GMT</lastBuildDate>
   </channel>
 </rss>
