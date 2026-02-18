@@ -1,9 +1,10 @@
-https://github.com/0xThiago/The-Black-Book-of-CS2-Reverse-Engineering-2026-Edition-
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/user23333/kaka
 https://github.com/ThePhoenixAgency/AI-Pulse
-https://github.com/gmh5225/awesome-game-security
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/jeffaf/cthaeh
+https://github.com/scriptedstatement/windows-triage-mcp
+https://github.com/0xThiago/The-Black-Book-of-CS2-Reverse-Engineering-2026-Edition-
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/gmh5225/awesome-game-security
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
@@ -18,7 +19,6 @@ https://github.com/ANYLNK/STProcessMonitorBYOVD
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/b1ank1108/awesome-stars
-https://github.com/jeffaf/cthaeh
 https://github.com/0xDbgMan/Kernel-Exploitation
 https://github.com/killvxk/gitweekly
 https://github.com/ANYLNK/NSecSoftBYOVD
