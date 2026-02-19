@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: ThePhoenixAgency/AI-Pulse</title>
+      <link>https://github.com/ThePhoenixAgency/AI-Pulse</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated AI news aggregator from premium sources - Auto-updated with webhook, paginated display | 最后推送: 2026-02-19T07:04:43Z | 最后更新: 2026-02-19T07:04:49Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ThePhoenixAgency/AI-Pulse?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-19T06:48:18Z | 最后更新: 2026-02-19T06:48:23Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-02-19T03:41:33Z | 最后更新: 2026-02-19T03:41:36Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-19T02:50:59Z | 最后更新: 2026-02-19T02:51:02Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ANYLNK/STProcessMonitorBYOVD</title>
+      <link>https://github.com/ANYLNK/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: The PoC for CVE-2025-70795 / CVE-2026-0828 and its update | 最后推送: 2026-02-16T01:51:43Z | 最后更新: 2026-02-19T06:48:42Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ANYLNK/STProcessMonitorBYOVD?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/BYOVD</title>
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,). | 最后推送: 2026-02-15T09:05:22Z | 最后更新: 2026-02-19T03:53:04Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kyxiaxiang/360WFP_Exploit</title>
+      <link>https://github.com/kyxiaxiang/360WFP_Exploit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD: Use 360 ​​WFP driver to block EDR/XDR network connection. | 最后推送: 2026-02-10T17:32:24Z | 最后更新: 2026-02-19T04:37:01Z</description>
+      <pubDate>2026-02-19T07:10:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kyxiaxiang/360WFP_Exploit?updated=1&amp;ts=1771485050</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: GhostTroops/TOP</title>
       <link>https://github.com/GhostTroops/TOP</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-19T01:51:11Z | 最后更新: 2026-02-19T01:51:15Z</description>
@@ -25688,6 +25737,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 02:50:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:10:50 GMT</lastBuildDate>
   </channel>
 </rss>
