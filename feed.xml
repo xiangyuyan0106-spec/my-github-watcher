@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-23T01:50:44Z | 最后更新: 2026-02-23T01:50:47Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Exclusive-Networks-CyberLAB/RedTeamLab</title>
+      <link>https://github.com/Exclusive-Networks-CyberLAB/RedTeamLab</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: a web app powered off node.js to generate endpoint detections | 最后推送: 2026-02-23T01:11:33Z | 最后更新: 2026-02-23T01:11:37Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Exclusive-Networks-CyberLAB/RedTeamLab?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-23T00:47:57Z | 最后更新: 2026-02-23T00:48:01Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-23T00:11:31Z | 最后更新: 2026-02-23T00:11:34Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-22T18:48:57Z | 最后更新: 2026-02-22T18:49:01Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-21T11:47:09Z | 最后更新: 2026-02-22T19:45:57Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/BYOVD</title>
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,). | 最后推送: 2026-02-15T09:05:22Z | 最后更新: 2026-02-22T20:36:44Z</description>
+      <pubDate>2026-02-23T02:52:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1771815138</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-22T18:48:05Z | 最后更新: 2026-02-22T18:48:09Z</description>
@@ -26374,6 +26423,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 18:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 02:52:18 GMT</lastBuildDate>
   </channel>
 </rss>
