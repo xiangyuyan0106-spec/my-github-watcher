@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Century300/Century300</title>
+      <link>https://github.com/Century300/Century300</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-24T06:54:55Z | 最后更新: 2026-02-24T06:54:59Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Century300/Century300?new=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: iamthefrogy/Threat-Intel-Atlas</title>
+      <link>https://github.com/iamthefrogy/Threat-Intel-Atlas</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Your single pane of glass for threat intel: a clean, public feed that highlights high‑value security updates and trends. | 最后推送: 2026-02-24T06:48:25Z | 最后更新: 2026-02-24T06:48:28Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iamthefrogy/Threat-Intel-Atlas?new=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-24T06:56:03Z | 最后更新: 2026-02-24T06:56:07Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-24T06:48:11Z | 最后更新: 2026-02-24T07:02:41Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: notsointresting/notsointresting</title>
+      <link>https://github.com/notsointresting/notsointresting</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-24T05:23:15Z | 最后更新: 2026-02-24T05:23:18Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/notsointresting/notsointresting?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Tigercoll/daily-github-hots</title>
+      <link>https://github.com/Tigercoll/daily-github-hots</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | 最后推送: 2026-02-24T05:20:36Z | 最后更新: 2026-02-24T05:20:39Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Tigercoll/daily-github-hots?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kevinoriley/red-run</title>
+      <link>https://github.com/kevinoriley/red-run</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-24T04:36:56Z | 最后更新: 2026-02-24T04:36:59Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kevinoriley/red-run?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-02-24T03:40:57Z | 最后更新: 2026-02-24T03:41:00Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-02-24T03:18:28Z | 最后更新: 2026-02-24T03:18:32Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-24T02:49:36Z | 最后更新: 2026-02-24T02:49:39Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-23T14:07:08Z | 最后更新: 2026-02-24T05:07:46Z</description>
+      <pubDate>2026-02-24T07:10:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1771917057</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: kevinoriley/red-run</title>
       <link>https://github.com/kevinoriley/red-run</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-24T02:49:25Z | 最后更新: 2026-02-24T02:49:27Z</description>
@@ -26689,6 +26766,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 02:49:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:10:58 GMT</lastBuildDate>
   </channel>
 </rss>
