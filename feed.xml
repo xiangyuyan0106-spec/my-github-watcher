@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: jharrisHalcyon/Halcyon_API</title>
+      <link>https://github.com/jharrisHalcyon/Halcyon_API</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: API scripts for use with Halcyon  | 最后推送: 2026-02-25T01:55:25Z | 最后更新: 2026-02-25T01:55:29Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jharrisHalcyon/Halcyon_API?new=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</title>
+      <link>https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-02-24T23:42:46Z | 最后更新: 2026-02-24T23:42:51Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules?new=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: blacklanternsecurity/red-run</title>
+      <link>https://github.com/blacklanternsecurity/red-run</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Claude Code skill library for red team operations | 最后推送: 2026-02-24T22:00:27Z | 最后更新: 2026-02-24T22:00:32Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/blacklanternsecurity/red-run?new=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-25T02:50:33Z | 最后更新: 2026-02-25T02:50:08Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-25T01:50:50Z | 最后更新: 2026-02-25T01:50:54Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-25T00:49:14Z | 最后更新: 2026-02-25T00:49:18Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-25T00:13:24Z | 最后更新: 2026-02-25T00:13:27Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-02-24T22:27:56Z | 最后更新: 2026-02-24T22:27:59Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-24T19:12:49Z | 最后更新: 2026-02-24T19:12:53Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-02-25T02:04:20Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-23T11:50:18Z | 最后更新: 2026-02-24T21:41:33Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yahyanotani25/tempest-c2</title>
+      <link>https://github.com/yahyanotani25/tempest-c2</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: ⚡ Tempest C2 Framework | An advanced Post-Exploitation &amp; Command-and-Control framework. Features AES-256-GCM encrypted payloads, Malleable C2, cross-platform Go/Rust/C implants, and 80+ modular capabilities. Built with OPSEC in mind. (Core Open-Source Edition). | 最后推送: 2026-02-23T04:30:52Z | 最后更新: 2026-02-24T22:59:49Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yahyanotani25/tempest-c2?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-21T18:18:46Z | 最后更新: 2026-02-24T22:15:09Z</description>
+      <pubDate>2026-02-25T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1771987836</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: b3s3da/TcnPeripheral64_PoC</title>
       <link>https://github.com/b3s3da/TcnPeripheral64_PoC</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: PoC for Local Privilege Escalation (LPE) in Sunia SPB Peripheral Driver (TcnPeripheral64.sys). exploits arbitrary physical memory mapping. | 最后推送: 2026-02-24T15:23:01Z | 最后更新: 2026-02-24T19:05:23Z</description>
@@ -26899,6 +26990,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 19:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:50:37 GMT</lastBuildDate>
   </channel>
 </rss>
