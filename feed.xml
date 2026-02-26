@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-26T02:29:31Z | 最后更新: 2026-02-26T02:29:34Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-26T01:46:10Z | 最后更新: 2026-02-26T01:46:15Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-26T00:48:14Z | 最后更新: 2026-02-26T00:48:18Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-26T00:11:05Z | 最后更新: 2026-02-26T00:11:08Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: blacklanternsecurity/red-run</title>
+      <link>https://github.com/blacklanternsecurity/red-run</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Claude Code skill library for red team operations | 最后推送: 2026-02-25T23:56:20Z | 最后更新: 2026-02-25T23:56:25Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/blacklanternsecurity/red-run?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-02-25T21:40:10Z | 最后更新: 2026-02-25T21:40:14Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-25T19:16:31Z | 最后更新: 2026-02-25T19:16:47Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-25T15:49:28Z | 最后更新: 2026-02-25T21:19:24Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-02-26T02:08:16Z</description>
+      <pubDate>2026-02-26T02:45:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1772073937</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: frknaykc/Dragon-ThreatResearchHQ</title>
       <link>https://github.com/frknaykc/Dragon-ThreatResearchHQ</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A comprehensive repository for malware analysis and threat intelligence, including Cobalt Strike Beacon configurations, YARA rules, IOCs, Suricata rules, and malware samples to support cybersecurity efforts. | 最后推送: 2026-02-25T14:26:53Z | 最后更新: 2026-02-25T14:26:57Z</description>
@@ -27172,6 +27235,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 19:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 02:45:37 GMT</lastBuildDate>
   </channel>
 </rss>
