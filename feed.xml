@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: gpxlnx/medium-writeup</title>
+      <link>https://github.com/gpxlnx/medium-writeup</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-26T13:17:53Z | 最后更新: 2026-02-26T13:17:56Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gpxlnx/medium-writeup?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-02-26T12:52:20Z | 最后更新: 2026-02-26T12:52:24Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Feed about Cybersecurity💻 | 最后推送: 2026-02-26T12:34:00Z | 最后更新: 2026-02-26T12:34:04Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-26T12:04:51Z | 最后更新: 2026-02-26T12:04:55Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thexnumb/thexwriteup</title>
+      <link>https://github.com/thexnumb/thexwriteup</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Store all the latest Medium Articles by specific tags for the Bug Bounty hunting and Security filed and Notify on the Discord server | 最后推送: 2026-02-26T12:01:18Z | 最后更新: 2026-02-26T12:02:02Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thexnumb/thexwriteup?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: AV/EDR Evasion | 最后推送: 2026-02-26T07:54:17Z | 最后更新: 2026-02-26T07:54:21Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?new=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-26T12:50:09Z | 最后更新: 2026-02-26T12:50:15Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-26T07:10:41Z | 最后更新: 2026-02-26T07:10:44Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-26T04:11:57Z | 最后更新: 2026-02-26T10:59:07Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-25T15:49:28Z | 最后更新: 2026-02-26T07:33:37Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-02-26T13:18:03Z</description>
+      <pubDate>2026-02-26T13:25:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1772112316</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: iamthefrogy/Threat-Intel-Atlas</title>
       <link>https://github.com/iamthefrogy/Threat-Intel-Atlas</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Your single pane of glass for threat intel: a clean, public feed that highlights high‑value security updates and trends. | 最后推送: 2026-02-26T06:48:26Z | 最后更新: 2026-02-26T06:48:31Z</description>
@@ -27291,6 +27368,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 07:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 13:25:16 GMT</lastBuildDate>
   </channel>
 </rss>
