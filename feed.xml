@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: veex0x01/MyAwsome</title>
+      <link>https://github.com/veex0x01/MyAwsome</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-20T21:57:52Z | 最后更新: 2026-02-20T21:57:55Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/veex0x01/MyAwsome?new=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-02-20T17:41:23Z | 最后更新: 2026-02-20T17:41:27Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Tenaka/lolDrivers</title>
+      <link>https://github.com/Tenaka/lolDrivers</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-20T08:39:32Z | 最后更新: 2026-02-20T08:39:36Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Tenaka/lolDrivers?new=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Idov31/NovaHypervisor</title>
+      <link>https://github.com/Idov31/NovaHypervisor</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: NovaHypervisor is a defensive x64 Intel host based hypervisor. The goal of this project is to protect against kernel based attacks (either via Bring Your Own Vulnerable Driver (BYOVD) or other means) by safeguarding defense products (AntiVirus / Endpoint Protection) and kernel memory structures and preventing unauthorized access to kernel memory. | 最后推送: 2026-02-19T20:53:05Z | 最后更新: 2026-02-26T11:25:06Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Idov31/NovaHypervisor?new=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR Evasion | 最后推送: 2026-02-27T02:37:37Z | 最后更新: 2026-02-27T02:37:42Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-27T01:45:04Z | 最后更新: 2026-02-27T01:45:08Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-02-27T00:47:40Z | 最后更新: 2026-02-27T00:47:44Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-02-27T00:12:58Z | 最后更新: 2026-02-27T00:13:01Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jharrisHalcyon/Halcyon_API</title>
+      <link>https://github.com/jharrisHalcyon/Halcyon_API</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: API scripts for use with Halcyon  | 最后推送: 2026-02-26T20:31:13Z | 最后更新: 2026-02-26T20:31:18Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jharrisHalcyon/Halcyon_API?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: romch007/per</title>
+      <link>https://github.com/romch007/per</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-26T20:26:51Z | 最后更新: 2026-02-26T20:26:55Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/romch007/per?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-26T19:03:15Z | 最后更新: 2026-02-26T19:03:18Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-26T04:11:57Z | 最后更新: 2026-02-26T21:12:54Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-02-27T01:43:24Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/BYOVD</title>
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,). | 最后推送: 2026-02-24T10:45:09Z | 最后更新: 2026-02-26T22:29:02Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Zephyr236/BYOVD-hunting-agent</title>
+      <link>https://github.com/Zephyr236/BYOVD-hunting-agent</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-22T04:09:00Z | 最后更新: 2026-02-27T02:06:49Z</description>
+      <pubDate>2026-02-27T02:43:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Zephyr236/BYOVD-hunting-agent?updated=1&amp;ts=1772160231</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: romch007/per</title>
       <link>https://github.com/romch007/per</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-26T17:16:09Z | 最后更新: 2026-02-26T17:17:03Z</description>
@@ -27452,6 +27557,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 19:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:43:51 GMT</lastBuildDate>
   </channel>
 </rss>
