@@ -1,11 +1,13 @@
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/ThePhoenixAgency/AI-Pulse
+https://github.com/killvxk/gitweekly
+https://github.com/wutang700/STProcessMonitorBYOVD
+https://github.com/ybdt/evasion-hub
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 https://github.com/gmh5225/awesome-game-security
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/ybdt/evasion-hub
 https://github.com/GhostTroops/TOP
 https://github.com/lyonzin/knowledge-rag
 https://github.com/zulloper/cve-poc
@@ -15,7 +17,6 @@ https://github.com/scriptedstatement/windows-triage-mcp
 https://github.com/jharrisHalcyon/Halcyon_API
 https://github.com/romch007/per
 https://github.com/Chuccle/SimpleAntiCheat
-https://github.com/killvxk/gitweekly
 https://github.com/frknaykc/Dragon-ThreatResearchHQ
 https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules
 https://github.com/Exclusive-Networks-CyberLAB/RedTeamLab
@@ -27,4 +28,3 @@ https://github.com/BlackSnufkin/BYOVD
 https://github.com/0x06K/Ring-3-to-Ring-0
 https://github.com/yahyanotani25/tempest-c2
 https://github.com/b1ank1108/awesome-stars
-https://github.com/Zephyr236/BYOVD-hunting-agent
