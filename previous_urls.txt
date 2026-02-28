@@ -1,9 +1,12 @@
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/ThePhoenixAgency/AI-Pulse
-https://github.com/killvxk/gitweekly
+https://github.com/Chuccle/SimpleAntiCheat
 https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/ybdt/evasion-hub
+https://github.com/jsk1004ha/Project-Chiron
+https://github.com/splintersfury/KernelSight
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/killvxk/gitweekly
+https://github.com/ybdt/evasion-hub
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/CyberSecurityUP/Red-Team-Exercises
 https://github.com/gmh5225/awesome-game-security
@@ -16,7 +19,6 @@ https://github.com/j3h4ck/UnknownKiller
 https://github.com/scriptedstatement/windows-triage-mcp
 https://github.com/jharrisHalcyon/Halcyon_API
 https://github.com/romch007/per
-https://github.com/Chuccle/SimpleAntiCheat
 https://github.com/frknaykc/Dragon-ThreatResearchHQ
 https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules
 https://github.com/Exclusive-Networks-CyberLAB/RedTeamLab
@@ -26,5 +28,3 @@ https://github.com/xM0kht4r/VEN0m-Ransomware
 https://github.com/azdabat/ATLAS-ATTACK-ECOSSYSTEM
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/0x06K/Ring-3-to-Ring-0
-https://github.com/yahyanotani25/tempest-c2
-https://github.com/b1ank1108/awesome-stars
