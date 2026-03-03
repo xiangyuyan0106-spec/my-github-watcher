@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Arkana - Your entire malware lab, behind one AI prompt. 190 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-03T17:52:12Z | 最后更新: 2026-03-03T17:52:16Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?new=1&amp;ts=1772564480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jharrisHalcyon/Halcyon_API</title>
+      <link>https://github.com/jharrisHalcyon/Halcyon_API</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: API scripts for use with Halcyon  | 最后推送: 2026-03-03T19:00:55Z | 最后更新: 2026-03-03T19:00:58Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jharrisHalcyon/Halcyon_API?updated=1&amp;ts=1772564480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</title>
+      <link>https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-03-03T17:45:12Z | 最后更新: 2026-03-03T17:45:16Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules?updated=1&amp;ts=1772564480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-03T15:47:27Z | 最后更新: 2026-03-03T15:47:31Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772564481</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-03T13:15:42Z | 最后更新: 2026-03-03T13:18:05Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772564481</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xjrx/magnetar</title>
+      <link>https://github.com/0xjrx/magnetar</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartarus Gate, process protection and more | 最后推送: 2026-03-02T08:47:42Z | 最后更新: 2026-03-03T15:32:34Z</description>
+      <pubDate>2026-03-03T19:01:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xjrx/magnetar?updated=1&amp;ts=1772564481</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</title>
       <link>https://github.com/azdabat/ADX-Tested-Composite-Threat-Hunting-Rules</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-03-03T12:58:01Z | 最后更新: 2026-03-03T12:58:05Z</description>
@@ -28852,6 +28894,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 13:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 19:01:21 GMT</lastBuildDate>
   </channel>
 </rss>
