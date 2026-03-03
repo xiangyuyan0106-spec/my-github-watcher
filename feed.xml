@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: frknaykc/Dragon-ThreatResearchHQ</title>
+      <link>https://github.com/frknaykc/Dragon-ThreatResearchHQ</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A comprehensive repository for malware analysis and threat intelligence, including Cobalt Strike Beacon configurations, YARA rules, IOCs, Suricata rules, and malware samples to support cybersecurity efforts. | 最后推送: 2026-02-25T14:26:53Z | 最后更新: 2026-02-25T14:26:57Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/frknaykc/Dragon-ThreatResearchHQ?new=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-03T06:57:44Z | 最后更新: 2026-03-03T06:57:48Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-03T06:48:12Z | 最后更新: 2026-03-03T06:48:17Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-03T05:36:35Z | 最后更新: 2026-03-03T05:36:38Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-03-03T04:41:10Z | 最后更新: 2026-03-03T04:41:13Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-03T03:37:04Z | 最后更新: 2026-03-03T03:37:08Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-03T02:49:42Z | 最后更新: 2026-03-03T02:49:46Z</description>
+      <pubDate>2026-03-03T07:03:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772521401</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: mysak7/seip-harness</title>
       <link>https://github.com/mysak7/seip-harness</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-02T21:43:30Z | 最后更新: 2026-03-02T21:43:33Z</description>
@@ -28733,6 +28782,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 02:49:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:03:22 GMT</lastBuildDate>
   </channel>
 </rss>
