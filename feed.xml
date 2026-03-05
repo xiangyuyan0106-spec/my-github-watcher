@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-05T06:51:49Z | 最后更新: 2026-03-05T06:51:55Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-05T06:48:35Z | 最后更新: 2026-03-05T06:48:38Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 190 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-05T06:35:30Z | 最后更新: 2026-03-05T06:35:34Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ThePhoenixAgency/AI-Pulse</title>
+      <link>https://github.com/ThePhoenixAgency/AI-Pulse</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated AI news aggregator from premium sources - Auto-updated with webhook, paginated display | 最后推送: 2026-03-05T06:20:22Z | 最后更新: 2026-03-05T06:20:25Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ThePhoenixAgency/AI-Pulse?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-05T06:10:21Z | 最后更新: 2026-03-05T06:10:24Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-05T03:32:54Z | 最后更新: 2026-03-05T03:32:58Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-05T02:45:38Z | 最后更新: 2026-03-05T02:45:41Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-02-28T22:00:11Z | 最后更新: 2026-03-05T03:19:16Z</description>
+      <pubDate>2026-03-05T07:03:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1772694204</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: sekayamarienewsome-spec/BYOVD-Forensic-Analysis-2026</title>
       <link>https://github.com/sekayamarienewsome-spec/BYOVD-Forensic-Analysis-2026</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-04T22:40:15Z | 最后更新: 2026-03-04T22:40:15Z</description>
@@ -29223,6 +29279,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 02:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:03:24 GMT</lastBuildDate>
   </channel>
 </rss>
