@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: azdabat/Minimum-Truth-Detection-Framework-ADX-Validated-Composite-Rules</title>
+      <link>https://github.com/azdabat/Minimum-Truth-Detection-Framework-ADX-Validated-Composite-Rules</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Risk-Based Alerting, Composite Scoring, and Resilience | 最后推送: 2026-03-04T05:09:05Z | 最后更新: 2026-03-05T20:01:58Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/azdabat/Minimum-Truth-Detection-Framework-ADX-Validated-Composite-Rules?new=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-06T02:24:08Z | 最后更新: 2026-03-06T02:24:11Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jharrisHalcyon/Halcyon_API</title>
+      <link>https://github.com/jharrisHalcyon/Halcyon_API</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: API scripts for use with Halcyon  | 最后推送: 2026-03-06T02:01:30Z | 最后更新: 2026-03-06T02:01:33Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jharrisHalcyon/Halcyon_API?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-03-06T01:48:57Z | 最后更新: 2026-03-06T01:49:01Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-06T00:48:13Z | 最后更新: 2026-03-06T00:48:17Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-03-06T00:16:46Z | 最后更新: 2026-03-06T00:16:49Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-05T19:22:07Z | 最后更新: 2026-03-05T19:22:11Z</description>
+      <pubDate>2026-03-06T02:42:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772764973</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-05T18:50:24Z | 最后更新: 2026-03-05T18:50:34Z</description>
@@ -29377,6 +29426,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 19:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:42:53 GMT</lastBuildDate>
   </channel>
 </rss>
