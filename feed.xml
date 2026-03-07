@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: JoasASantos/Red-Team-Exercises</title>
+      <link>https://github.com/JoasASantos/Red-Team-Exercises</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-02-28T04:43:12Z | 最后更新: 2026-03-07T12:37:22Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JoasASantos/Red-Team-Exercises?new=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-07T12:47:54Z | 最后更新: 2026-03-07T12:47:59Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: tanjiti/sec_profile</title>
+      <link>https://github.com/tanjiti/sec_profile</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等) | 最后推送: 2026-03-07T12:02:57Z | 最后更新: 2026-03-07T12:03:01Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tanjiti/sec_profile?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-07T10:24:13Z | 最后更新: 2026-03-07T10:24:16Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-07T10:19:59Z | 最后更新: 2026-03-07T10:20:02Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ThePhoenixAgency/AI-Pulse</title>
+      <link>https://github.com/ThePhoenixAgency/AI-Pulse</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated AI news aggregator from premium sources - Auto-updated with webhook, paginated display | 最后推送: 2026-03-07T08:00:17Z | 最后更新: 2026-03-07T08:00:18Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ThePhoenixAgency/AI-Pulse?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-07T06:53:55Z | 最后更新: 2026-03-07T06:53:59Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-03-06T08:59:18Z | 最后更新: 2026-03-07T07:52:26Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-06T06:05:42Z | 最后更新: 2026-03-07T10:49:19Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-05T06:10:21Z | 最后更新: 2026-03-07T12:15:13Z</description>
+      <pubDate>2026-03-07T13:03:37Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1772888617</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-07T06:47:40Z | 最后更新: 2026-03-07T06:47:44Z</description>
@@ -29706,6 +29776,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 06:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 13:03:37 GMT</lastBuildDate>
   </channel>
 </rss>
