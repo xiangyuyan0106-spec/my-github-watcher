@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Red Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-03-08T20:19:51Z | 最后更新: 2026-03-08T20:19:55Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?new=1&amp;ts=1773024636</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-09T02:26:46Z | 最后更新: 2026-03-09T02:26:50Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1773024636</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-09T02:22:24Z | 最后更新: 2026-03-09T02:22:26Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-03-09T01:49:38Z | 最后更新: 2026-03-09T01:49:42Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-09T00:47:43Z | 最后更新: 2026-03-09T01:21:15Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-03-09T00:10:56Z | 最后更新: 2026-03-09T00:10:59Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 209 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-08T22:10:44Z | 最后更新: 2026-03-08T22:10:47Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-08T18:46:55Z | 最后更新: 2026-03-08T18:46:59Z</description>
+      <pubDate>2026-03-09T02:50:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1773024637</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: JameZUK/Arkana</title>
       <link>https://github.com/JameZUK/Arkana</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 209 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-08T16:18:16Z | 最后更新: 2026-03-08T16:18:19Z</description>
@@ -30147,6 +30203,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 18:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 02:50:37 GMT</lastBuildDate>
   </channel>
 </rss>
