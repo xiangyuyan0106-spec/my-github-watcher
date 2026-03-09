@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-09T18:50:13Z | 最后更新: 2026-03-09T18:50:19Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-03-09T18:15:35Z | 最后更新: 2026-03-09T18:15:39Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 209 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-09T17:42:28Z | 最后更新: 2026-03-09T17:42:47Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-09T17:20:25Z | 最后更新: 2026-03-09T17:20:29Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-09T17:16:06Z | 最后更新: 2026-03-09T17:16:10Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Red Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-03-09T17:01:21Z | 最后更新: 2026-03-09T17:01:25Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-09T16:04:40Z | 最后更新: 2026-03-09T17:30:36Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: d3sh1n/lsass-dumper</title>
+      <link>https://github.com/d3sh1n/lsass-dumper</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-03-09T13:26:49Z | 最后更新: 2026-03-09T14:26:33Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/d3sh1n/lsass-dumper?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-09T13:22:06Z | 最后更新: 2026-03-09T13:22:09Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-09T10:30:56Z | 最后更新: 2026-03-09T15:23:25Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: frknaykc/Dragon-ThreatResearchHQ</title>
+      <link>https://github.com/frknaykc/Dragon-ThreatResearchHQ</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A comprehensive repository for malware analysis and threat intelligence, including Cobalt Strike Beacon configurations, YARA rules, IOCs, Suricata rules, and malware samples to support cybersecurity efforts. | 最后推送: 2026-03-06T20:21:16Z | 最后更新: 2026-03-09T15:10:58Z</description>
+      <pubDate>2026-03-09T19:03:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/frknaykc/Dragon-ThreatResearchHQ?updated=1&amp;ts=1773082999</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: 0xjrx/magnetar</title>
       <link>https://github.com/0xjrx/magnetar</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartarus Gate, process protection and more | 最后推送: 2026-03-09T10:27:45Z | 最后更新: 2026-03-09T10:28:23Z</description>
@@ -30329,6 +30406,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 13:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 19:03:19 GMT</lastBuildDate>
   </channel>
 </rss>
