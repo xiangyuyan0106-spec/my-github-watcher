@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-10T06:48:32Z | 最后更新: 2026-03-10T06:48:37Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-10T04:18:46Z | 最后更新: 2026-03-10T04:18:49Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-10T04:14:25Z | 最后更新: 2026-03-10T04:14:28Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-10T03:30:40Z | 最后更新: 2026-03-10T03:30:44Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-10T02:41:54Z | 最后更新: 2026-03-10T02:41:57Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-03-09T18:15:35Z | 最后更新: 2026-03-10T03:42:57Z</description>
+      <pubDate>2026-03-10T07:01:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1773126115</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: LemonSec/BYOVD_detection_framework</title>
       <link>https://github.com/LemonSec/BYOVD_detection_framework</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD Detection Framework | 最后推送: 2026-03-09T21:40:12Z | 最后更新: 2026-03-09T21:40:15Z</description>
@@ -30469,6 +30511,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 02:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:01:55 GMT</lastBuildDate>
   </channel>
 </rss>
