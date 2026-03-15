@@ -1,14 +1,16 @@
+https://github.com/GhostTroops/TOP
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
+https://github.com/RichardBarron27/RichardBarron27
+https://github.com/zulloper/cve-poc
+https://github.com/bmassemin/rtcore-vuln
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/JameZUK/Arkana
 https://github.com/gmh5225/awesome-game-security
 https://github.com/ThePhoenixAgency/AI-Pulse
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/GhostTroops/TOP
-https://github.com/zulloper/cve-poc
 https://github.com/truckli/infosec-abbrv
 https://github.com/killvxk/gitweekly
 https://github.com/ANYLNK/STProcessMonitorBYOVD
@@ -26,5 +28,3 @@ https://github.com/Chuccle/SimpleAntiCheat
 https://github.com/0xjrx/magnetar
 https://github.com/azdabat/Minimum-Truth-Detection-Framework-ADX-Validated-Composite-Rules
 https://github.com/LemonSec/BYOVD_detection_framework
-https://github.com/AdminSam313/windows-kernel-truth
-https://github.com/atraxsrc/BlueTeamMapper
