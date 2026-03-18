@@ -1,10 +1,12 @@
-https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/JameZUK/Arkana
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
-https://github.com/DarkFunct/TK-CVE-Repo
-https://github.com/JameZUK/Arkana
+https://github.com/wutang700/STProcessMonitorBYOVD
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/Ekitji/siem
+https://github.com/0xDbgMan/Kernel-Exploitation
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/GhostTroops/TOP
 https://github.com/KOSEC-LLC/BYOVD-Research
 https://github.com/zulloper/cve-poc
@@ -16,7 +18,6 @@ https://github.com/truckli/infosec-abbrv
 https://github.com/gmh5225/awesome-game-security
 https://github.com/killvxk/gitweekly
 https://github.com/godlovepenn/godlovepenn
-https://github.com/Ekitji/siem
 https://github.com/bmassemin/rtcore-vuln
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/boing737ng/DriverSight
@@ -27,4 +28,3 @@ https://github.com/ANYLNK/STProcessMonitorBYOVD
 https://github.com/JCNA9029/CyberSentinel_v.1
 https://github.com/splintersfury/DriverAtlas
 https://github.com/splintersfury/KernelSight
-https://github.com/d3sh1n/lsass-dumper
