@@ -1,9 +1,11 @@
-https://github.com/lukmannurhikma/UnknownKiller
+https://github.com/lyonzin/knowledge-rag
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/Ekitji/siem
+https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
+https://github.com/splintersfury/KernelSight
 https://github.com/JameZUK/Arkana
-https://github.com/Ekitji/siem
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/gmh5225/awesome-game-security
 https://github.com/DarkFunct/TK-CVE-Repo
@@ -19,7 +21,6 @@ https://github.com/0xDbgMan/Kernel-Exploitation
 https://github.com/KOSEC-LLC/BYOVD-Research
 https://github.com/andreisss/KslDump
 https://github.com/RichardBarron27/RichardBarron27
-https://github.com/lyonzin/knowledge-rag
 https://github.com/JasonLn0711/JasonLn0711.github.io
 https://github.com/truckli/infosec-abbrv
 https://github.com/killvxk/gitweekly
@@ -27,4 +28,3 @@ https://github.com/godlovepenn/godlovepenn
 https://github.com/bmassemin/rtcore-vuln
 https://github.com/boing737ng/DriverSight
 https://github.com/MistyFir/CVE-2024-21338-Exploit
-https://github.com/b1ank1108/awesome-stars
