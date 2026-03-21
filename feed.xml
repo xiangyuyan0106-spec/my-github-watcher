@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: KeServiceDescriptorTable/vulnerable-drivers</title>
+      <link>https://github.com/KeServiceDescriptorTable/vulnerable-drivers</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: vulnerable drivers for windows machines. | 最后推送: 2026-03-18T19:39:14Z | 最后更新: 2026-03-20T14:55:15Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/KeServiceDescriptorTable/vulnerable-drivers?new=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Drootkit/WinBaseMonitor</title>
+      <link>https://github.com/Drootkit/WinBaseMonitor</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 监控所有的ETW-TI事件（BYOVD实现PPL）和监控进程、线程、imageload回调事件（驱动） | 最后推送: 2026-03-18T17:20:37Z | 最后更新: 2026-03-18T17:15:27Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Drootkit/WinBaseMonitor?new=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 0xDbgMan/Kernel-Exploitation</title>
+      <link>https://github.com/0xDbgMan/Kernel-Exploitation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-18T08:37:10Z | 最后更新: 2026-03-18T08:37:14Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xDbgMan/Kernel-Exploitation?new=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-21T18:03:02Z | 最后更新: 2026-03-21T18:03:05Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-21T18:01:15Z | 最后更新: 2026-03-21T18:01:19Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-21T17:56:54Z | 最后更新: 2026-03-21T17:56:57Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250 MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-21T16:58:18Z | 最后更新: 2026-03-21T16:58:22Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-21T13:06:43Z | 最后更新: 2026-03-21T13:06:47Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-21T18:48:15Z | 最后更新: 2026-03-21T18:48:21Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-21T08:43:13Z | 最后更新: 2026-03-21T16:42:43Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MistyFir/CVE-2024-21338-Exploit</title>
+      <link>https://github.com/MistyFir/CVE-2024-21338-Exploit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-03-20T09:09:32Z | 最后更新: 2026-03-21T14:44:00Z</description>
+      <pubDate>2026-03-21T18:48:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MistyFir/CVE-2024-21338-Exploit?updated=1&amp;ts=1774118922</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Chuccle/SimpleAntiCheat</title>
       <link>https://github.com/Chuccle/SimpleAntiCheat</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A Windows kernel driver that protects a target process from external manipulation through callback-based interception and periodic scanning. | 最后推送: 2026-03-18T23:22:05Z | 最后更新: 2026-03-18T21:17:01Z</description>
@@ -34088,6 +34165,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 13:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:48:42 GMT</lastBuildDate>
   </channel>
 </rss>

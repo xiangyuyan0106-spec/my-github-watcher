@@ -1,14 +1,11 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/rix4uni/medium-writeups
-https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/hsamnguyen/lastest-update-bounty
 https://github.com/JameZUK/Arkana
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/gmh5225/awesome-game-security
 https://github.com/Ekitji/siem
-https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/Century300/Century300
 https://github.com/tanjiti/sec_profile
 https://github.com/DarkFunct/TK-CVE-Repo
@@ -28,3 +25,6 @@ https://github.com/truckli/infosec-abbrv
 https://github.com/kai9987kai/windhawk
 https://github.com/splintersfury/KernelSight
 https://github.com/Chuccle/SimpleAntiCheat
+https://github.com/KeServiceDescriptorTable/vulnerable-drivers
+https://github.com/Drootkit/WinBaseMonitor
+https://github.com/0xDbgMan/Kernel-Exploitation
