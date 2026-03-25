@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: AnisBarreau/Hollow-Purple</title>
+      <link>https://github.com/AnisBarreau/Hollow-Purple</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: PPL's killer | BYOVD cormem.sys | 最后推送: 2026-03-25T18:28:22Z | 最后更新: 2026-03-25T18:28:27Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AnisBarreau/Hollow-Purple?new=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-25T18:58:29Z | 最后更新: 2026-03-25T18:58:32Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-25T18:55:27Z | 最后更新: 2026-03-25T18:55:32Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-25T18:49:44Z | 最后更新: 2026-03-25T18:49:47Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-25T18:47:50Z | 最后更新: 2026-03-25T18:47:53Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: eren717/WdFilter2</title>
+      <link>https://github.com/eren717/WdFilter2</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel rootkit driver with DKOM process hiding, IRP-based file/port cloaking, EDR neutering, PatchGuard evasion and authenticated IOCTL interface | 最后推送: 2026-03-25T18:47:20Z | 最后更新: 2026-03-25T18:47:24Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/eren717/WdFilter2?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-25T18:43:18Z | 最后更新: 2026-03-25T18:43:21Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xMarcio/cve</title>
+      <link>https://github.com/0xMarcio/cve</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Latest CVEs with their Proof of Concept exploits. | 最后推送: 2026-03-25T18:16:33Z | 最后更新: 2026-03-25T18:16:37Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xMarcio/cve?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-25T14:23:02Z | 最后更新: 2026-03-25T14:23:45Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1774465593</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-25T13:41:01Z | 最后更新: 2026-03-25T13:41:04Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774465594</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Gorstak-Zadar/Antivirus</title>
+      <link>https://github.com/Gorstak-Zadar/Antivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A single-file PowerShell script that monitors your Windows system for suspicious activity and applies security hardening. This is not a replacement for proper antivirus/EDR software - it's a supplementary detection and hardening tool that runs alongside your existing security stack. | 最后推送: 2026-03-25T07:50:02Z | 最后更新: 2026-03-25T16:23:08Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/Antivirus?updated=1&amp;ts=1774465594</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: S1lkys/KslKatz</title>
+      <link>https://github.com/S1lkys/KslKatz</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Combining KslDump and GhostKatz to dump LSASS using no-vulnerability KslD.sys memory read to bypass PPL. Extracts MSV1_0 NT hashes and WDigest cleartext passwords (if enabled) from LSASS using a Microsoft-signed driver. | 最后推送: 2026-03-25T00:23:44Z | 最后更新: 2026-03-25T18:36:05Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/S1lkys/KslKatz?updated=1&amp;ts=1774465594</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lyonzin/knowledge-rag</title>
+      <link>https://github.com/lyonzin/knowledge-rag</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Local RAG System for Claude Code — Hybrid search + Cross-encoder Reranking + Markdown-aware Chunking + 12 MCP Tools. No external servers, pure ONNX in-process. | 最后推送: 2026-03-22T23:51:53Z | 最后更新: 2026-03-25T18:50:48Z</description>
+      <pubDate>2026-03-25T19:06:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lyonzin/knowledge-rag?updated=1&amp;ts=1774465594</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Gorstak-Zadar/Antivirus</title>
       <link>https://github.com/Gorstak-Zadar/Antivirus</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A single-file PowerShell script that monitors your Windows system for suspicious activity and applies security hardening. This is not a replacement for proper antivirus/EDR software - it's a supplementary detection and hardening tool that runs alongside your existing security stack. | 最后推送: 2026-03-25T07:50:02Z | 最后更新: 2026-03-25T07:50:27Z</description>
@@ -35418,6 +35509,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 13:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:06:34 GMT</lastBuildDate>
   </channel>
 </rss>
