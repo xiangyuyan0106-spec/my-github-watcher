@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Gorstak-Zadar/Antivirus</title>
+      <link>https://github.com/Gorstak-Zadar/Antivirus</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A single-file PowerShell script that monitors your Windows system for suspicious activity and applies security hardening. This is not a replacement for proper antivirus/EDR software - it's a supplementary detection and hardening tool that runs alongside your existing security stack. | 最后推送: 2026-03-25T07:50:02Z | 最后更新: 2026-03-25T07:50:27Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/Antivirus?new=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-25T12:53:40Z | 最后更新: 2026-03-25T12:53:46Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-25T12:44:35Z | 最后更新: 2026-03-25T12:44:38Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-25T12:42:29Z | 最后更新: 2026-03-25T12:42:33Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-25T12:37:57Z | 最后更新: 2026-03-25T12:38:01Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-03-25T12:35:48Z | 最后更新: 2026-03-25T12:35:52Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xMarcio/cve</title>
+      <link>https://github.com/0xMarcio/cve</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Latest CVEs with their Proof of Concept exploits. | 最后推送: 2026-03-25T12:10:32Z | 最后更新: 2026-03-25T12:10:36Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xMarcio/cve?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-25T10:10:36Z | 最后更新: 2026-03-25T10:10:42Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-25T07:13:10Z | 最后更新: 2026-03-25T07:13:14Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: S1lkys/KslKatz</title>
+      <link>https://github.com/S1lkys/KslKatz</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Combining KslDump and GhostKatz to dump LSASS using no-vulnerability KslD.sys memory read to bypass PPL. Extracts MSV1_0 NT hashes and WDigest cleartext passwords (if enabled) from LSASS using a Microsoft-signed driver. | 最后推送: 2026-03-25T00:23:44Z | 最后更新: 2026-03-25T13:37:45Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/S1lkys/KslKatz?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Blue Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-03-24T17:54:18Z | 最后更新: 2026-03-25T07:37:57Z</description>
+      <pubDate>2026-03-25T13:40:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?updated=1&amp;ts=1774446059</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis</title>
       <link>https://github.com/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Master's Thesis research on CVE-2024-51324 (BYOVD). Advanced exploit with 4 operational modes (SCANNER, LOADER, KILLER, CLEANUP), SHA-256 driver verification, and full academic documentation. Portfolio piece covers Windows kernel driver security, IOCTL reverse engineering, and Bring Your Own Vulnerable Driver exploitation. | 最后推送: 2026-03-25T06:17:54Z | 最后更新: 2026-03-25T06:17:58Z</description>
@@ -35341,6 +35418,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:40:59 GMT</lastBuildDate>
   </channel>
 </rss>
