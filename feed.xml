@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-27T02:44:38Z | 最后更新: 2026-03-27T02:44:42Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?new=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thexnumb/thexwriteup</title>
+      <link>https://github.com/thexnumb/thexwriteup</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Store all the latest Medium Articles by specific tags for the Bug Bounty hunting and Security filed and Notify on the Discord server | 最后推送: 2026-03-27T02:37:56Z | 最后更新: 2026-03-27T02:38:02Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thexnumb/thexwriteup?new=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Feed about Cybersecurity💻 | 最后推送: 2026-03-27T01:05:44Z | 最后更新: 2026-03-27T01:05:47Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?new=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-03-27T01:04:23Z | 最后更新: 2026-03-27T01:04:26Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?new=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: JFR-C/Windows-Penetration-Testing</title>
+      <link>https://github.com/JFR-C/Windows-Penetration-Testing</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming). | 最后推送: 2026-03-27T01:03:47Z | 最后更新: 2026-03-27T01:03:52Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JFR-C/Windows-Penetration-Testing?new=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-03-27T01:59:12Z | 最后更新: 2026-03-27T01:59:16Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-27T00:51:35Z | 最后更新: 2026-03-27T00:51:39Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-27T00:16:00Z | 最后更新: 2026-03-27T00:16:04Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-03-27T00:14:41Z | 最后更新: 2026-03-27T00:14:44Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-27T00:14:04Z | 最后更新: 2026-03-27T00:14:07Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xMarcio/cve</title>
+      <link>https://github.com/0xMarcio/cve</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Latest CVEs with their Proof of Concept exploits. | 最后推送: 2026-03-27T00:12:01Z | 最后更新: 2026-03-27T00:12:06Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xMarcio/cve?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-27T00:09:12Z | 最后更新: 2026-03-27T00:09:15Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-03-26T22:28:14Z | 最后更新: 2026-03-26T22:28:17Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-03-26T21:03:43Z | 最后更新: 2026-03-26T21:03:46Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-26T19:19:22Z | 最后更新: 2026-03-26T19:19:25Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-26T06:58:48Z | 最后更新: 2026-03-27T01:47:10Z</description>
+      <pubDate>2026-03-27T03:20:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1774581642</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: splintersfury/KernelSight</title>
       <link>https://github.com/splintersfury/KernelSight</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, grounded in real CVEs with build numbers and PoC references | 最后推送: 2026-03-26T15:42:25Z | 最后更新: 2026-03-26T15:43:51Z</description>
@@ -35880,6 +35992,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:20:42 GMT</lastBuildDate>
   </channel>
 </rss>
