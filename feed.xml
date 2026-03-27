@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: boing737ng/DriverSight</title>
+      <link>https://github.com/boing737ng/DriverSight</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DriverSight is a professional tool for auditing the Windows kernel attack surface. Designed for Blue Team specialists in order to identify vulnerable drivers suitable for BYOVD class attacks | 最后推送: 2026-03-24T17:54:18Z | 最后更新: 2026-03-25T07:37:57Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/boing737ng/DriverSight?new=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: I3r1h0n/Sigurd</title>
+      <link>https://github.com/I3r1h0n/Sigurd</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A BYOVD technique abuse tool | 最后推送: 2026-03-24T11:25:42Z | 最后更新: 2026-03-24T11:25:47Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/I3r1h0n/Sigurd?new=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: axumweyane/Haku</title>
+      <link>https://github.com/axumweyane/Haku</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-23T23:48:38Z | 最后更新: 2026-03-23T23:48:42Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/axumweyane/Haku?new=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BriPwn/Crowdstrike-DaC</title>
+      <link>https://github.com/BriPwn/Crowdstrike-DaC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-23T19:32:23Z | 最后更新: 2026-03-23T19:32:26Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BriPwn/Crowdstrike-DaC?new=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: godlovepenn/godlovepenn</title>
+      <link>https://github.com/godlovepenn/godlovepenn</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Config files for my GitHub profile. | 最后推送: 2026-03-23T18:46:48Z | 最后更新: 2026-03-23T18:46:52Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/godlovepenn/godlovepenn?new=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-03-27T12:53:54Z | 最后更新: 2026-03-27T12:53:57Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-27T12:52:45Z | 最后更新: 2026-03-27T12:52:50Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xMarcio/cve</title>
+      <link>https://github.com/0xMarcio/cve</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Latest CVEs with their Proof of Concept exploits. | 最后推送: 2026-03-27T12:11:10Z | 最后更新: 2026-03-27T12:11:14Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xMarcio/cve?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-27T11:36:25Z | 最后更新: 2026-03-27T11:36:29Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-27T11:34:32Z | 最后更新: 2026-03-27T11:34:36Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-27T11:30:15Z | 最后更新: 2026-03-27T11:30:18Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ObMaster</title>
+      <link>https://github.com/chen0430tw/ObMaster</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel introspection tool: EPROCESS walk, ObCallback map, PPL bypass, SYSTEM/TI elevation — all via RTCore64 BYOVD | 最后推送: 2026-03-27T08:35:51Z | 最后更新: 2026-03-27T08:35:54Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ObMaster?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-27T07:20:24Z | 最后更新: 2026-03-27T07:20:27Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-26T14:34:30Z | 最后更新: 2026-03-27T11:59:35Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-26T06:58:48Z | 最后更新: 2026-03-27T09:07:48Z</description>
+      <pubDate>2026-03-27T13:23:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1774617822</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
       <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-03-27T06:53:44Z | 最后更新: 2026-03-27T06:53:48Z</description>
@@ -36076,6 +36181,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:23:43 GMT</lastBuildDate>
   </channel>
 </rss>
