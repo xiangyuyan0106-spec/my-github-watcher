@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-03-30T13:08:02Z | 最后更新: 2026-03-30T13:08:07Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-03-30T12:53:31Z | 最后更新: 2026-03-30T13:06:43Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xMarcio/cve</title>
+      <link>https://github.com/0xMarcio/cve</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Latest CVEs with their Proof of Concept exploits. | 最后推送: 2026-03-30T12:13:41Z | 最后更新: 2026-03-30T12:13:46Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xMarcio/cve?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ObMaster</title>
+      <link>https://github.com/chen0430tw/ObMaster</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel introspection tool: EPROCESS walk, ObCallback map, PPL bypass, SYSTEM/TI elevation — all via RTCore64 BYOVD | 最后推送: 2026-03-30T10:38:55Z | 最后更新: 2026-03-30T10:38:59Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ObMaster?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: seraphsec/byovd</title>
+      <link>https://github.com/seraphsec/byovd</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Because you should always trust your driver | 最后推送: 2026-03-30T09:02:42Z | 最后更新: 2026-03-30T09:02:45Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/seraphsec/byovd?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-03-30T08:50:31Z | 最后更新: 2026-03-30T08:50:34Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-30T07:55:21Z | 最后更新: 2026-03-30T07:55:25Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-03-29T17:43:51Z | 最后更新: 2026-03-30T13:28:49Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-03-26T13:13:21Z | 最后更新: 2026-03-30T13:18:46Z</description>
+      <pubDate>2026-03-30T13:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1774878746</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: seraphsec/byovd</title>
       <link>https://github.com/seraphsec/byovd</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Because you should always trust your driver | 最后推送: 2026-03-30T07:18:19Z | 最后更新: 2026-03-30T07:18:23Z</description>
@@ -37133,6 +37196,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:52:26 GMT</lastBuildDate>
   </channel>
 </rss>
