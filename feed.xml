@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: thexnumb/thexwriteup</title>
+      <link>https://github.com/thexnumb/thexwriteup</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Store all the latest Medium Articles by specific tags for the Bug Bounty hunting and Security filed and Notify on the Discord server | 最后推送: 2026-04-05T18:49:50Z | 最后更新: 2026-04-05T18:49:56Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thexnumb/thexwriteup?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-04-05T18:27:20Z | 最后更新: 2026-04-05T18:27:25Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-05T18:21:54Z | 最后更新: 2026-04-05T18:22:04Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Feed about Cybersecurity💻 | 最后推送: 2026-04-05T18:07:35Z | 最后更新: 2026-04-05T18:07:38Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-05T18:04:48Z | 最后更新: 2026-04-05T18:04:54Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: wuwowuren/XDriverLoaderGUI</title>
+      <link>https://github.com/wuwowuren/XDriverLoaderGUI</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: test Driver LoadDriver Win10-11 without Sign | 最后推送: 2026-04-05T16:27:26Z | 最后更新: 2026-04-05T16:27:29Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wuwowuren/XDriverLoaderGUI?new=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-05T18:50:53Z | 最后更新: 2026-04-05T18:51:02Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-05T18:39:54Z | 最后更新: 2026-04-05T18:39:59Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-05T18:37:48Z | 最后更新: 2026-04-05T18:37:56Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-05T18:32:56Z | 最后更新: 2026-04-05T18:33:00Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-05T13:15:16Z | 最后更新: 2026-04-05T13:15:19Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: j3h4ck/PoisonKiller</title>
+      <link>https://github.com/j3h4ck/PoisonKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Another BYOVD process killer. works on CrowdStrike. fully signed. | 最后推送: 2026-04-05T09:10:19Z | 最后更新: 2026-04-05T18:37:59Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/PoisonKiller?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wesmar/kvc</title>
+      <link>https://github.com/wesmar/kvc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-04-04T18:01:54Z | 最后更新: 2026-04-05T15:23:12Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvc?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lyonzin/knowledge-rag</title>
+      <link>https://github.com/lyonzin/knowledge-rag</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Local RAG System for Claude Code — Hybrid search + Cross-encoder Reranking + Markdown-aware Chunking + 12 MCP Tools. No external servers, pure ONNX in-process. | 最后推送: 2026-04-03T22:31:15Z | 最后更新: 2026-04-05T13:32:55Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lyonzin/knowledge-rag?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: PrincipleCheck/KslKatzBof</title>
+      <link>https://github.com/PrincipleCheck/KslKatzBof</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-03T14:14:43Z | 最后更新: 2026-04-05T17:27:33Z</description>
+      <pubDate>2026-04-05T18:56:59Z</pubDate>
+      <guid isPermaLink="true">https://github.com/PrincipleCheck/KslKatzBof?updated=1&amp;ts=1775415419</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Pumi96/DefenderDump</title>
       <link>https://github.com/Pumi96/DefenderDump</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Weaponizing Windows Defender's Own Signed Driver | 最后推送: 2026-04-05T11:29:41Z | 最后更新: 2026-04-05T11:29:46Z</description>
@@ -39436,6 +39541,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 13:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 18:56:59 GMT</lastBuildDate>
   </channel>
 </rss>
