@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Pumi96/DefenderDump</title>
+      <link>https://github.com/Pumi96/DefenderDump</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Weaponizing Windows Defender's Own Signed Driver | 最后推送: 2026-04-05T11:29:41Z | 最后更新: 2026-04-05T11:29:46Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Pumi96/DefenderDump?new=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: j3h4ck/PoisonKiller</title>
+      <link>https://github.com/j3h4ck/PoisonKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Another BYOVD process killer. works on CrowdStrike. fully signed. | 最后推送: 2026-04-05T09:10:19Z | 最后更新: 2026-04-05T13:06:31Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/PoisonKiller?new=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-05T12:50:47Z | 最后更新: 2026-04-05T12:50:52Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Gorstak-Zadar/GEDR</title>
+      <link>https://github.com/Gorstak-Zadar/GEDR</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: GEDR (Gorstak Endpoint Detection &amp; Response) is the flagship enterprise security platform providing comprehensive endpoint protection. It combines the power of compiled C# performance with PowerShell flexibility to deliver a production-ready EDR solution. | 最后推送: 2026-04-05T12:39:33Z | 最后更新: 2026-04-05T12:38:17Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/GEDR?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-05T12:34:59Z | 最后更新: 2026-04-05T12:35:05Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-05T12:32:19Z | 最后更新: 2026-04-05T12:32:22Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-05T12:27:13Z | 最后更新: 2026-04-05T12:27:21Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: I3r1h0n/Sigurd</title>
+      <link>https://github.com/I3r1h0n/Sigurd</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A BYOVD technique abuse tool | 最后推送: 2026-04-05T12:18:42Z | 最后更新: 2026-04-05T12:25:50Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/I3r1h0n/Sigurd?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-05T10:55:35Z | 最后更新: 2026-04-05T10:55:39Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-05T07:18:33Z | 最后更新: 2026-04-05T07:18:36Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: PrincipleCheck/KslKatzBof</title>
+      <link>https://github.com/PrincipleCheck/KslKatzBof</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-03T14:14:43Z | 最后更新: 2026-04-05T11:51:41Z</description>
+      <pubDate>2026-04-05T13:15:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/PrincipleCheck/KslKatzBof?updated=1&amp;ts=1775394914</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
       <link>https://github.com/b1ank1108/awesome-stars</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-04-05T05:07:21Z | 最后更新: 2026-04-05T05:07:26Z</description>
@@ -39359,6 +39436,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 13:15:14 GMT</lastBuildDate>
   </channel>
 </rss>
