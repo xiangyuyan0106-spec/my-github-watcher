@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: j3h4ck/PoisonKiller</title>
+      <link>https://github.com/j3h4ck/PoisonKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Another BYOVD process killer. works on CrowdStrike. fully signed. | 最后推送: 2026-04-05T09:10:19Z | 最后更新: 2026-04-07T06:28:31Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/PoisonKiller?new=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-04-05T05:07:21Z | 最后更新: 2026-04-07T01:05:58Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-07T07:38:38Z | 最后更新: 2026-04-07T07:08:33Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-07T06:52:18Z | 最后更新: 2026-04-07T06:52:23Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-07T04:45:54Z | 最后更新: 2026-04-07T04:45:57Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-07T04:44:07Z | 最后更新: 2026-04-07T04:44:11Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-07T04:39:58Z | 最后更新: 2026-04-07T04:40:03Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-07T03:43:00Z | 最后更新: 2026-04-07T03:43:08Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-07T03:20:40Z | 最后更新: 2026-04-07T03:20:44Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 416rehman/deepzero</title>
+      <link>https://github.com/416rehman/deepzero</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents. | 最后推送: 2026-04-07T02:16:34Z | 最后更新: 2026-04-07T07:36:26Z</description>
+      <pubDate>2026-04-07T07:44:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/deepzero?updated=1&amp;ts=1775547841</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: pwnfuzz/byovd-watchdog</title>
       <link>https://github.com/pwnfuzz/byovd-watchdog</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios. | 最后推送: 2026-04-07T02:42:01Z | 最后更新: 2026-04-07T02:42:11Z</description>
@@ -39996,6 +40066,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:44:01 GMT</lastBuildDate>
   </channel>
 </rss>
