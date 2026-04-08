@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: 416rehman/DeepZero</title>
+      <link>https://github.com/416rehman/DeepZero</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents. | 最后推送: 2026-04-07T02:16:34Z | 最后更新: 2026-04-08T06:33:48Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/DeepZero?new=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-08T07:45:47Z | 最后更新: 2026-04-08T07:45:52Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-08T07:42:36Z | 最后更新: 2026-04-08T07:42:43Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-08T07:38:20Z | 最后更新: 2026-04-08T07:38:28Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nyascla/All-Things-Cybersecurity</title>
+      <link>https://github.com/nyascla/All-Things-Cybersecurity</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoCs didácticas creadas por mí para explicar TTPs de malware | 最后推送: 2026-04-08T07:18:44Z | 最后更新: 2026-04-08T07:18:48Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nyascla/All-Things-Cybersecurity?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-04-08T06:55:05Z | 最后更新: 2026-04-08T06:55:08Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-08T06:52:25Z | 最后更新: 2026-04-08T06:52:36Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-08T03:23:12Z | 最后更新: 2026-04-08T03:23:18Z</description>
+      <pubDate>2026-04-08T07:47:14Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775634434</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: nuzydev/BYOVD-DSE-Bypass</title>
       <link>https://github.com/nuzydev/BYOVD-DSE-Bypass</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-07T22:44:39Z | 最后更新: 2026-04-07T22:44:42Z</description>
@@ -40325,6 +40381,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:47:14 GMT</lastBuildDate>
   </channel>
 </rss>
