@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: JCNA9029/CyberSentinel_v.1</title>
+      <link>https://github.com/JCNA9029/CyberSentinel_v.1</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-10T18:44:26Z | 最后更新: 2026-04-10T18:44:31Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JCNA9029/CyberSentinel_v.1?new=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-10T18:14:12Z | 最后更新: 2026-04-10T18:14:16Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-04-10T17:30:22Z | 最后更新: 2026-04-10T17:31:01Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thomaswantstobeaskeleton/kernel-driver-example-and-research</title>
+      <link>https://github.com/thomaswantstobeaskeleton/kernel-driver-example-and-research</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: fortnite kernel driver, with research documents worthwhile | 最后推送: 2026-04-10T16:14:27Z | 最后更新: 2026-04-10T16:14:31Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thomaswantstobeaskeleton/kernel-driver-example-and-research?new=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-10T18:53:37Z | 最后更新: 2026-04-10T18:53:44Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-04-10T18:45:35Z | 最后更新: 2026-04-10T18:45:39Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-10T16:51:58Z | 最后更新: 2026-04-10T16:52:05Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ParadexMonitor</title>
+      <link>https://github.com/chen0430tw/ParadexMonitor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-10T16:13:10Z | 最后更新: 2026-04-10T16:11:39Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ParadexMonitor?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ObMaster</title>
+      <link>https://github.com/chen0430tw/ObMaster</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel introspection tool: EPROCESS walk, ObCallback map, PPL bypass, SYSTEM/TI elevation — all via RTCore64 BYOVD | 最后推送: 2026-04-10T15:51:47Z | 最后更新: 2026-04-10T15:51:50Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ObMaster?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-10T13:40:32Z | 最后更新: 2026-04-10T13:40:36Z</description>
+      <pubDate>2026-04-10T19:05:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775847946</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: chen0430tw/ParadexMonitor</title>
       <link>https://github.com/chen0430tw/ParadexMonitor</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-10T13:38:53Z | 最后更新: 2026-04-10T13:38:59Z</description>
@@ -41221,6 +41291,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 13:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 19:05:46 GMT</lastBuildDate>
   </channel>
 </rss>
