@@ -1,13 +1,15 @@
+https://github.com/chen0430tw/ParadexMonitor
 https://github.com/hsamnguyen/lastest-update-bounty
-https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher
-https://github.com/chen0430tw/ObMaster
-https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
-https://github.com/rix4uni/medium-writeups
 https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/thexnumb/thexwriteup
+https://github.com/rix4uni/medium-writeups
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher
+https://github.com/wesmar/kvcKiller
+https://github.com/xyzwebmaster/All-in-One-Whitehat-Security-Tool
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/chen0430tw/ObMaster
 https://github.com/GhostTroops/TOP
 https://github.com/DarkFunct/TK-CVE-Repo
 https://github.com/zulloper/cve-poc
@@ -26,5 +28,3 @@ https://github.com/holmanholdings/lionguard
 https://github.com/PrincipleCheck/KslKatzBof
 https://github.com/nuzydev/BYOVD-DSE-Bypass
 https://github.com/wesmar/kvc
-https://github.com/oxfemale/PoisinX
-https://github.com/0xsyr0/Cybersecurity-Glossary
