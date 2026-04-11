@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: shovanchakraborty/malware-triage-env</title>
+      <link>https://github.com/shovanchakraborty/malware-triage-env</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: OpenEnv malware triage environment for AI agent evaluation | 最后推送: 2026-04-08T17:54:24Z | 最后更新: 2026-04-08T17:54:31Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/shovanchakraborty/malware-triage-env?new=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Gorstak-Zadar/GEDR</title>
+      <link>https://github.com/Gorstak-Zadar/GEDR</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: GEDR (Gorstak Endpoint Detection &amp; Response) is the flagship enterprise security platform providing comprehensive endpoint protection. It combines the power of compiled C# performance with PowerShell flexibility to deliver a production-ready EDR solution. | 最后推送: 2026-04-11T07:10:44Z | 最后更新: 2026-04-11T07:10:20Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/GEDR?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-11T06:50:35Z | 最后更新: 2026-04-11T06:50:41Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ParadexMonitor</title>
+      <link>https://github.com/chen0430tw/ParadexMonitor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-11T06:22:50Z | 最后更新: 2026-04-11T06:22:53Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ParadexMonitor?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-11T05:16:50Z | 最后更新: 2026-04-11T05:16:54Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-11T05:15:10Z | 最后更新: 2026-04-11T05:15:14Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-11T05:11:02Z | 最后更新: 2026-04-11T05:11:07Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ObMaster</title>
+      <link>https://github.com/chen0430tw/ObMaster</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel introspection tool: EPROCESS walk, ObCallback map, PPL bypass, SYSTEM/TI elevation — all via RTCore64 BYOVD | 最后推送: 2026-04-11T04:39:39Z | 最后更新: 2026-04-11T04:39:42Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ObMaster?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Arqenor/arqenor</title>
+      <link>https://github.com/Arqenor/arqenor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Open-source cross-platform host &amp; network security analyzer (Rust + Go) | 最后推送: 2026-04-11T03:56:50Z | 最后更新: 2026-04-11T04:09:18Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Arqenor/arqenor?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-11T02:54:15Z | 最后更新: 2026-04-11T02:54:18Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wesmar/kvc</title>
+      <link>https://github.com/wesmar/kvc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-04-10T21:47:33Z | 最后更新: 2026-04-11T04:36:08Z</description>
+      <pubDate>2026-04-11T07:11:56Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvc?updated=1&amp;ts=1775891516</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: pwnfuzz/byovd-watchdog</title>
       <link>https://github.com/pwnfuzz/byovd-watchdog</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios. | 最后推送: 2026-04-11T02:33:29Z | 最后更新: 2026-04-11T02:33:37Z</description>
@@ -41403,6 +41480,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 02:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:11:56 GMT</lastBuildDate>
   </channel>
 </rss>
