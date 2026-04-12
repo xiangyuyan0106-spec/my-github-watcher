@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-12T11:54:06Z | 最后更新: 2026-04-12T11:54:10Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?new=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mailtocsprasad/ai-kb-quiz</title>
+      <link>https://github.com/mailtocsprasad/ai-kb-quiz</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Hybrid multi-model quiz app showcasing PTC, Programmable Tool Calling, and vectorized KB search | 最后推送: 2026-04-12T11:37:06Z | 最后更新: 2026-04-12T11:37:13Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mailtocsprasad/ai-kb-quiz?new=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Offensive SIEM | 最后推送: 2026-04-12T09:32:37Z | 最后更新: 2026-04-12T09:32:44Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?new=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: JohnRyk/Ada-PoisonKiller-BOF</title>
+      <link>https://github.com/JohnRyk/Ada-PoisonKiller-BOF</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: AdaptixC2 BOF implementation of BYOVD attack to terminate PPL-protected EDR processes using a signed Microsoft kernel driver. | 最后推送: 2026-04-12T08:41:06Z | 最后更新: 2026-04-12T08:41:11Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JohnRyk/Ada-PoisonKiller-BOF?new=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-12T12:51:10Z | 最后更新: 2026-04-12T12:51:14Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-12T12:33:59Z | 最后更新: 2026-04-12T12:34:02Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-12T12:32:10Z | 最后更新: 2026-04-12T12:32:15Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-12T12:27:55Z | 最后更新: 2026-04-12T12:28:03Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JCNA9029/cybersentinel_installer</title>
+      <link>https://github.com/JCNA9029/cybersentinel_installer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: installer test | 最后推送: 2026-04-12T09:59:06Z | 最后更新: 2026-04-12T09:59:10Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JCNA9029/cybersentinel_installer?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ParadexMonitor</title>
+      <link>https://github.com/chen0430tw/ParadexMonitor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-12T09:41:05Z | 最后更新: 2026-04-12T09:40:25Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ParadexMonitor?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-12T07:25:04Z | 最后更新: 2026-04-12T07:25:07Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: athenasec16/CVE-2026-29923</title>
+      <link>https://github.com/athenasec16/CVE-2026-29923</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A newly discovered vulnerable driver, pstrip64.sys (CVE-2026-29923) allows an unprivileged user to escalate privileges to SYSTEM via a crafted IOCTL request  | 最后推送: 2026-04-11T13:56:20Z | 最后更新: 2026-04-12T08:10:31Z</description>
+      <pubDate>2026-04-12T13:18:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/athenasec16/CVE-2026-29923?updated=1&amp;ts=1775999900</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
       <link>https://github.com/b1ank1108/awesome-stars</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-04-12T05:16:58Z | 最后更新: 2026-04-12T05:17:02Z</description>
@@ -41781,6 +41865,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:18:20 GMT</lastBuildDate>
   </channel>
 </rss>
