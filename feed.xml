@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: sai2fast/Vulnerable-Monitors</title>
+      <link>https://github.com/sai2fast/Vulnerable-Monitors</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD: SIVX64, ASTRA64, ArgusMonitor - hardware monitor drivers with kernel physical memory access | 最后推送: 2026-04-13T06:17:40Z | 最后更新: 2026-04-13T06:17:45Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sai2fast/Vulnerable-Monitors?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sai2fast/kdhacker64</title>
+      <link>https://github.com/sai2fast/kdhacker64</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD: kdhacker64_ev.sys (Kingsoft) - EV-signed, kernel heap overflow, no auth required | 最后推送: 2026-04-13T06:17:36Z | 最后更新: 2026-04-13T06:17:41Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sai2fast/kdhacker64?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sai2fast/DsArk64</title>
+      <link>https://github.com/sai2fast/DsArk64</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD: DsArk64.sys (Qihoo 360) - WHQL-signed, process kill from ring 0 + kernel R/W | 最后推送: 2026-04-13T06:17:32Z | 最后更新: 2026-04-13T06:17:36Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sai2fast/DsArk64?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sai2fast/driverscloud-rw</title>
+      <link>https://github.com/sai2fast/driverscloud-rw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD: DriversCloud_amd64.sys - arbitrary physical memory read + kernel write via LSTAR hijack | 最后推送: 2026-04-13T06:17:28Z | 最后更新: 2026-04-13T06:17:35Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sai2fast/driverscloud-rw?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Threat Hunting based on KQL | 最后推送: 2026-04-13T05:50:44Z | 最后更新: 2026-04-13T05:50:49Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-04-13T04:22:48Z | 最后更新: 2026-04-13T04:22:57Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-13T07:41:14Z | 最后更新: 2026-04-13T07:41:17Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-13T07:39:33Z | 最后更新: 2026-04-13T07:39:41Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-13T07:35:42Z | 最后更新: 2026-04-13T07:35:45Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-13T06:52:39Z | 最后更新: 2026-04-13T06:52:46Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-04-13T06:48:38Z | 最后更新: 2026-04-13T06:48:42Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-04-13T06:36:00Z | 最后更新: 2026-04-13T06:36:04Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-04-13T06:08:22Z | 最后更新: 2026-04-13T06:08:26Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-13T06:04:07Z | 最后更新: 2026-04-13T06:04:14Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-13T03:41:29Z | 最后更新: 2026-04-13T03:41:32Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 416rehman/DeepZero</title>
+      <link>https://github.com/416rehman/DeepZero</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents. | 最后推送: 2026-04-12T16:53:28Z | 最后更新: 2026-04-13T06:29:39Z</description>
+      <pubDate>2026-04-13T08:16:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/DeepZero?updated=1&amp;ts=1776068203</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: hsamnguyen/lastest-update-bounty</title>
       <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-13T03:24:29Z | 最后更新: 2026-04-13T03:24:34Z</description>
@@ -42096,6 +42208,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 03:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:16:44 GMT</lastBuildDate>
   </channel>
 </rss>
