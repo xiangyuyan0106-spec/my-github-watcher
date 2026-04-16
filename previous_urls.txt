@@ -1,12 +1,14 @@
-https://github.com/cseelhoff/detection-tools
+https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/Ekitji/siem
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/416rehman/DeepZero
+https://github.com/Ekitji/siem
+https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
 https://github.com/MaikCyberSec/Threat-Hunting-
+https://github.com/cseelhoff/detection-tools
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/416rehman/DeepZero
 https://github.com/sugarypumpkin822/Fortnite-Spoofer
 https://github.com/GhostTroops/TOP
 https://github.com/DarkFunct/TK-CVE-Repo
@@ -14,8 +16,6 @@ https://github.com/zulloper/cve-poc
 https://github.com/srackalica/GEDR
 https://github.com/buter-chkalova/RvbbitSafe
 https://github.com/holmanholdings/lionguard
-https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
-https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/FzRsLLaSheR/EBKiller
 https://github.com/jharrisHalcyon/Halcyon_API
 https://github.com/nyascla/All-Things-Cybersecurity
