@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: peppel65/threatHunting</title>
+      <link>https://github.com/peppel65/threatHunting</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A collection of Splunk SPL queries and reference material for Windows, Linux, and Active Directory threat hunting, mapped to the MITRE ATT&amp;CK framework. | 最后推送: 2026-04-20T08:09:43Z | 最后更新: 2026-04-20T08:09:47Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/peppel65/threatHunting?new=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-04-20T04:22:31Z | 最后更新: 2026-04-20T04:22:39Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting based on KQL | 最后推送: 2026-04-20T08:06:45Z | 最后更新: 2026-04-20T08:06:49Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-04-20T07:39:51Z | 最后更新: 2026-04-20T07:39:55Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-20T07:09:59Z | 最后更新: 2026-04-20T07:10:04Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-20T06:56:22Z | 最后更新: 2026-04-20T06:56:27Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-20T06:28:39Z | 最后更新: 2026-04-20T06:28:43Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-20T06:27:13Z | 最后更新: 2026-04-20T06:27:17Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-20T06:25:31Z | 最后更新: 2026-04-20T06:25:34Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-20T06:21:31Z | 最后更新: 2026-04-20T06:21:35Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Arqenor/arqenor</title>
+      <link>https://github.com/Arqenor/arqenor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Open-source cross-platform host &amp; network security analyzer (Rust + Go) | 最后推送: 2026-04-20T05:41:44Z | 最后更新: 2026-04-20T05:40:56Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Arqenor/arqenor?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-20T03:41:20Z | 最后更新: 2026-04-20T03:41:24Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-19T18:04:15Z | 最后更新: 2026-04-20T06:00:41Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-04-17T11:12:41Z | 最后更新: 2026-04-20T06:04:25Z</description>
+      <pubDate>2026-04-20T08:22:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1776673340</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Arqenor/arqenor</title>
       <link>https://github.com/Arqenor/arqenor</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Open-source cross-platform host &amp; network security analyzer (Rust + Go) | 最后推送: 2026-04-20T03:11:32Z | 最后更新: 2026-04-20T01:28:06Z</description>
@@ -44392,6 +44490,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 03:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:22:20 GMT</lastBuildDate>
   </channel>
 </rss>
