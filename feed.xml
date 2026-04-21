@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-21T07:29:55Z | 最后更新: 2026-04-21T07:29:59Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-21T07:28:11Z | 最后更新: 2026-04-21T07:28:15Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-21T07:24:04Z | 最后更新: 2026-04-21T07:24:07Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-21T06:53:28Z | 最后更新: 2026-04-21T06:53:34Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: cseelhoff/detection-tools</title>
+      <link>https://github.com/cseelhoff/detection-tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-21T05:58:16Z | 最后更新: 2026-04-21T05:58:19Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/cseelhoff/detection-tools?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-21T05:58:04Z | 最后更新: 2026-04-21T06:53:12Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Offensive SIEM | 最后推送: 2026-04-21T05:54:48Z | 最后更新: 2026-04-21T05:54:52Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting based on KQL | 最后推送: 2026-04-21T05:54:46Z | 最后更新: 2026-04-21T05:54:50Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-21T03:34:02Z | 最后更新: 2026-04-21T03:34:05Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wesmar/kvc</title>
+      <link>https://github.com/wesmar/kvc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-04-20T21:32:14Z | 最后更新: 2026-04-21T05:00:19Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvc?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: S8nm/hwid-spoofer</title>
+      <link>https://github.com/S8nm/hwid-spoofer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows HWID Spoofer - Kernel-level hardware fingerprint randomization | 最后推送: 2026-04-19T21:49:30Z | 最后更新: 2026-04-21T07:19:12Z</description>
+      <pubDate>2026-04-21T08:04:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/S8nm/hwid-spoofer?updated=1&amp;ts=1776758670</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: pwnfuzz/byovd-watchdog</title>
       <link>https://github.com/pwnfuzz/byovd-watchdog</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios. | 最后推送: 2026-04-21T02:51:55Z | 最后更新: 2026-04-21T02:51:59Z</description>
@@ -44721,6 +44798,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:04:30 GMT</lastBuildDate>
   </channel>
 </rss>
