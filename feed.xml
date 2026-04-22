@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-04-22T02:07:35Z | 最后更新: 2026-04-22T02:07:39Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-04-22T01:43:24Z | 最后更新: 2026-04-22T01:43:28Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-22T00:52:03Z | 最后更新: 2026-04-22T01:34:17Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-22T00:25:35Z | 最后更新: 2026-04-22T00:25:40Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-22T00:20:34Z | 最后更新: 2026-04-22T00:20:38Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-04-22T00:17:08Z | 最后更新: 2026-04-22T00:17:12Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-22T00:09:24Z | 最后更新: 2026-04-22T00:09:27Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-04-21T20:46:17Z | 最后更新: 2026-04-21T20:46:21Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-21T19:45:30Z | 最后更新: 2026-04-21T19:45:35Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-21T19:22:55Z | 最后更新: 2026-04-21T19:22:59Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wesmar/kvcKiller</title>
+      <link>https://github.com/wesmar/kvcKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Advanced AV/EDR Killer: Specialized Antivirus &amp; Windows Defender killer for security professionals. Utilizes kernel-level IOCTLs for process termination and IFEO registry techniques to prevent service recovery. Offers deterministic x64 builds, SCM-based restoration, and a modern Win32 UI. Built for researching process protection and EDR bypasses | 最后推送: 2026-04-20T13:12:37Z | 最后更新: 2026-04-22T01:44:12Z</description>
+      <pubDate>2026-04-22T03:31:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvcKiller?updated=1&amp;ts=1776828706</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
       <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-21T19:03:37Z | 最后更新: 2026-04-21T19:03:41Z</description>
@@ -44938,6 +45015,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:31:46 GMT</lastBuildDate>
   </channel>
 </rss>
