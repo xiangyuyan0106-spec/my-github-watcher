@@ -1,12 +1,13 @@
-https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
-https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/holmanholdings/lionguard
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/AndrewAltimit/exploits
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
+https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
+https://github.com/tanjiti/sec_profile
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/HotCakeX/Harden-Windows-Security
+https://github.com/holmanholdings/lionguard
+https://github.com/AndrewAltimit/exploits
 https://github.com/gmh5225/awesome-game-security
 https://github.com/MaikCyberSec/Threat-Hunting-
 https://github.com/GhostTroops/TOP
@@ -27,4 +28,3 @@ https://github.com/Shad0cks/PoisonX-killer
 https://github.com/ACD421/The_Mimic
 https://github.com/Nimesh-Nakum/windows-kernel-internals-lab
 https://github.com/b1ank1108/awesome-stars
-https://github.com/JohnRyk/Ada-PoisonKiller-BOF
