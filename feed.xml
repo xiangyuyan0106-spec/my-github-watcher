@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-23T06:55:17Z | 最后更新: 2026-04-23T07:17:02Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776931606</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting based on KQL | 最后推送: 2026-04-23T06:50:40Z | 最后更新: 2026-04-23T06:50:44Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?updated=1&amp;ts=1776931606</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-23T06:28:39Z | 最后更新: 2026-04-23T06:28:43Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-23T06:27:02Z | 最后更新: 2026-04-23T06:27:06Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-23T06:23:20Z | 最后更新: 2026-04-23T06:23:24Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-23T06:23:00Z | 最后更新: 2026-04-23T06:23:03Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Nimesh-Nakum/windows-kernel-internals-lab</title>
+      <link>https://github.com/Nimesh-Nakum/windows-kernel-internals-lab</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Hands-on lab to understand Windows kernel internals (drivers, IOCTL, callbacks, minifilters) through safe, observable simulations. | 最后推送: 2026-04-23T04:36:45Z | 最后更新: 2026-04-23T04:36:49Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Nimesh-Nakum/windows-kernel-internals-lab?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-23T03:35:43Z | 最后更新: 2026-04-23T03:35:47Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-22T07:33:30Z | 最后更新: 2026-04-23T04:05:49Z</description>
+      <pubDate>2026-04-23T08:06:46Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1776931607</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Muz1K1zuM/kslkatz_bof</title>
       <link>https://github.com/Muz1K1zuM/kslkatz_bof</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Havoc C2 BOF port of the KslD.sys BYOVD technique. Credential extraction from lsass via physical memory — no OpenProcess, no auditable API calls. | 最后推送: 2026-04-22T21:07:18Z | 最后更新: 2026-04-22T21:07:23Z</description>
@@ -45323,6 +45386,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:06:47 GMT</lastBuildDate>
   </channel>
 </rss>
