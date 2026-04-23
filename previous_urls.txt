@@ -1,8 +1,10 @@
+https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
-https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
+https://github.com/nyascla/All-Things-Cybersecurity
+https://github.com/truckli/infosec-abbrv
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/MaikCyberSec/Threat-Hunting-
 https://github.com/HotCakeX/Harden-Windows-Security
@@ -26,5 +28,3 @@ https://github.com/Arqenor/arqenor
 https://github.com/didntchooseaname/loldrivers-database
 https://github.com/sugarypumpkin822/Fortnite-Spoofer
 https://github.com/ACD421/The_Mimic
-https://github.com/b1ank1108/awesome-stars
-https://github.com/JohnRyk/Ada-PoisonKiller-BOF
