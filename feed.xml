@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: holmanholdings/lionguard</title>
+      <link>https://github.com/holmanholdings/lionguard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cathedral-Grade Security for AI Agents. Attack vectors updated daily. Local-first, zero API cost. MIT licensed. | 最后推送: 2026-04-25T18:23:13Z | 最后更新: 2026-04-25T18:23:18Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/holmanholdings/lionguard?new=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-25T19:04:27Z | 最后更新: 2026-04-25T19:04:32Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-25T19:01:40Z | 最后更新: 2026-04-25T19:01:43Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-25T18:52:06Z | 最后更新: 2026-04-25T18:52:13Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oioio-space/maldev</title>
+      <link>https://github.com/oioio-space/maldev</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Go offensive-security research library — 15+ injection methods, AMSI/ETW/ntdll-unhook evasion, sleep mask (Ekko × XOR/RC4/AES), call-stack spoof, BYOVD (RTCore64) + kernel callback removal, LSASS dump + pure-Go MSV1_0 parser w/ PPL bypass, recon (sandbox/VM/debugger/dllhijack), PE ops (sRDI/BOF/CLR), Meterpreter C2, UAC bypass, CVE-2024-30088 LPE. | 最后推送: 2026-04-25T18:48:35Z | 最后更新: 2026-04-25T18:48:38Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oioio-space/maldev?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-04-25T18:34:01Z | 最后更新: 2026-04-25T18:34:06Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-25T18:15:40Z | 最后更新: 2026-04-25T18:15:43Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-25T18:13:33Z | 最后更新: 2026-04-25T18:13:36Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-04-25T18:10:58Z | 最后更新: 2026-04-25T18:11:01Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-25T18:08:22Z | 最后更新: 2026-04-25T18:08:27Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lillybaba1/WiZZA</title>
+      <link>https://github.com/lillybaba1/WiZZA</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-25T13:42:41Z | 最后更新: 2026-04-25T13:42:45Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lillybaba1/WiZZA?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-25T13:22:29Z | 最后更新: 2026-04-25T13:22:34Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-04-24T15:13:12Z | 最后更新: 2026-04-25T18:22:51Z</description>
+      <pubDate>2026-04-25T19:05:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1777143950</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: lillybaba1/WiZZA</title>
       <link>https://github.com/lillybaba1/WiZZA</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-25T10:25:33Z | 最后更新: 2026-04-25T10:25:37Z</description>
@@ -46135,6 +46226,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 13:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 19:05:50 GMT</lastBuildDate>
   </channel>
 </rss>
