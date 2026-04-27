@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: devianntsec/CVE-2024-51324</title>
+      <link>https://github.com/devianntsec/CVE-2024-51324</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Master's Thesis research on CVE-2024-51324 (BYOVD). Advanced exploit with 4 operational modes (SCANNER, LOADER, KILLER, CLEANUP), SHA-256 driver verification, and full academic documentation. Portfolio piece covers Windows kernel driver security, IOCTL reverse engineering, and Bring Your Own Vulnerable Driver exploitation. | 最后推送: 2026-04-27T17:21:38Z | 最后更新: 2026-04-27T17:36:32Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/devianntsec/CVE-2024-51324?new=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-04-27T18:55:43Z | 最后更新: 2026-04-27T18:55:46Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0xDbgMan/DrvEye</title>
+      <link>https://github.com/0xDbgMan/DrvEye</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述:   Static analysis &amp; exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic Links, and check cert ,  | 最后推送: 2026-04-27T16:24:02Z | 最后更新: 2026-04-27T19:36:16Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xDbgMan/DrvEye?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-04-27T19:02:20Z | 最后更新: 2026-04-27T19:02:24Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Securityblanketramification663/kslkatz_bof</title>
+      <link>https://github.com/Securityblanketramification663/kslkatz_bof</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Extract lsass memory in Havoc C2 with a KslD.sys BYOVD BOF for in-process credential access and no new process spawned | 最后推送: 2026-04-27T16:10:21Z | 最后更新: 2026-04-27T16:11:04Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Securityblanketramification663/kslkatz_bof?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-04-27T18:46:08Z | 最后更新: 2026-04-27T18:46:12Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-27T14:43:03Z | 最后更新: 2026-04-27T14:43:08Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-27T14:37:05Z | 最后更新: 2026-04-27T14:37:09Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oioio-space/maldev</title>
+      <link>https://github.com/oioio-space/maldev</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Go offensive-security research library — 15+ injection methods, AMSI/ETW/ntdll-unhook evasion, sleep mask (Ekko × XOR/RC4/AES), call-stack spoof, BYOVD (RTCore64) + kernel callback removal, LSASS dump + pure-Go MSV1_0 parser w/ PPL bypass, recon (sandbox/VM/debugger/dllhijack), PE ops (sRDI/BOF/CLR), Meterpreter C2, UAC bypass, CVE-2024-30088 LPE. | 最后推送: 2026-04-27T19:42:17Z | 最后更新: 2026-04-27T19:42:20Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oioio-space/maldev?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-27T14:22:54Z | 最后更新: 2026-04-27T14:24:41Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-27T14:19:08Z | 最后更新: 2026-04-27T14:21:41Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-27T14:01:40Z | 最后更新: 2026-04-27T16:22:48Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nyascla/All-Things-Cybersecurity</title>
+      <link>https://github.com/nyascla/All-Things-Cybersecurity</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoCs didácticas creadas por mí para explicar TTPs de malware | 最后推送: 2026-04-27T19:22:49Z | 最后更新: 2026-04-27T19:22:53Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nyascla/All-Things-Cybersecurity?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-27T18:45:47Z | 最后更新: 2026-04-27T18:45:51Z</description>
+      <pubDate>2026-04-27T19:43:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1777318989</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: 0xDbgMan/DrvEye</title>
       <link>https://github.com/0xDbgMan/DrvEye</link>
       <description>新发现的BYOVD/EDR对抗项目。描述:   Static analysis &amp; exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic Links, and check cert ,  | 最后推送: 2026-04-27T11:22:13Z | 最后更新: 2026-04-27T14:14:30Z</description>
@@ -46884,6 +46982,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:43:09 GMT</lastBuildDate>
   </channel>
 </rss>
