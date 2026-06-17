@@ -1,10 +1,12 @@
 https://github.com/FzRsLLaSheR/TheWatcher
-https://github.com/gmh5225/awesome-game-security
-https://github.com/drockfree0-collab/obsidian-ghost-protocol
-https://github.com/ButchBytes-sec/ButchBytes-sec
+https://github.com/redteamfortress/CVE-2026-36425
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/skull74/anti-ransomware-framework
+https://github.com/gmh5225/awesome-game-security
+https://github.com/AptAmoeba/KQL-Threat-Hunting
+https://github.com/drockfree0-collab/obsidian-ghost-protocol
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/ButchBytes-sec/ButchBytes-sec
+https://github.com/skull74/anti-ransomware-framework
 https://github.com/pwnfuzz/byovd-watchdog
 https://github.com/GhostTroops/TOP
 https://github.com/jeffaf/cthaeh
@@ -26,5 +28,3 @@ https://github.com/samftggr/VEN0m-Ransomware
 https://github.com/wutang700/STProcessMonitorBYOVD
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/MaikCyberSec/Threat-Hunting-
-https://github.com/AptAmoeba/KQL-Threat-Hunting
-https://github.com/antthegreekgod/KernelDev
