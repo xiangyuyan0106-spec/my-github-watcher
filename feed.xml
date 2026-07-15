@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: alexwest2006/alibi-windows-cheat-detect</title>
+      <link>https://github.com/alexwest2006/alibi-windows-cheat-detect</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and cheat detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-07-15T19:14:51Z | 最后更新: 2026-07-15T19:14:54Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/alexwest2006/alibi-windows-cheat-detect?new=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: run599/zeta</title>
+      <link>https://github.com/run599/zeta</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 通过 Pending IRP 实现 HIPS 与 EDR 日志不中断”的完整范式 | 最后推送: 2026-07-15T16:15:31Z | 最后更新: 2026-07-15T16:17:38Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/run599/zeta?new=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-15T19:22:58Z | 最后更新: 2026-07-15T19:23:02Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-15T19:19:50Z | 最后更新: 2026-07-15T19:19:54Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-15T19:13:41Z | 最后更新: 2026-07-15T19:13:47Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-15T19:10:48Z | 最后更新: 2026-07-15T19:11:08Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-15T18:48:02Z | 最后更新: 2026-07-15T18:48:06Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: heruixii/cs2-remote-loader</title>
+      <link>https://github.com/heruixii/cs2-remote-loader</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: cs2远程下载系统 | 最后推送: 2026-07-15T18:14:10Z | 最后更新: 2026-07-15T18:14:26Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/heruixii/cs2-remote-loader?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: thousaba/Sentryfy</title>
+      <link>https://github.com/thousaba/Sentryfy</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: An open-source SIEM monitoring project that aggregates alerts from multiple security platforms into a single dashboard and delivers instant notifications via Telegram. | 最后推送: 2026-07-15T17:04:00Z | 最后更新: 2026-07-15T17:04:26Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thousaba/Sentryfy?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-07-15T15:46:07Z | 最后更新: 2026-07-15T16:06:04Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-07-15T14:35:14Z | 最后更新: 2026-07-15T14:37:49Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-07-15T14:33:29Z | 最后更新: 2026-07-15T14:35:28Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-15T13:59:16Z | 最后更新: 2026-07-15T14:00:04Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Haider303/trinity-2.0-lpe</title>
+      <link>https://github.com/Haider303/trinity-2.0-lpe</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Local privilege escalation exploit chaining three vulnerable signed drivers: TEACCESS.sys (MSR read for KASLR bypass and VA→PA translation), ADV64DRV.sys (physical memory read), and PhyMem.sys (physical memory write).Tested on Windows 10 x64. Pure BYOVD – no admin required for the primitives. | 最后推送: 2026-07-14T19:26:08Z | 最后更新: 2026-07-15T17:57:07Z</description>
+      <pubDate>2026-07-15T19:23:12Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Haider303/trinity-2.0-lpe?updated=1&amp;ts=1784143392</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: lowkeyskid/DriverMapper-CTF-TryHackMe</title>
       <link>https://github.com/lowkeyskid/DriverMapper-CTF-TryHackMe</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-15T09:05:35Z | 最后更新: 2026-07-15T09:05:43Z</description>
@@ -80043,6 +80141,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 19:23:12 GMT</lastBuildDate>
   </channel>
 </rss>
