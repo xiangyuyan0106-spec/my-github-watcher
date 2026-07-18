@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: CrimsonGlory/wairz</title>
+      <link>https://github.com/CrimsonGlory/wairz</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A free (as in freedom) AI assisted firmware analysis tool | 最后推送: 2026-07-17T23:07:27Z | 最后更新: 2026-07-17T23:07:31Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrimsonGlory/wairz?new=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-07-17T20:22:18Z | 最后更新: 2026-07-17T20:22:36Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-18T03:04:57Z | 最后更新: 2026-07-18T03:05:01Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-18T02:54:07Z | 最后更新: 2026-07-18T02:54:10Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: loganhub1996/alibi-forensic-scan-hub</title>
+      <link>https://github.com/loganhub1996/alibi-forensic-scan-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current for 2026. | 最后推送: 2026-07-18T02:40:56Z | 最后更新: 2026-07-18T02:40:59Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/loganhub1996/alibi-forensic-scan-hub?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-18T02:36:42Z | 最后更新: 2026-07-18T02:36:46Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-07-18T02:01:37Z | 最后更新: 2026-07-18T02:01:42Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-07-18T01:51:49Z | 最后更新: 2026-07-18T01:51:53Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-07-18T01:50:24Z | 最后更新: 2026-07-18T01:50:28Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-07-18T01:32:40Z | 最后更新: 2026-07-18T01:32:45Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-18T00:50:04Z | 最后更新: 2026-07-18T00:50:08Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-07-18T00:21:04Z | 最后更新: 2026-07-18T00:21:08Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-18T00:10:17Z | 最后更新: 2026-07-18T00:10:21Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-17T19:20:53Z | 最后更新: 2026-07-17T19:21:13Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-07-17T17:57:30Z | 最后更新: 2026-07-18T03:04:03Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: badchars/living-off-the-land-lolbins-mcp-server</title>
+      <link>https://github.com/badchars/living-off-the-land-lolbins-mcp-server</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Living off the Land LOLBins MCP Server — 59 composite tools for LOL binary intelligence across 10 catalogs (GTFOBins, LOLBAS, LOOBins, LOLDrivers, LOLRMM, LOLESXi, LOTP, LOLC2, LOFLCAB, WADComs) | 最后推送: 2026-07-17T14:50:22Z | 最后更新: 2026-07-17T22:29:21Z</description>
+      <pubDate>2026-07-18T03:15:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/badchars/living-off-the-land-lolbins-mcp-server?updated=1&amp;ts=1784344518</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: shizukutanaka/AeroDriver</title>
       <link>https://github.com/shizukutanaka/AeroDriver</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-17T17:21:48Z | 最后更新: 2026-07-17T17:22:26Z</description>
@@ -81107,6 +81219,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:15:19 GMT</lastBuildDate>
   </channel>
 </rss>
