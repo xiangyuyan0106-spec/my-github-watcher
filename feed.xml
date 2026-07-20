@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: w00tzenheimer/feed</title>
+      <link>https://github.com/w00tzenheimer/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: An auto updating feed based on the folks I follow in case I miss something. | 最后推送: 2026-07-20T08:10:31Z | 最后更新: 2026-07-20T08:11:20Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/w00tzenheimer/feed?new=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-07-20T07:57:30Z | 最后更新: 2026-07-20T07:57:54Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Whispergate/BinjaKernelTools</title>
+      <link>https://github.com/Whispergate/BinjaKernelTools</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A collection of plugins for Binary Ninja to assist with Kernel Vulnerability Exploitation | 最后推送: 2026-07-20T04:55:25Z | 最后更新: 2026-07-20T04:55:34Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Whispergate/BinjaKernelTools?new=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: heruixii/cs2-remote-loader</title>
+      <link>https://github.com/heruixii/cs2-remote-loader</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: cs2远程下载系统 | 最后推送: 2026-07-20T09:27:53Z | 最后更新: 2026-07-20T09:28:30Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/heruixii/cs2-remote-loader?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-20T09:25:22Z | 最后更新: 2026-07-20T09:25:54Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-20T09:16:36Z | 最后更新: 2026-07-20T09:18:01Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Salah-Code-Lab/RegFilter</title>
+      <link>https://github.com/Salah-Code-Lab/RegFilter</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Registry Filter | 最后推送: 2026-07-20T08:50:03Z | 最后更新: 2026-07-20T08:50:21Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Salah-Code-Lab/RegFilter?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-20T07:54:30Z | 最后更新: 2026-07-20T07:54:43Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-20T07:47:57Z | 最后更新: 2026-07-20T07:48:01Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-20T07:03:23Z | 最后更新: 2026-07-20T07:50:06Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-20T06:50:21Z | 最后更新: 2026-07-20T09:16:24Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kwpwn/mtgt</title>
+      <link>https://github.com/kwpwn/mtgt</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-20T06:35:16Z | 最后更新: 2026-07-20T06:35:30Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kwpwn/mtgt?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-07-20T06:27:59Z | 最后更新: 2026-07-20T06:28:17Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-20T03:54:59Z | 最后更新: 2026-07-20T03:55:14Z</description>
+      <pubDate>2026-07-20T09:28:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784539735</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: kwpwn/mtgt</title>
       <link>https://github.com/kwpwn/mtgt</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-20T01:45:38Z | 最后更新: 2026-07-20T01:45:42Z</description>
@@ -82031,6 +82129,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 03:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:28:55 GMT</lastBuildDate>
   </channel>
 </rss>
