@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: thousaba/Sentryfy</title>
+      <link>https://github.com/thousaba/Sentryfy</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: An open-source SIEM monitoring project that aggregates alerts from multiple security platforms into a single dashboard and delivers instant notifications via Telegram. | 最后推送: 2026-07-21T18:56:48Z | 最后更新: 2026-07-21T18:59:08Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thousaba/Sentryfy?new=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-21T19:25:15Z | 最后更新: 2026-07-21T19:26:03Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-21T18:59:43Z | 最后更新: 2026-07-21T19:02:23Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-21T18:50:49Z | 最后更新: 2026-07-21T18:51:01Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-21T18:28:30Z | 最后更新: 2026-07-21T18:29:53Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-07-21T17:53:32Z | 最后更新: 2026-07-21T17:54:32Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: heruixii/cs2-remote-loader</title>
+      <link>https://github.com/heruixii/cs2-remote-loader</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: cs2远程下载系统 | 最后推送: 2026-07-21T16:24:11Z | 最后更新: 2026-07-21T16:24:16Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/heruixii/cs2-remote-loader?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Cazo-Net/ExploitMind</title>
+      <link>https://github.com/Cazo-Net/ExploitMind</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-21T16:20:29Z | 最后更新: 2026-07-21T16:22:35Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Cazo-Net/ExploitMind?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-07-21T15:43:47Z | 最后更新: 2026-07-21T15:41:06Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: morteerror404/BibliaDoPentestBR</title>
+      <link>https://github.com/morteerror404/BibliaDoPentestBR</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-21T15:39:56Z | 最后更新: 2026-07-21T15:43:52Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/morteerror404/BibliaDoPentestBR?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-07-21T14:23:44Z | 最后更新: 2026-07-21T14:27:01Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-21T14:10:06Z | 最后更新: 2026-07-21T14:14:35Z</description>
+      <pubDate>2026-07-21T19:42:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784662943</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Cazo-Net/ExploitMind</title>
       <link>https://github.com/Cazo-Net/ExploitMind</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-21T13:49:21Z | 最后更新: 2026-07-21T13:53:13Z</description>
@@ -82626,6 +82710,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:42:23 GMT</lastBuildDate>
   </channel>
 </rss>
