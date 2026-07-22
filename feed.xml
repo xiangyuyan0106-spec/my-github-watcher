@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: nyascla/All-Things-Cybersecurity</title>
+      <link>https://github.com/nyascla/All-Things-Cybersecurity</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: PoCs didácticas creadas por mí para explicar TTPs de malware | 最后推送: 2026-07-22T19:27:26Z | 最后更新: 2026-07-22T19:29:23Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nyascla/All-Things-Cybersecurity?new=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: TechGuyKy/ArgusMonitor-BYOVD</title>
+      <link>https://github.com/TechGuyKy/ArgusMonitor-BYOVD</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: ArgusMonitor.sys is the kernel-mode driver for Argus Monitor, Argotronic UG's hardware temperature and fan-control app out of Germany. WHQL-attested, active Microsoft cert, loads on any x64 Windows without the userland present. | 最后推送: 2026-07-22T18:04:30Z | 最后更新: 2026-07-22T18:05:52Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TechGuyKy/ArgusMonitor-BYOVD?new=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mein-0/forti-research</title>
+      <link>https://github.com/mein-0/forti-research</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-22T15:42:35Z | 最后更新: 2026-07-22T15:48:08Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mein-0/forti-research?new=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-22T19:36:07Z | 最后更新: 2026-07-22T19:36:29Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-07-22T19:25:20Z | 最后更新: 2026-07-22T19:26:02Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-22T19:22:32Z | 最后更新: 2026-07-22T19:23:02Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-22T18:51:34Z | 最后更新: 2026-07-22T19:05:45Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-22T18:51:22Z | 最后更新: 2026-07-22T18:51:39Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Cazo-Net/ExploitMind</title>
+      <link>https://github.com/Cazo-Net/ExploitMind</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-22T18:07:14Z | 最后更新: 2026-07-22T18:10:30Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Cazo-Net/ExploitMind?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-07-22T14:46:33Z | 最后更新: 2026-07-22T17:15:59Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-07-22T14:38:10Z | 最后更新: 2026-07-22T18:45:12Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jayaprasath05/Malware-Analysis-Using-LitterBox</title>
+      <link>https://github.com/jayaprasath05/Malware-Analysis-Using-LitterBox</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Developed a malware analysis web application using Python, Flask, Docker, and YARA. Implemented secure file uploads, automated malware scanning, detection scoring, and detailed report generation while creating a responsive and user-friendly interface for cybersecurity analysis. | 最后推送: 2026-07-22T14:35:03Z | 最后更新: 2026-07-22T14:39:14Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jayaprasath05/Malware-Analysis-Using-LitterBox?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-22T14:13:19Z | 最后更新: 2026-07-22T14:16:05Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-22T19:17:48Z | 最后更新: 2026-07-22T14:15:11Z</description>
+      <pubDate>2026-07-22T19:37:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1784749022</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</title>
       <link>https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-22T12:53:26Z | 最后更新: 2026-07-22T12:58:24Z</description>
@@ -82976,6 +83074,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:37:02 GMT</lastBuildDate>
   </channel>
 </rss>
