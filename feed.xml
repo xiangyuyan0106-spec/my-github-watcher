@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: M5246/EXONERVE</title>
+      <link>https://github.com/M5246/EXONERVE</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Out-of-band, self-healing SOC &amp; blue-team platform: sentry agent streams AES-GCM telemetry to a control plane that scores threats, matches Sigma rules, maps to MITRE ATT&amp;CK, contains at the network layer, and fails over to a warm standby. Deterministic no-ML decision engine. Python. | 最后推送: 2026-07-23T05:30:02Z | 最后更新: 2026-07-23T05:30:14Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/M5246/EXONERVE?new=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-23T08:38:31Z | 最后更新: 2026-07-23T08:38:34Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-07-23T08:27:44Z | 最后更新: 2026-07-23T08:36:19Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-23T07:09:40Z | 最后更新: 2026-07-23T07:10:45Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-23T06:50:13Z | 最后更新: 2026-07-23T06:50:42Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-23T06:28:18Z | 最后更新: 2026-07-23T06:29:10Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-07-23T06:12:01Z | 最后更新: 2026-07-23T06:12:31Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-07-23T05:16:16Z | 最后更新: 2026-07-23T05:16:29Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-23T03:33:45Z | 最后更新: 2026-07-23T03:33:51Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</title>
+      <link>https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-22T12:53:26Z | 最后更新: 2026-07-23T04:41:25Z</description>
+      <pubDate>2026-07-23T08:40:47Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD?updated=1&amp;ts=1784796047</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: truckli/infosec-abbrv</title>
       <link>https://github.com/truckli/infosec-abbrv</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 网络安全缩略语词表速查手册 | 最后推送: 2026-07-23T03:24:12Z | 最后更新: 2026-07-23T03:24:20Z</description>
@@ -83186,6 +83256,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:40:47 GMT</lastBuildDate>
   </channel>
 </rss>
