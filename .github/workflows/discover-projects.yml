@@ -31,7 +31,7 @@ jobs:
 
       - name: Fetch GitHub projects
         run: |
-          QUERY="%22BYOVD%22%20AND%20(kill%20OR%20antiav%20OR%20antiedr)%20in:name,description,readme"
+          QUERY="killer%20in%3Aname%20BYOVD%20in%3Aname%2Cdescription%2Creadme"
           API_URL="https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc&per_page=30"
           echo "调用API: $API_URL"
           
