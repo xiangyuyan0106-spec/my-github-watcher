@@ -1,8 +1,9 @@
-https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/FzRsLLaSheR/TheWatcher
+https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer
 https://github.com/gmh5225/awesome-game-security
-https://github.com/b1ank1108/awesome-stars
+https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/b1ank1108/awesome-stars
 https://github.com/kernullist/kn-live-dbg
 https://github.com/killvxk/gitweekly
 https://github.com/MaikCyberSec/Threat-Hunting-
@@ -27,4 +28,3 @@ https://github.com/zzqsec/ai-redteam-notes
 https://github.com/jamal-soc21/Weekly-Breach-Investigation--012-
 https://github.com/antthegreekgod/KernelDev
 https://github.com/ALIF101XL/Awesome-Red-Teaming-Toolkit
-https://github.com/Offensive-Panda/DefenseEvasionTechniques
