@@ -4,6 +4,48 @@
     <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-30T08:41:12Z | 最后更新: 2026-07-30T08:40:39Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-30T08:28:33Z | 最后更新: 2026-07-30T08:29:29Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-07-30T06:38:03Z | 最后更新: 2026-07-30T06:38:09Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-30T02:56:11Z | 最后更新: 2026-07-30T02:56:15Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-07-29T05:16:37Z | 最后更新: 2026-07-30T05:38:51Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-07-28T20:08:47Z | 最后更新: 2026-07-30T08:18:49Z</description>
+      <pubDate>2026-07-30T08:41:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1785400877</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-30T02:53:09Z | 最后更新: 2026-07-30T02:53:13Z</description>
       <pubDate>2026-07-30T02:56:08Z</pubDate>
       <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785380168</guid>
@@ -84635,6 +84677,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 02:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:41:17 GMT</lastBuildDate>
   </channel>
 </rss>
