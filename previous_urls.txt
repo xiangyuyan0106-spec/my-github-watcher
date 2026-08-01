@@ -1,6 +1,7 @@
 https://github.com/FzRsLLaSheR/TheWatcher
-https://github.com/CroatiaSecurity/Sentinel
 https://github.com/gmh5225/awesome-game-security
+https://github.com/CroatiaSecurity/Sentinel
+https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer
 https://github.com/kernullist/kn-live-dbg
@@ -27,4 +28,3 @@ https://github.com/redteamfortress/DefenderKiller
 https://github.com/yairrodriguez1459-art/EDR-Killer-NVIDIA
 https://github.com/zzqsec/ai-redteam-notes
 https://github.com/jamal-soc21/Weekly-Breach-Investigation--012-
-https://github.com/antthegreekgod/KernelDev
