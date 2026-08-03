@@ -1,5 +1,7 @@
 https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/gmh5225/awesome-game-security
+https://github.com/MaikCyberSec/Threat-Hunting-
+https://github.com/sharath-c-ws/TheGentlemen
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/CroatiaSecurity/Sentinel
 https://github.com/The-Sword-of-Constantine/UsingBYOVD
@@ -9,7 +11,6 @@ https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer
 https://github.com/kernullist/kn-live-dbg
 https://github.com/didntchooseaname/loldrivers-database
-https://github.com/MaikCyberSec/Threat-Hunting-
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/mym0us3r/Unified-Sysmon-Configs
 https://github.com/christiand0797/downpour
@@ -27,4 +28,3 @@ https://github.com/sf0rzin/sys0xFF
 https://github.com/redteamfortress/DefenderKiller
 https://github.com/yairrodriguez1459-art/EDR-Killer-NVIDIA
 https://github.com/zzqsec/ai-redteam-notes
-https://github.com/jamal-soc21/Weekly-Breach-Investigation--012-
