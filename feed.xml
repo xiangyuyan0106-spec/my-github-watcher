@@ -4,6 +4,48 @@
     <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-06T02:40:20Z | 最后更新: 2026-08-06T02:40:27Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-08-06T01:45:03Z | 最后更新: 2026-08-06T01:45:07Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-06T01:36:25Z | 最后更新: 2026-08-06T01:36:37Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mym0us3r/WAZUH-Process-Tree-Viewer</title>
+      <link>https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A forensic visualization tool for Wazuh that transforms Windows process creation logs (Event ID 4688) into interactive, draggable relationship graphs. Optimized for Threat Hunting and Incident Response. | 最后推送: 2026-08-05T23:57:22Z | 最后更新: 2026-08-05T23:57:27Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: AJahmadcyber/homelab-mdr</title>
+      <link>https://github.com/AJahmadcyber/homelab-mdr</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfolio project mapped to MITRE ATT&amp;CK | 最后推送: 2026-08-05T20:56:03Z | 最后更新: 2026-08-05T20:56:09Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AJahmadcyber/homelab-mdr?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-05T19:45:59Z | 最后更新: 2026-08-05T19:47:00Z</description>
+      <pubDate>2026-08-06T03:23:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785986581</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-05T19:36:31Z | 最后更新: 2026-08-05T19:37:06Z</description>
       <pubDate>2026-08-05T19:45:55Z</pubDate>
       <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785959155</guid>
@@ -85629,6 +85671,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 03:23:01 GMT</lastBuildDate>
   </channel>
 </rss>
