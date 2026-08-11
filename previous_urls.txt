@@ -1,13 +1,14 @@
+https://github.com/gmh5225/awesome-game-security
 https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/kernullist/kn-live-dbg
-https://github.com/gmh5225/awesome-game-security
+https://github.com/redteamfortress/DefenderKiller
+https://github.com/christiand0797/downpour
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/CroatiaSecurity/Sentinel
 https://github.com/b1ank1108/awesome-stars
 https://github.com/The-Sword-of-Constantine/UsingBYOVD
 https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/killvxk/gitweekly
-https://github.com/christiand0797/downpour
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/Dragon-Lady/linux-supply-chain-guard
 https://github.com/sharath-c-ws/TheGentlemen
@@ -24,7 +25,6 @@ https://github.com/ZeroDayVPN/Awesome-EDR-Bypass-Collection
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/sf0rzin/CVE-2025-61155
 https://github.com/sf0rzin/sys0xFF
-https://github.com/redteamfortress/DefenderKiller
 https://github.com/yairrodriguez1459-art/EDR-Killer-NVIDIA
 https://github.com/zzqsec/ai-redteam-notes
 https://github.com/jamal-soc21/Weekly-Breach-Investigation--012-
