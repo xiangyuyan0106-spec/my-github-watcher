@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: christiand0797/downpour</title>
+      <link>https://github.com/christiand0797/downpour</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my personal antivirus antimalware anti rat anti everything program work in progress | 最后推送: 2026-08-18T06:54:02Z | 最后更新: 2026-08-18T02:51:29Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/christiand0797/downpour?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-18T06:44:16Z | 最后更新: 2026-08-18T06:45:37Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-18T06:41:50Z | 最后更新: 2026-08-18T06:44:02Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-18T05:42:04Z | 最后更新: 2026-08-18T05:42:15Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-08-18T03:14:14Z | 最后更新: 2026-08-18T03:14:39Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-17T18:50:00Z | 最后更新: 2026-08-17T18:50:57Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-08-16T03:24:51Z | 最后更新: 2026-08-18T03:23:49Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlackSnufkin/BYOVD</title>
+      <link>https://github.com/BlackSnufkin/BYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501). | 最后推送: 2026-08-15T12:46:49Z | 最后更新: 2026-08-18T05:38:37Z</description>
+      <pubDate>2026-08-18T06:55:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlackSnufkin/BYOVD?updated=1&amp;ts=1787036117</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-17T18:40:48Z | 最后更新: 2026-08-17T18:41:24Z</description>
@@ -87330,6 +87386,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 18:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:55:17 GMT</lastBuildDate>
   </channel>
 </rss>
