@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: kdRajKit/PPL-KILLERS</title>
+      <link>https://github.com/kdRajKit/PPL-KILLERS</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: KILLING WINDOWS PPL ANTIMALWARE PROCESS WITH BYOVD | 最后推送: 2026-07-13T21:20:55Z | 最后更新: 2026-08-18T06:03:48Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kdRajKit/PPL-KILLERS?new=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: n3k0m4/byovd-modified</title>
+      <link>https://github.com/n3k0m4/byovd-modified</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-13T15:44:15Z | 最后更新: 2026-07-13T15:44:21Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/n3k0m4/byovd-modified?new=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: ZeroDayVPN/Awesome-EDR-Bypass-Collection</title>
+      <link>https://github.com/ZeroDayVPN/Awesome-EDR-Bypass-Collection</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A comprehensive, curated collection of resources, tools, Proof-of-Concepts (PoCs), and research papers dedicated to understanding and bypassing EDR, XDR, and AV systems for ethical hacking and red teaming. | 最后推送: 2026-07-12T14:22:29Z | 最后更新: 2026-08-19T09:15:22Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ZeroDayVPN/Awesome-EDR-Bypass-Collection?new=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-20T12:51:45Z | 最后更新: 2026-08-20T12:54:29Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-20T11:38:40Z | 最后更新: 2026-08-20T11:40:41Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-20T10:40:08Z | 最后更新: 2026-08-20T10:42:24Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-08-20T10:21:35Z | 最后更新: 2026-08-20T10:23:38Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-20T06:57:10Z | 最后更新: 2026-08-20T06:58:32Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-20T04:23:01Z | 最后更新: 2026-08-20T09:46:57Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Hika-sec/Terminator_Killer</title>
+      <link>https://github.com/Hika-sec/Terminator_Killer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ring0-level process killer leveraging CVE-2026-0828 (BYOVD). Designed to demonstrate kernel-level process termination via a vulnerable signed driver, highlighting the security risks of Bring Your Own Vulnerable Driver attacks and the importance of driver trust, monitoring, and endpoint protection. | 最后推送: 2026-08-19T22:17:31Z | 最后更新: 2026-08-20T07:17:19Z</description>
+      <pubDate>2026-08-20T13:02:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Hika-sec/Terminator_Killer?updated=1&amp;ts=1787230950</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-20T06:47:33Z | 最后更新: 2026-08-20T06:47:54Z</description>
@@ -87813,6 +87883,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:02:30 GMT</lastBuildDate>
   </channel>
 </rss>
