@@ -1,14 +1,15 @@
-https://github.com/FzRsLLaSheR/TheWatcher
-https://github.com/rix4uni/medium-writeups
-https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher
 https://github.com/gmh5225/awesome-game-security
 https://github.com/hsamnguyen/lastest-update-bounty
+https://github.com/FzRsLLaSheR/TheWatcher
+https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher
+https://github.com/rix4uni/medium-writeups
+https://github.com/Hika-sec/Terminator_Killer
+https://github.com/CroatiaSecurity/Sentinel
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/enhansome/enhansome-game-security
 https://github.com/christiand0797/downpour
 https://github.com/kernullist/kn-live-dbg
 https://github.com/The-Sword-of-Constantine/UsingBYOVD
-https://github.com/CroatiaSecurity/Sentinel
 https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/BlackSnufkin/BYOVD
 https://github.com/MaikCyberSec/Threat-Hunting-
@@ -27,4 +28,3 @@ https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD
 https://github.com/I3r1h0n/Sigurd
 https://github.com/BenjiTrapp/MostShittyEDR
 https://github.com/ITherso/monolith-test
-https://github.com/kdRajKit/PPL-KILLERS
