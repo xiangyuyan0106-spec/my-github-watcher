@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-23T06:41:54Z | 最后更新: 2026-08-23T06:42:30Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-23T06:23:00Z | 最后更新: 2026-08-23T06:23:30Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: l0n3m4n/SearchToolkit</title>
+      <link>https://github.com/l0n3m4n/SearchToolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer, Bug Hunter, Forensics, LAW enforcers etc.  | 最后推送: 2026-08-23T06:04:27Z | 最后更新: 2026-08-23T06:05:52Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/l0n3m4n/SearchToolkit?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-23T06:02:48Z | 最后更新: 2026-08-23T06:52:16Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-23T01:50:28Z | 最后更新: 2026-08-23T01:50:41Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-08-22T08:59:30Z | 最后更新: 2026-08-23T02:56:09Z</description>
+      <pubDate>2026-08-23T06:52:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1787467972</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-23T01:49:25Z | 最后更新: 2026-08-23T01:49:31Z</description>
@@ -88352,6 +88394,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:52:52 GMT</lastBuildDate>
   </channel>
 </rss>
