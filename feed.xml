@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-29T20:50:18Z | 最后更新: 2026-08-29T20:49:57Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788036621</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-29T20:33:25Z | 最后更新: 2026-08-29T20:33:30Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788036621</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-08-29T19:50:08Z | 最后更新: 2026-08-29T19:50:14Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1788036621</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: z0ltrak/MalWhere</title>
+      <link>https://github.com/z0ltrak/MalWhere</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-29T19:43:27Z | 最后更新: 2026-08-29T19:43:38Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/z0ltrak/MalWhere?updated=1&amp;ts=1788036622</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-29T19:25:20Z | 最后更新: 2026-08-29T19:32:22Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788036622</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-29T16:37:50Z | 最后更新: 2026-08-29T16:37:58Z</description>
+      <pubDate>2026-08-29T20:50:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788036622</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</title>
       <link>https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-22T12:53:26Z | 最后更新: 2026-07-23T10:03:51Z</description>
@@ -89584,6 +89626,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:37:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:50:22 GMT</lastBuildDate>
   </channel>
 </rss>
