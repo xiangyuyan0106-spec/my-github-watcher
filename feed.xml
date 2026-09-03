@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-03T10:49:56Z | 最后更新: 2026-09-03T10:52:12Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-03T09:13:29Z | 最后更新: 2026-09-03T09:27:25Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-09-03T08:47:20Z | 最后更新: 2026-09-03T08:48:02Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-03T07:48:42Z | 最后更新: 2026-09-03T07:49:32Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-09-03T06:53:16Z | 最后更新: 2026-09-03T06:53:32Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-03T04:08:07Z | 最后更新: 2026-09-03T04:08:47Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mukendi/DetectorOne</title>
+      <link>https://github.com/mukendi/DetectorOne</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DetectorOne is a Windows kernel-mode EDR research project focused on defensive detection of BYOVD-style activity. | 最后推送: 2026-09-02T18:14:25Z | 最后更新: 2026-09-03T04:09:53Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mukendi/DetectorOne?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-08-25T14:35:08Z | 最后更新: 2026-09-03T09:32:27Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-08-24T09:25:02Z | 最后更新: 2026-09-03T06:58:16Z</description>
+      <pubDate>2026-09-03T11:03:16Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1788433396</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-03T04:07:50Z | 最后更新: 2026-09-03T04:07:58Z</description>
@@ -90340,6 +90403,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:03:16 GMT</lastBuildDate>
   </channel>
 </rss>
