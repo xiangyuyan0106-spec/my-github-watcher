@@ -1,14 +1,13 @@
 https://github.com/FzRsLLaSheR/TheWatcher
+https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/gmh5225/awesome-game-security
 https://github.com/kernullist/kn-live-dbg
-https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/gmh5225/awesome-game-security
 https://github.com/enhansome/enhansome-game-security
 https://github.com/CroatiaSecurity/Sentinel
 https://github.com/mukendi/DetectorOne
 https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer
 https://github.com/MaikCyberSec/Threat-Hunting-
-https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/christiannagel26-nknx/alien2
 https://github.com/didntchooseaname/loldrivers-database
 https://github.com/b1ank1108/awesome-stars
@@ -17,7 +16,6 @@ https://github.com/z0ltrak/MalWhere
 https://github.com/Spellskite-coding/win_malware_analyzer
 https://github.com/The-Sword-of-Constantine/UsingBYOVD
 https://github.com/JameZUK/Arkana
-https://github.com/Hika-sec/Terminator_Killer
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/RouZuoMong2003/byovd-research-backup
 https://github.com/christiand0797/downpour
@@ -28,3 +26,5 @@ https://github.com/redteamfortress/DefenderKiller
 https://github.com/Dragon-Lady/linux-supply-chain-guard
 https://github.com/sharath-c-ws/TheGentlemen
 https://github.com/mym0us3r/Unified-Sysmon-Configs
+https://github.com/wwwab123/Tjbxld_Drv_CreateProcessCallbacksKiller_BYOVD
+https://github.com/I3r1h0n/Sigurd
