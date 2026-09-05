@@ -1,8 +1,9 @@
+https://github.com/gmh5225/awesome-game-security
 https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/gmh5225/awesome-game-security
-https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/abraxas/veneficus
 https://github.com/lukmannurhikma/UnknownKiller
+https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/enhansome/enhansome-game-security
 https://github.com/killvxk/gitweekly
 https://github.com/kernullist/kn-live-dbg
@@ -27,4 +28,3 @@ https://github.com/IbnNizam/ioctl_switch_extractor
 https://github.com/yankywilson/deadlock-onchain-leak-blog-reconstruction
 https://github.com/redteamfortress/DefenderKiller
 https://github.com/Dragon-Lady/linux-supply-chain-guard
-https://github.com/sharath-c-ws/TheGentlemen
