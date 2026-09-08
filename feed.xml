@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-08T10:47:23Z | 最后更新: 2026-09-08T10:47:39Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-08T10:09:00Z | 最后更新: 2026-09-08T10:11:03Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting based on KQL | 最后推送: 2026-09-08T08:26:52Z | 最后更新: 2026-09-08T08:27:48Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-08T07:46:47Z | 最后更新: 2026-09-08T07:47:08Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-09-08T06:03:34Z | 最后更新: 2026-09-08T06:03:38Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-08T04:16:39Z | 最后更新: 2026-09-08T04:16:43Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-09-03T01:51:20Z | 最后更新: 2026-09-08T05:35:46Z</description>
+      <pubDate>2026-09-08T11:04:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1788865480</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: ttitans955-jpg/qilin-detection-pack</title>
       <link>https://github.com/ttitans955-jpg/qilin-detection-pack</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Sigma rules for Qilin/Agenda ransomware - BYOVD, GPO Chrome harvest, Cyberduck exfil, encryptor deploy | 最后推送: 2026-09-07T22:55:36Z | 最后更新: 2026-09-07T22:55:45Z</description>
@@ -91348,6 +91397,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:04:40 GMT</lastBuildDate>
   </channel>
 </rss>
