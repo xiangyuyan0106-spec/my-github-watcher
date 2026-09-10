@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-10T15:59:09Z | 最后更新: 2026-09-10T16:02:23Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-09-10T15:30:27Z | 最后更新: 2026-09-10T15:36:54Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-10T14:16:59Z | 最后更新: 2026-09-10T14:22:12Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-10T13:50:23Z | 最后更新: 2026-09-10T13:55:02Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-10T12:12:15Z | 最后更新: 2026-09-10T12:51:31Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-10T11:05:52Z | 最后更新: 2026-09-10T11:06:42Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-09-07T09:32:03Z | 最后更新: 2026-09-10T14:32:14Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-09-03T01:51:20Z | 最后更新: 2026-09-10T13:56:45Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mym0us3r/WAZUH-Process-Tree-Viewer</title>
+      <link>https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A forensic visualization tool for Wazuh that transforms Windows process creation logs (Event ID 4688) into interactive, draggable relationship graphs. Optimized for Threat Hunting and Incident Response. | 最后推送: 2026-09-02T13:53:00Z | 最后更新: 2026-09-10T15:24:07Z</description>
+      <pubDate>2026-09-10T16:16:30Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mym0us3r/WAZUH-Process-Tree-Viewer?updated=1&amp;ts=1789056990</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: danhowett/trace</title>
       <link>https://github.com/danhowett/trace</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: TRACE - Threat Response and Case Evidence System | 最后推送: 2026-09-10T09:05:32Z | 最后更新: 2026-09-10T09:06:06Z</description>
@@ -91733,6 +91796,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:16:31 GMT</lastBuildDate>
   </channel>
 </rss>
