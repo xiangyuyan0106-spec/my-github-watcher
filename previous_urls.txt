@@ -1,5 +1,6 @@
 https://github.com/gmh5225/awesome-game-security
 https://github.com/FzRsLLaSheR/TheWatcher
+https://github.com/luckystars0612/skills
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/enhansome/enhansome-game-security
@@ -27,4 +28,3 @@ https://github.com/Hika-sec/Terminator_Killer
 https://github.com/l0n3m4n/SearchToolkit
 https://github.com/RouZuoMong2003/byovd-research-backup
 https://github.com/BlackSnufkin/BYOVD
-https://github.com/IbnNizam/ioctl_switch_extractor
