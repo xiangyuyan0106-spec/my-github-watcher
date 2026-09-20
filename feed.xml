@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: zzqsec/ai-redteam-notes</title>
+      <link>https://github.com/zzqsec/ai-redteam-notes</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: AI 驱动的红队免杀知识库 — AI-generated red team evasion notes | 最后推送: 2026-09-20T03:33:03Z | 最后更新: 2026-09-20T03:33:07Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zzqsec/ai-redteam-notes?new=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Shadow-King-Cyber/BYOVD_EDRKiller</title>
+      <link>https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Prueba de concepto educativa de BYOVD/EDR killer en C. Solo para entornos autorizados y fines pedagogicos. | 最后推送: 2026-09-17T01:25:46Z | 最后更新: 2026-09-20T00:50:32Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller?new=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-20T03:54:31Z | 最后更新: 2026-09-20T03:54:35Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-09-20T03:24:51Z | 最后更新: 2026-09-20T03:24:54Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-20T01:42:04Z | 最后更新: 2026-09-20T01:42:06Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-20T01:32:53Z | 最后更新: 2026-09-20T01:33:01Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-09-20T01:30:26Z | 最后更新: 2026-09-20T01:30:29Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-19T20:28:21Z | 最后更新: 2026-09-19T20:28:24Z</description>
+      <pubDate>2026-09-20T04:39:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789879161</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-19T20:11:00Z | 最后更新: 2026-09-19T20:11:04Z</description>
@@ -93567,6 +93623,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:39:21 GMT</lastBuildDate>
   </channel>
 </rss>
