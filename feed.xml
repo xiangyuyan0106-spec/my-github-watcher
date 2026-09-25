@@ -4,6 +4,48 @@
     <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-25T21:12:58Z | 最后更新: 2026-09-25T21:13:04Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1790371584</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-09-25T20:27:51Z | 最后更新: 2026-09-25T20:27:55Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1790371584</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-25T19:45:10Z | 最后更新: 2026-09-25T21:12:01Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790371584</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-25T21:26:20Z | 最后更新: 2026-09-25T19:23:20Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790371584</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jjam3774/ruby-devops-toolkit</title>
+      <link>https://github.com/jjam3774/ruby-devops-toolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ruby scripts for Linux and Windows DevOps: file perission SUID/SGID auditing, NTP fleet drift monitorin, and Windows service security auditing via WMI. | 最后推送: 2026-09-25T18:30:45Z | 最后更新: 2026-09-25T18:30:48Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jjam3774/ruby-devops-toolkit?updated=1&amp;ts=1790371585</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-25T17:01:58Z | 最后更新: 2026-09-25T17:02:03Z</description>
+      <pubDate>2026-09-25T21:26:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1790371585</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-25T16:46:20Z | 最后更新: 2026-09-25T16:46:25Z</description>
       <pubDate>2026-09-25T17:01:54Z</pubDate>
       <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1790355714</guid>
@@ -94561,6 +94603,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:26:25 GMT</lastBuildDate>
   </channel>
 </rss>
