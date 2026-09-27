@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-27T11:36:10Z | 最后更新: 2026-09-27T11:36:14Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-27T10:32:52Z | 最后更新: 2026-09-27T10:32:56Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: luckystars0612/skills</title>
+      <link>https://github.com/luckystars0612/skills</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Skills for AI | 最后推送: 2026-09-27T08:31:23Z | 最后更新: 2026-09-27T08:31:27Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/luckystars0612/skills?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-27T07:43:23Z | 最后更新: 2026-09-27T10:02:32Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-09-27T06:13:09Z | 最后更新: 2026-09-27T06:13:13Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-27T05:02:53Z | 最后更新: 2026-09-27T05:02:56Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-09-03T01:51:20Z | 最后更新: 2026-09-27T11:10:28Z</description>
+      <pubDate>2026-09-27T11:52:26Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1790509946</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-27T04:47:48Z | 最后更新: 2026-09-27T04:47:55Z</description>
@@ -94785,6 +94834,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 05:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:52:26 GMT</lastBuildDate>
   </channel>
 </rss>
