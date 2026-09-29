@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-29T21:58:53Z | 最后更新: 2026-09-29T21:58:59Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-29T20:16:39Z | 最后更新: 2026-09-29T20:50:59Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-29T19:47:29Z | 最后更新: 2026-09-29T19:47:39Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jjam3774/ruby-devops-toolkit</title>
+      <link>https://github.com/jjam3774/ruby-devops-toolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ruby scripts for Linux and Windows DevOps: file perission SUID/SGID auditing, NTP fleet drift monitorin, and Windows service security auditing via WMI. | 最后推送: 2026-09-29T16:50:55Z | 最后更新: 2026-09-29T16:50:59Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jjam3774/ruby-devops-toolkit?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-29T16:28:58Z | 最后更新: 2026-09-29T16:31:01Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-29T12:38:07Z | 最后更新: 2026-09-29T12:38:11Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-09-12T13:31:15Z | 最后更新: 2026-09-29T17:13:17Z</description>
+      <pubDate>2026-09-29T22:08:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?updated=1&amp;ts=1790719724</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: edistone10/cti-portfolio</title>
       <link>https://github.com/edistone10/cti-portfolio</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: vidence-first Cyber Threat Intelligence reports – every claim backed by verbatim quotes from public sources. ATT&amp;CK v19, IOCs, DACH focus. | 最后推送: 2026-09-29T11:06:58Z | 最后更新: 2026-09-29T11:07:02Z</description>
@@ -95177,6 +95226,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:08:44 GMT</lastBuildDate>
   </channel>
 </rss>
