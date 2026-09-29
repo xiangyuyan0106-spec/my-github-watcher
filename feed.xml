@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: edistone10/cti-portfolio</title>
+      <link>https://github.com/edistone10/cti-portfolio</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: vidence-first Cyber Threat Intelligence reports – every claim backed by verbatim quotes from public sources. ATT&amp;CK v19, IOCs, DACH focus. | 最后推送: 2026-09-29T11:06:58Z | 最后更新: 2026-09-29T11:07:02Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/edistone10/cti-portfolio?new=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-29T12:19:29Z | 最后更新: 2026-09-29T12:19:34Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-29T08:21:13Z | 最后更新: 2026-09-29T11:08:21Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-29T07:45:36Z | 最后更新: 2026-09-29T07:45:44Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-09-29T07:25:10Z | 最后更新: 2026-09-29T07:25:14Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-29T05:29:07Z | 最后更新: 2026-09-29T05:29:10Z</description>
+      <pubDate>2026-09-29T12:38:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1790685484</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Spellskite-coding/win_malware_analyzer</title>
       <link>https://github.com/Spellskite-coding/win_malware_analyzer</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A Python script that automates static analysis, yara analysis and reverse-engineering on Windows (exe, sys, dll) binaries! | 最后推送: 2026-08-26T19:14:06Z | 最后更新: 2026-08-26T19:56:20Z</description>
@@ -95135,6 +95177,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:38:04 GMT</lastBuildDate>
   </channel>
 </rss>
