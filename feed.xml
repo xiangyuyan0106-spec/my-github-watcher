@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-04T11:55:03Z | 最后更新: 2026-10-04T11:55:07Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1791115899</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-04T11:21:14Z | 最后更新: 2026-10-04T11:21:18Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1791115899</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-10-04T08:58:24Z | 最后更新: 2026-10-04T08:58:28Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1791115899</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-10-04T08:58:23Z | 最后更新: 2026-10-04T08:58:27Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1791115899</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-04T07:44:15Z | 最后更新: 2026-10-04T07:44:22Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1791115900</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-04T05:34:52Z | 最后更新: 2026-10-04T05:34:55Z</description>
+      <pubDate>2026-10-04T12:11:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1791115900</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: christiand0797/downpour</title>
       <link>https://github.com/christiand0797/downpour</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my personal antivirus antimalware anti rat anti everything program work in progress | 最后推送: 2026-10-04T05:22:25Z | 最后更新: 2026-10-04T05:22:28Z</description>
@@ -95842,6 +95884,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 05:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:11:40 GMT</lastBuildDate>
   </channel>
 </rss>
