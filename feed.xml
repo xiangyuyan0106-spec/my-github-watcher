@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Pazificateur69/sentinelle-edr</title>
+      <link>https://github.com/Pazificateur69/sentinelle-edr</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: EDR défensif en Rust : détection façon Sigma, corrélation par arbre de processus, console SOC temps réel, parc agent↔serveur en gRPC+mTLS | 最后推送: 2026-10-05T14:12:56Z | 最后更新: 2026-10-05T14:13:00Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Pazificateur69/sentinelle-edr?new=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-05T13:53:14Z | 最后更新: 2026-10-05T13:53:19Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-05T13:47:57Z | 最后更新: 2026-10-05T13:48:06Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: luckystars0612/skills</title>
+      <link>https://github.com/luckystars0612/skills</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Skills for AI | 最后推送: 2026-10-05T10:54:49Z | 最后更新: 2026-10-05T10:54:55Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/luckystars0612/skills?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-05T07:40:38Z | 最后更新: 2026-10-05T11:11:28Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-10-05T05:55:18Z | 最后更新: 2026-10-05T05:55:22Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-05T05:18:11Z | 最后更新: 2026-10-05T05:18:15Z</description>
+      <pubDate>2026-10-05T14:21:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1791210093</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-05T04:36:00Z | 最后更新: 2026-10-05T04:36:05Z</description>
@@ -95982,6 +96031,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 05:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:21:33 GMT</lastBuildDate>
   </channel>
 </rss>

@@ -1,7 +1,10 @@
+https://github.com/Pazificateur69/sentinelle-edr
 https://github.com/FzRsLLaSheR/TheWatcher
-https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/luckystars0612/skills
 https://github.com/gmh5225/awesome-game-security
+https://github.com/didntchooseaname/loldrivers-database
+https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/jjam3774/ruby-devops-toolkit
 https://github.com/enhansome/enhansome-game-security
@@ -16,9 +19,7 @@ https://github.com/DeathShotXD/0xM0nCrush
 https://github.com/killvxk/gitweekly
 https://github.com/z0ltrak/MalWhere
 https://github.com/edistone10/cti-portfolio
-https://github.com/luckystars0612/skills
 https://github.com/MaikCyberSec/Threat-Hunting-
-https://github.com/didntchooseaname/loldrivers-database
 https://github.com/danhowett/trace
 https://github.com/itsmrroot/WindowsDetective
 https://github.com/zzqsec/ai-redteam-notes
@@ -27,4 +28,3 @@ https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller
 https://github.com/mukendi/DetectorOne
 https://github.com/JameZUK/Arkana
 https://github.com/ttitans955-jpg/qilin-detection-pack
-https://github.com/Anji17-hacker/PrecursorGuard
