@@ -1,5 +1,5 @@
-https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/gmh5225/awesome-game-security
+https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/nomi-sec/PoC-in-GitHub
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/enhansome/enhansome-game-security
@@ -13,7 +13,6 @@ https://github.com/b1ank1108/awesome-stars
 https://github.com/xuegongziqin/xx
 https://github.com/Dragon-Lady/linux-supply-chain-guard
 https://github.com/Pazificateur69/sentinelle-edr
-https://github.com/afsh4ck/MalwareLLM
 https://github.com/christiand0797/downpour
 https://github.com/DeathShotXD/0xKern3lCrush
 https://github.com/l0n3m4n/SearchToolkit
@@ -28,3 +27,4 @@ https://github.com/zzqsec/ai-redteam-notes
 https://github.com/The-Sword-of-Constantine/UsingBYOVD
 https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller
 https://github.com/mukendi/DetectorOne
+https://github.com/JameZUK/Arkana
