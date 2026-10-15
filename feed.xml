@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: mym0us3r/Unified-Sysmon-Configs</title>
+      <link>https://github.com/mym0us3r/Unified-Sysmon-Configs</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Unified Native Sysmon configurations for advanced Windows auditing. Seamless integration with Wazuh SIEM/XDR and other industry-leading SIEM platforms for proactive threat hunting. | 最后推送: 2026-10-15T13:44:23Z | 最后更新: 2026-10-15T13:44:28Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mym0us3r/Unified-Sysmon-Configs?new=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-15T16:46:49Z | 最后更新: 2026-10-15T16:46:58Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-15T16:29:22Z | 最后更新: 2026-10-15T16:29:29Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Dragon-Lady/linux-supply-chain-guard</title>
+      <link>https://github.com/Dragon-Lady/linux-supply-chain-guard</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Read-only Linux host checker for supply-chain incident response, including vulnerable kernel posture, risky module state, and known developer-tooling persistence indicators | 最后推送: 2026-10-15T15:54:30Z | 最后更新: 2026-10-15T15:54:34Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Dragon-Lady/linux-supply-chain-guard?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-15T14:51:03Z | 最后更新: 2026-10-15T14:51:09Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-15T13:50:52Z | 最后更新: 2026-10-15T15:55:55Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-15T11:16:39Z | 最后更新: 2026-10-15T11:16:43Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources. | 最后推送: 2026-10-15T09:30:01Z | 最后更新: 2026-10-15T12:51:00Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-12T11:33:17Z | 最后更新: 2026-10-15T11:55:40Z</description>
+      <pubDate>2026-10-15T16:47:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1792082859</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: yogsec/Hacking-Tools</title>
       <link>https://github.com/yogsec/Hacking-Tools</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources. | 最后推送: 2026-10-15T09:30:01Z | 最后更新: 2026-10-15T09:52:09Z</description>
@@ -97256,6 +97319,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:47:39 GMT</lastBuildDate>
   </channel>
 </rss>
