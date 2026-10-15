@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources. | 最后推送: 2026-10-15T09:30:01Z | 最后更新: 2026-10-15T09:52:09Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?new=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-15T10:59:37Z | 最后更新: 2026-10-15T10:59:42Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-15T10:45:38Z | 最后更新: 2026-10-15T10:45:47Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-15T07:48:32Z | 最后更新: 2026-10-15T10:39:13Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-15T04:19:05Z | 最后更新: 2026-10-15T04:19:10Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-09-17T13:36:25Z | 最后更新: 2026-10-15T05:13:27Z</description>
+      <pubDate>2026-10-15T11:16:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?updated=1&amp;ts=1792062996</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: JameZUK/Arkana</title>
       <link>https://github.com/JameZUK/Arkana</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-09-12T13:31:15Z | 最后更新: 2026-10-13T19:09:43Z</description>
@@ -97214,6 +97256,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:16:36 GMT</lastBuildDate>
   </channel>
 </rss>
