@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-24T20:24:02Z | 最后更新: 2026-10-24T20:24:07Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792874128</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-24T20:19:06Z | 最后更新: 2026-10-24T20:19:13Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792874128</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ITherso/monolith-test</title>
+      <link>https://github.com/ITherso/monolith-test</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Elite Red Team Adversary Simulation &amp; C2 Framework | Heavy Evasion | Encrypted Beacon | Production Ready | 最后推送: 2026-10-24T20:02:45Z | 最后更新: 2026-10-24T20:02:49Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ITherso/monolith-test?updated=1&amp;ts=1792874128</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-24T19:50:17Z | 最后更新: 2026-10-24T19:50:25Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792874129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jjam3774/ruby-devops-toolkit</title>
+      <link>https://github.com/jjam3774/ruby-devops-toolkit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ruby scripts for Linux and Windows DevOps: file perission SUID/SGID auditing, NTP fleet drift monitorin, and Windows service security auditing via WMI. | 最后推送: 2026-10-24T17:41:40Z | 最后更新: 2026-10-24T17:41:43Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jjam3774/ruby-devops-toolkit?updated=1&amp;ts=1792874129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-24T15:47:05Z | 最后更新: 2026-10-24T15:47:09Z</description>
+      <pubDate>2026-10-24T20:35:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792874129</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: MaikCyberSec/Threat-Hunting-</title>
       <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Threat Hunting based on KQL | 最后推送: 2026-09-28T07:37:28Z | 最后更新: 2026-09-28T07:37:33Z</description>
@@ -98957,6 +98999,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:35:29 GMT</lastBuildDate>
   </channel>
 </rss>
