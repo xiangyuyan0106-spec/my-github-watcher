@@ -1,13 +1,14 @@
-https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/gmh5225/awesome-game-security
-https://github.com/Dragon-Lady/linux-supply-chain-guard
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/jjam3774/ruby-devops-toolkit
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/enhansome/enhansome-game-security
+https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/J1ezds/some-star
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/Dragon-Lady/linux-supply-chain-guard
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/jjam3774/ruby-devops-toolkit
+https://github.com/enhansome/enhansome-game-security
 https://github.com/blook-project/blook-kdu
 https://github.com/luckystars0612/skills
+https://github.com/Varne666/saturn-crack
 https://github.com/ITherso/monolith-test
 https://github.com/killvxk/gitweekly
 https://github.com/l0n3m4n/SearchToolkit
@@ -27,4 +28,3 @@ https://github.com/DeathShotXD/0xKern3lCrush
 https://github.com/DeathShotXD/0xM0nCrush
 https://github.com/z0ltrak/MalWhere
 https://github.com/edistone10/cti-portfolio
-https://github.com/MaikCyberSec/Threat-Hunting-
