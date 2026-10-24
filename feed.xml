@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-24T10:42:04Z | 最后更新: 2026-10-24T10:42:09Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-24T10:28:20Z | 最后更新: 2026-10-24T10:28:24Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-24T07:49:55Z | 最后更新: 2026-10-24T07:50:02Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-24T05:58:10Z | 最后更新: 2026-10-24T08:37:14Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-24T04:18:40Z | 最后更新: 2026-10-24T04:18:44Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: blook-project/blook-kdu</title>
+      <link>https://github.com/blook-project/blook-kdu</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Self-contained Windows kernel driver exploitation toolkit: SDK, exploit abstraction, manual mapper, kernel payload, pretty CLI | 最后推送: 2026-10-22T14:55:13Z | 最后更新: 2026-10-24T05:15:32Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/blook-project/blook-kdu?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-10-01T00:14:23Z | 最后更新: 2026-10-24T05:24:36Z</description>
+      <pubDate>2026-10-24T10:45:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1792838702</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Varne666/saturn-crack</title>
       <link>https://github.com/Varne666/saturn-crack</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Private working repo for Saturn Spoofer RE / crack effort. Collaborator-only. | 最后推送: 2026-10-22T05:05:32Z | 最后更新: 2026-10-24T03:15:43Z</description>
@@ -98866,6 +98915,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:45:03 GMT</lastBuildDate>
   </channel>
 </rss>
