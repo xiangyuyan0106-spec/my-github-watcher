@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-26T12:26:07Z | 最后更新: 2026-10-26T12:26:11Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-26T11:49:38Z | 最后更新: 2026-10-26T11:58:28Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-10-26T05:54:00Z | 最后更新: 2026-10-26T05:54:06Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-26T04:46:51Z | 最后更新: 2026-10-26T04:51:17Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-26T04:25:37Z | 最后更新: 2026-10-26T04:25:41Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: redteamfortress/KillerLand</title>
+      <link>https://github.com/redteamfortress/KillerLand</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you. | 最后推送: 2026-10-18T05:49:37Z | 最后更新: 2026-10-26T11:36:20Z</description>
+      <pubDate>2026-10-26T12:44:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/redteamfortress/KillerLand?updated=1&amp;ts=1793018668</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Hika-sec/Terminator_Killer</title>
       <link>https://github.com/Hika-sec/Terminator_Killer</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Windows Ring0 process termination via BYOVD, abusing vulnerable signed drivers. Supports process discovery and kernel-level termination. Demonstrates driver abuse risks and EDR evasion, highlighting the need for driver blocklists, integrity checks, and kernel threat monitoring. | 最后推送: 2026-10-26T00:05:20Z | 最后更新: 2026-10-26T00:05:23Z</description>
@@ -99216,6 +99258,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:44:28 GMT</lastBuildDate>
   </channel>
 </rss>
