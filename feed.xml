@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: anatemnein/lilith</title>
+      <link>https://github.com/anatemnein/lilith</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Polymorphic AMSI and shellcode bypass | 最后推送: 2026-10-27T17:38:44Z | 最后更新: 2026-10-27T17:48:27Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/anatemnein/lilith?new=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-27T17:37:52Z | 最后更新: 2026-10-27T17:37:59Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-27T17:25:43Z | 最后更新: 2026-10-27T17:25:51Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-27T15:51:30Z | 最后更新: 2026-10-27T15:51:35Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-27T11:58:59Z | 最后更新: 2026-10-27T11:59:03Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: redteamfortress/KillerLand</title>
+      <link>https://github.com/redteamfortress/KillerLand</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you. | 最后推送: 2026-10-18T05:49:37Z | 最后更新: 2026-10-27T13:55:03Z</description>
+      <pubDate>2026-10-27T17:54:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/redteamfortress/KillerLand?updated=1&amp;ts=1793123698</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-27T11:46:39Z | 最后更新: 2026-10-27T11:46:47Z</description>
@@ -99398,6 +99440,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:54:58 GMT</lastBuildDate>
   </channel>
 </rss>
