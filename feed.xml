@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: frknaykc/Dragon-ThreatResearchHQ</title>
+      <link>https://github.com/frknaykc/Dragon-ThreatResearchHQ</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A comprehensive repository for malware analysis and threat intelligence, including Cobalt Strike Beacon configurations, YARA rules, IOCs, Suricata rules, and malware samples to support cybersecurity efforts. | 最后推送: 2026-09-24T22:06:40Z | 最后更新: 2026-10-18T13:48:26Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/frknaykc/Dragon-ThreatResearchHQ?new=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-27T04:23:27Z | 最后更新: 2026-10-27T04:23:34Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-27T04:06:11Z | 最后更新: 2026-10-27T04:06:15Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: github star 分类汇总 | 最后推送: 2026-10-27T03:18:04Z | 最后更新: 2026-10-27T03:18:08Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-10-27T00:39:57Z | 最后更新: 2026-10-27T00:40:01Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-26T22:34:11Z | 最后更新: 2026-10-26T22:34:15Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-10-25T07:56:09Z | 最后更新: 2026-10-26T23:18:12Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: redteamfortress/KillerLand</title>
+      <link>https://github.com/redteamfortress/KillerLand</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you. | 最后推送: 2026-10-18T05:49:37Z | 最后更新: 2026-10-27T02:04:54Z</description>
+      <pubDate>2026-10-27T04:44:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/redteamfortress/KillerLand?updated=1&amp;ts=1793076269</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-26T22:23:06Z | 最后更新: 2026-10-26T22:23:12Z</description>
@@ -99307,6 +99363,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:44:30 GMT</lastBuildDate>
   </channel>
 </rss>
