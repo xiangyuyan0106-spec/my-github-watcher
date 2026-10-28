@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-28T05:16:53Z | 最后更新: 2026-10-28T05:17:00Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-28T04:33:31Z | 最后更新: 2026-10-28T04:33:35Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: luckystars0612/skills</title>
+      <link>https://github.com/luckystars0612/skills</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Skills for AI | 最后推送: 2026-10-28T04:00:01Z | 最后更新: 2026-10-28T04:00:05Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/luckystars0612/skills?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: github star 分类汇总 | 最后推送: 2026-10-28T03:33:18Z | 最后更新: 2026-10-28T03:33:23Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-27T22:04:06Z | 最后更新: 2026-10-27T22:04:10Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: redteamfortress/KillerLand</title>
+      <link>https://github.com/redteamfortress/KillerLand</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you. | 最后推送: 2026-10-18T05:49:37Z | 最后更新: 2026-10-28T05:07:10Z</description>
+      <pubDate>2026-10-28T05:18:45Z</pubDate>
+      <guid isPermaLink="true">https://github.com/redteamfortress/KillerLand?updated=1&amp;ts=1793164725</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-27T21:54:20Z | 最后更新: 2026-10-27T21:54:25Z</description>
@@ -99461,6 +99503,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:18:45 GMT</lastBuildDate>
   </channel>
 </rss>
