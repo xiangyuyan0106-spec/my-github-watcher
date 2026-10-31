@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: overthinker1337/CypherDissect</title>
+      <link>https://github.com/overthinker1337/CypherDissect</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CypherDissect - Enterprise Malware Reverse Engineering &amp; Threat Intelligence Station | 最后推送: 2026-10-31T20:09:20Z | 最后更新: 2026-10-31T20:09:23Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/overthinker1337/CypherDissect?new=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Dornkimik/vigil</title>
+      <link>https://github.com/Dornkimik/vigil</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Lightweight Rust malware scanner for Windows that supplements Microsoft Defender - watches browser downloads and Steam games/Workshop content | 最后推送: 2026-10-31T18:53:18Z | 最后更新: 2026-10-31T18:53:21Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Dornkimik/vigil?new=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MacAwad/whatsapp-valleyrat-analysis</title>
+      <link>https://github.com/MacAwad/whatsapp-valleyrat-analysis</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: WhatsApp-delivered Winos 4.0 / ValleyRAT stager: DLL sideloading, BYOVD Defender kill (CVE-2026-36425), custom C2 protocol on TCP 443, and previously unreported C2 infrastructure. | 最后推送: 2026-10-31T15:20:18Z | 最后更新: 2026-10-31T15:20:22Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MacAwad/whatsapp-valleyrat-analysis?new=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-31T21:12:40Z | 最后更新: 2026-10-31T21:12:47Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-31T21:07:50Z | 最后更新: 2026-10-31T21:07:54Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-31T17:22:27Z | 最后更新: 2026-10-31T19:46:56Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-31T15:43:03Z | 最后更新: 2026-10-31T15:43:07Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-31T12:06:17Z | 最后更新: 2026-10-31T12:06:21Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-10-27T00:39:57Z | 最后更新: 2026-10-31T14:59:46Z</description>
+      <pubDate>2026-10-31T21:21:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1793481675</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Vulndisclosure/Sharp-GuardKill</title>
       <link>https://github.com/Vulndisclosure/Sharp-GuardKill</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Disable Credential Guard in runtime without BYOVD and BSOD! | 最后推送: 2026-10-31T11:53:19Z | 最后更新: 2026-10-31T11:53:22Z</description>
@@ -99860,6 +99923,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:21:16 GMT</lastBuildDate>
   </channel>
 </rss>
