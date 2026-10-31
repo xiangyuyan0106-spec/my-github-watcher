@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-31T05:14:01Z | 最后更新: 2026-10-31T05:14:08Z</description>
+      <pubDate>2026-10-31T05:14:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793423669</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-31T04:32:59Z | 最后更新: 2026-10-31T04:33:03Z</description>
+      <pubDate>2026-10-31T05:14:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793423669</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: github star 分类汇总 | 最后推送: 2026-10-31T03:40:51Z | 最后更新: 2026-10-31T03:40:54Z</description>
+      <pubDate>2026-10-31T05:14:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?updated=1&amp;ts=1793423669</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-30T22:11:23Z | 最后更新: 2026-10-30T22:11:27Z</description>
+      <pubDate>2026-10-31T05:14:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793423669</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-10-23T09:44:39Z | 最后更新: 2026-10-31T04:50:17Z</description>
+      <pubDate>2026-10-31T05:14:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1793423669</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: yogsec/Hacking-Tools</title>
       <link>https://github.com/yogsec/Hacking-Tools</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-10-23T09:44:39Z | 最后更新: 2026-10-30T14:45:58Z</description>
@@ -99790,6 +99825,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 22:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:14:29 GMT</lastBuildDate>
   </channel>
 </rss>
