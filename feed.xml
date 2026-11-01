@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-01T12:49:42Z | 最后更新: 2026-11-01T12:49:46Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-01T12:41:38Z | 最后更新: 2026-11-01T12:41:42Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-11-01T09:54:18Z | 最后更新: 2026-11-01T09:54:22Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-11-01T05:43:49Z | 最后更新: 2026-11-01T05:43:53Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Vulndisclosure/Sharp-GuardKill</title>
+      <link>https://github.com/Vulndisclosure/Sharp-GuardKill</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Disable Credential Guard in runtime without BYOVD and BSOD! | 最后推送: 2026-10-31T12:29:12Z | 最后更新: 2026-11-01T07:35:26Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Vulndisclosure/Sharp-GuardKill?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-10-31T06:34:16Z | 最后更新: 2026-11-01T12:57:51Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-10-27T00:39:57Z | 最后更新: 2026-11-01T09:57:39Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: redteamfortress/KillerLand</title>
+      <link>https://github.com/redteamfortress/KillerLand</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you. | 最后推送: 2026-10-18T05:49:37Z | 最后更新: 2026-11-01T10:14:09Z</description>
+      <pubDate>2026-11-01T13:06:29Z</pubDate>
+      <guid isPermaLink="true">https://github.com/redteamfortress/KillerLand?updated=1&amp;ts=1793538389</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: lukmannurhikma/UnknownKiller</title>
       <link>https://github.com/lukmannurhikma/UnknownKiller</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-10-14T07:12:55Z | 最后更新: 2026-10-14T07:12:59Z</description>
@@ -99972,6 +100028,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:06:29 GMT</lastBuildDate>
   </channel>
 </rss>
