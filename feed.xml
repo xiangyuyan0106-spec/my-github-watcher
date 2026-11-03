@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: qays3/Forensic-Sample-Blueprint</title>
+      <link>https://github.com/qays3/Forensic-Sample-Blueprint</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A library of attack samples for DFIR practice. Each sample is a real artifact made in an isolated lab: network captures, event logs, NTFS files, registry hives, memory images, disk images, cloud logs and more. Every sample comes with an answer key so you can check your findings. | 最后推送: 2026-11-03T23:06:50Z | 最后更新: 2026-11-03T23:06:54Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/qays3/Forensic-Sample-Blueprint?new=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: K1venn/RedCastleProcessKiller</title>
+      <link>https://github.com/K1venn/RedCastleProcessKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-03T18:30:40Z | 最后更新: 2026-11-03T18:30:45Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/K1venn/RedCastleProcessKiller?new=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Manyl123/XwormKiller</title>
+      <link>https://github.com/Manyl123/XwormKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Сканер закрепления, RAT-подобных угроз и хайджеков. 16 этапов, 3 прохода эвристики, карантин, realtime guard, служба LocalSystem. | 最后推送: 2026-11-03T16:22:34Z | 最后更新: 2026-11-03T16:41:24Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Manyl123/XwormKiller?new=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-03T22:58:46Z | 最后更新: 2026-11-03T22:58:51Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-03T22:39:01Z | 最后更新: 2026-11-03T22:39:07Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-03T17:43:04Z | 最后更新: 2026-11-03T17:43:09Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-03T20:02:09Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-11-03T14:00:03Z | 最后更新: 2026-11-03T14:00:07Z</description>
+      <pubDate>2026-11-03T23:10:02Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793747402</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
       <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-03T13:46:35Z | 最后更新: 2026-11-03T13:46:40Z</description>
@@ -100259,6 +100315,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:59:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:10:02 GMT</lastBuildDate>
   </channel>
 </rss>
