@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Hika-sec/Terminator</title>
+      <link>https://github.com/Hika-sec/Terminator</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows Ring0 process termination via BYOVD, abusing vulnerable signed drivers. Supports process discovery and kernel-level termination. Demonstrates driver abuse risks and EDR evasion, highlighting the need for driver blocklists, integrity checks, and kernel threat monitoring. | 最后推送: 2026-10-26T00:05:20Z | 最后更新: 2026-11-06T22:27:28Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Hika-sec/Terminator?new=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-07T05:39:44Z | 最后更新: 2026-11-07T05:39:51Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-07T05:01:44Z | 最后更新: 2026-11-07T05:01:49Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: github star 分类汇总 | 最后推送: 2026-11-07T04:08:05Z | 最后更新: 2026-11-07T04:08:09Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: RanaKhan77/awesome-cyber-security-heaven</title>
+      <link>https://github.com/RanaKhan77/awesome-cyber-security-heaven</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security. Free, open-source &amp; free-tier. License-verified. | 最后推送: 2026-11-06T23:41:14Z | 最后更新: 2026-11-06T23:41:18Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RanaKhan77/awesome-cyber-security-heaven?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-11-06T19:15:01Z | 最后更新: 2026-11-06T19:15:06Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-07T04:37:54Z</description>
+      <pubDate>2026-11-07T05:41:53Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794030113</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-06T19:13:45Z | 最后更新: 2026-11-06T19:13:54Z</description>
@@ -100637,6 +100686,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:41:53 GMT</lastBuildDate>
   </channel>
 </rss>
