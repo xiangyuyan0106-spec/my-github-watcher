@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-11-08T06:13:06Z | 最后更新: 2026-11-08T06:13:10Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?new=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-08T12:54:20Z | 最后更新: 2026-11-08T12:54:24Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-08T12:40:20Z | 最后更新: 2026-11-08T12:40:25Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-08T09:51:24Z | 最后更新: 2026-11-08T09:51:28Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-11-08T09:43:11Z | 最后更新: 2026-11-08T09:43:14Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-11-08T05:45:02Z | 最后更新: 2026-11-08T05:45:05Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-08T13:04:21Z</description>
+      <pubDate>2026-11-08T13:10:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794143433</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-08T05:39:26Z | 最后更新: 2026-11-08T05:39:33Z</description>
@@ -100819,6 +100868,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:10:33 GMT</lastBuildDate>
   </channel>
 </rss>
