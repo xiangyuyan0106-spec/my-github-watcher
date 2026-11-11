@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: qays3/Forensic-Sample-Blueprint</title>
+      <link>https://github.com/qays3/Forensic-Sample-Blueprint</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A library of attack samples for DF practice. Each sample is a real artifact made in an isolated lab: network captures, event logs, NTFS files, registry hives, memory images, disk images and more. Every sample comes with an answer key so you can check your findings. | 最后推送: 2026-11-11T05:32:05Z | 最后更新: 2026-11-11T05:32:09Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/qays3/Forensic-Sample-Blueprint?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-11T05:41:06Z | 最后更新: 2026-11-11T05:40:25Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: github star 分类汇总 | 最后推送: 2026-11-11T04:10:11Z | 最后更新: 2026-11-11T05:10:15Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: cospine/EDR-EvadeBench</title>
+      <link>https://github.com/cospine/EDR-EvadeBench</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A Comprehensive Framework for Evaluating EDR Evasion Techniques and Defenses | 最后推送: 2026-11-11T01:59:03Z | 最后更新: 2026-11-11T02:59:07Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/cospine/EDR-EvadeBench?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-11-10T23:07:05Z | 最后更新: 2026-11-10T23:07:09Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-11T05:07:20Z | 最后更新: 2026-11-10T23:56:07Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-11T04:08:27Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: I3r1h0n/Sigurd</title>
+      <link>https://github.com/I3r1h0n/Sigurd</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A BYOVD technique abuse tool | 最后推送: 2026-11-01T14:41:34Z | 最后更新: 2026-11-11T00:30:04Z</description>
+      <pubDate>2026-11-11T05:51:05Z</pubDate>
+      <guid isPermaLink="true">https://github.com/I3r1h0n/Sigurd?updated=1&amp;ts=1794376265</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-10T22:39:45Z | 最后更新: 2026-11-10T22:17:07Z</description>
@@ -101127,6 +101183,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:51:05 GMT</lastBuildDate>
   </channel>
 </rss>
