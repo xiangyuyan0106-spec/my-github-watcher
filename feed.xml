@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: wesmar/kvc</title>
+      <link>https://github.com/wesmar/kvc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-11-13T16:47:14Z | 最后更新: 2026-11-13T05:08:07Z</description>
+      <pubDate>2026-11-13T19:30:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvc?new=1&amp;ts=1794598252</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-13T19:13:46Z | 最后更新: 2026-11-13T17:49:06Z</description>
+      <pubDate>2026-11-13T19:30:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794598252</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-13T16:47:57Z</description>
+      <pubDate>2026-11-13T19:30:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794598252</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DeathShotXD/0xM0nCrush</title>
+      <link>https://github.com/DeathShotXD/0xM0nCrush</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. | 最后推送: 2026-10-27T00:39:57Z | 最后更新: 2026-11-13T12:59:24Z</description>
+      <pubDate>2026-11-13T19:30:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DeathShotXD/0xM0nCrush?updated=1&amp;ts=1794598252</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
       <link>https://github.com/yogsec/Hacking-Tools</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-13T04:27:34Z</description>
@@ -101344,6 +101372,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:30:53 GMT</lastBuildDate>
   </channel>
 </rss>
