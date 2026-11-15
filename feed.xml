@@ -4,6 +4,34 @@
     <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-15T05:40:39Z | 最后更新: 2026-11-15T03:13:18Z</description>
+      <pubDate>2026-11-15T06:02:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794722527</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wesmar/kvc</title>
+      <link>https://github.com/wesmar/kvc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-11-14T10:13:38Z | 最后更新: 2026-11-14T23:14:53Z</description>
+      <pubDate>2026-11-15T06:02:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/kvc?updated=1&amp;ts=1794722527</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-11-11T12:35:55Z | 最后更新: 2026-11-15T02:02:21Z</description>
+      <pubDate>2026-11-15T06:02:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?updated=1&amp;ts=1794722527</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-03T15:39:51Z | 最后更新: 2026-11-15T03:24:10Z</description>
+      <pubDate>2026-11-15T06:02:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794722527</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-14T22:13:44Z | 最后更新: 2026-11-14T19:05:29Z</description>
       <pubDate>2026-11-14T22:14:57Z</pubDate>
       <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794694497</guid>
@@ -101421,6 +101449,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:02:07 GMT</lastBuildDate>
   </channel>
 </rss>
