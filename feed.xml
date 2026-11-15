@@ -2,6 +2,34 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: tkmru/awesome-edr-bypass</title>
+      <link>https://github.com/tkmru/awesome-edr-bypass</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Awesome EDR Bypass Resources For Ethical Hacking | 最后推送: 2026-11-15T14:27:43Z | 最后更新: 2026-11-14T23:05:04Z</description>
+      <pubDate>2026-11-15T18:44:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tkmru/awesome-edr-bypass?new=1&amp;ts=1794768267</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-15T18:44:16Z | 最后更新: 2026-11-15T06:35:41Z</description>
+      <pubDate>2026-11-15T18:44:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794768267</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-11-15T10:05:18Z | 最后更新: 2026-11-15T09:26:55Z</description>
+      <pubDate>2026-11-15T18:44:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?updated=1&amp;ts=1794768267</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-14T18:39:41Z | 最后更新: 2026-11-15T16:02:01Z</description>
+      <pubDate>2026-11-15T18:44:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1794768267</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-15T05:40:39Z | 最后更新: 2026-11-15T03:13:18Z</description>
@@ -101449,6 +101477,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:44:27 GMT</lastBuildDate>
   </channel>
 </rss>
