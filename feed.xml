@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: 0xGunrunner/bangluong-APT</title>
+      <link>https://github.com/0xGunrunner/bangluong-APT</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: bangluong malware iocs, yara, and check.ps1 script | 最后推送: 2026-11-17T06:17:09Z | 最后更新: 2026-11-17T06:17:13Z</description>
+      <pubDate>2026-11-17T07:40:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0xGunrunner/bangluong-APT?new=1&amp;ts=1794901206</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-17T07:17:11Z | 最后更新: 2026-11-17T05:40:57Z</description>
+      <pubDate>2026-11-17T07:40:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794901206</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of 900+ penetration testing and ethical hacking tools. | 最后推送: 2026-11-17T04:56:49Z | 最后更新: 2026-11-17T01:08:10Z</description>
+      <pubDate>2026-11-17T07:40:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1794901206</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: tkmru/awesome-edr-bypass</title>
+      <link>https://github.com/tkmru/awesome-edr-bypass</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome EDR Bypass Resources For Ethical Hacking | 最后推送: 2026-11-15T14:27:43Z | 最后更新: 2026-11-17T02:27:39Z</description>
+      <pubDate>2026-11-17T07:40:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/tkmru/awesome-edr-bypass?updated=1&amp;ts=1794901206</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: I3r1h0n/Sigurd</title>
+      <link>https://github.com/I3r1h0n/Sigurd</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A BYOVD technique abuse tool | 最后推送: 2026-11-01T14:41:34Z | 最后更新: 2026-11-17T04:19:23Z</description>
+      <pubDate>2026-11-17T07:40:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/I3r1h0n/Sigurd?updated=1&amp;ts=1794901206</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
       <link>https://github.com/gmh5225/awesome-game-security</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-16T21:44:23Z | 最后更新: 2026-11-16T13:00:40Z</description>
@@ -101526,6 +101561,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:40:06 GMT</lastBuildDate>
   </channel>
 </rss>
