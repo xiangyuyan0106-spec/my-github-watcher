@@ -1,10 +1,11 @@
 https://github.com/gmh5225/awesome-game-security
+https://github.com/J1ezds/some-star
+https://github.com/The-Sword-of-Constantine/UsingBYOVD
+https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/FzRsLLaSheR/TheWatcher
 https://github.com/enhansome/enhansome-game-security
 https://github.com/RanaKhan77/awesome-cyber-security-heaven
 https://github.com/didntchooseaname/loldrivers-database
-https://github.com/xiangyuyan0106-spec/my-github-watcher
-https://github.com/FzRsLLaSheR/TheWatcher
-https://github.com/J1ezds/some-star
 https://github.com/JoasASantos/Awesome-Red-Team-Operations
 https://github.com/killvxk/gitweekly
 https://github.com/GermanAizek/PDFWKRNL
@@ -17,7 +18,6 @@ https://github.com/0xGunrunner/bangluong-APT
 https://github.com/tkmru/awesome-edr-bypass
 https://github.com/wesmar/kvc
 https://github.com/luckystars0612/skills
-https://github.com/The-Sword-of-Constantine/UsingBYOVD
 https://github.com/qays3/Forensic-Sample-Blueprint
 https://github.com/cospine/EDR-EvadeBench
 https://github.com/delaccont-sketch/Axis-core
